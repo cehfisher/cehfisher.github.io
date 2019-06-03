@@ -7,9 +7,14 @@
 
     /* Colours */
     --color-primary: #3eb0ef;
-    --color-base: #131313;
+    --color-base: #555555;
+    --color-dark-base: #131313;
     --color-border: #ddd;
     --color-bg: #f8f8f8;
+    --color-aqua: #2CFFFE;
+    --color-sun: #FFBC42;
+    --color-grape: #8323FA;
+    --color-hot-pink: #EA3BCB;
 
     /* Fonts */
     --font-sans-serif: 'Muli', sans-serif;

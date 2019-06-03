@@ -1,25 +1,15 @@
+/* eslint-disable */
 import React from "react"
 import { Link } from "gatsby"
 
 class Layout extends React.Component {
   render() {
     const { title, children } = this.props
+    const rootPath = `${__PATH_PREFIX__}/`
     return (
       <div className="site-wrapper">
         <header className="site-head">
           <div className="site-head-container">
-            <Link className="nav-burger" to={`/`}>
-              <div
-                className="hamburger hamburger--collapse"
-                aria-label="Menu"
-                role="button"
-                aria-controls="navigation"
-              >
-                <div className="hamburger-box">
-                  <div className="hamburger-inner" />
-                </div>
-              </div>
-            </Link>
             <nav id="swup" class="site-head-left">
               <ul className="nav" role="menu">
                 <li className="nav-home nav-current" role="menuitem">
@@ -28,8 +18,11 @@ class Layout extends React.Component {
                 <li className="nav-about" role="menuitem">
                   <Link to={`/about`}>About</Link>
                 </li>
-                <li className="nav-elements" role="menuitem">
-                  <Link to={`/elements`}>Elements</Link>
+                <li className="nav-speak" role="menuitem">
+                  <Link to={`/speak`}>Speak</Link>
+                </li>
+                <li className="nav-write" role="menuitem">
+                  <Link to={`/write`}>Write</Link>
                 </li>
               </ul>
             </nav>
@@ -41,48 +34,48 @@ class Layout extends React.Component {
             <div className="site-head-right">
               <div className="social-links">
                 <a
-                  href="https://www.facebook.com"
-                  title="Facebook"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Facebook
-                </a>
-                <a
-                  href="https://twitter.com"
+                  href="https://twitter.com/cariefisher"
                   title="Twitter"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Twitter
                 </a>
-                <Link
-                  to={`/rss.xml`}
-                  title="RSS"
+                <a
+                  href="https://www.linkedin.com/in/cariefisher"
+                  title="LinkedIn"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  RSS
-                </Link>
+                  LinkedIn
+                </a>
+                <a
+                  href="https://noti.st/cariefisher"
+                  title="Noti.st"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Noti.st
+                </a>
+                <a
+                  href="https://www.github.com/cehfisher"
+                  title="GitHub"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
               </div>
             </div>
           </div>
         </header>
         <main id="site-main" className="site-main">
-          <div id="swup" className="transition-fade">
+          <div id="swup2" className="transition-fade">
             {children}
           </div>
         </main>
         <footer className="site-foot">
-          &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>{" "}
-          &mdash; Built with{" "}
-          <a
-            href="https://gatsbyjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Gatsby
-          </a>
+          &copy; {new Date().getFullYear()} {title}{" "}
         </footer>
       </div>
     )
