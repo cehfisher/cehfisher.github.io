@@ -274,7 +274,19 @@ body {
   padding: 12px 12px 12px 0;
 }
 
+
 @media (max-width: 850px) {
+  .site-head-left,
+  .site-head-right {
+    max-width: 33%;
+  }
+
+  .site-head-left .nav,
+  .site-head-right .social-links {
+    display: block;
+    margin: 0 auto;
+  }
+/*
   .site-head {
     padding: 0;
   }
@@ -385,6 +397,7 @@ body {
     transition: transform 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
     transform: translateY(-4vw);
   }
+*/
 }
 
 /* Post Feed
