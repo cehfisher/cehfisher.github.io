@@ -1,0 +1,70 @@
+<svg version="1.1" id="speak-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
+        <title>speak Carie</title><style>
+.cls-1{stroke:#FFBC42;}
+#speak-svg {
+  stroke-linecap: round;
+  padding: 0.25rem;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  -webkit-animation: dash 5s linear forwards;
+  animation: dash 5s linear forwards;
+  overflow: visible;
+  font-size: 100px;
+  height: 0;
+  margin: 10rem 0 5rem;
+  transform: rotate(270deg);
+  left: -20rem;
+  top: 15rem;
+  position: relative;
+}
+
+#speak-svg-design {
+  cursor: pointer;
+  stroke-width: 3px;
+  stroke: #0077c8;
+}
+
+#speak-svg-design:hover {
+  -webkit-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+  stroke-width: 3px;
+  stroke: #003349;
+  fill: #FFBC42;
+}
+
+@-webkit-keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+    fill:transparent;
+  }
+  
+  to {
+    stroke-dashoffset: 0;
+    fill: #FFBC42;
+  }
+}
+
+@media (max-width: 850px) {
+  #speak-svg {
+    font-size: 50px;
+    height: 0;
+    margin: 5rem 0 2.5rem;
+    transform: rotate(0deg);
+    left: 0;
+    top: 0;
+  }
+  
+  #speak-svg-design {
+    stroke-width: 1px;
+  }
+  
+  #speak-svg-design:hover {
+    stroke-width: 1px;
+  }
+}
+</style>
+        <g id="speak-svg-design">
+        	<text class="cls-1">speak</text>
+        </g>
+      </svg>
