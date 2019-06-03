@@ -673,7 +673,7 @@ body {
 }
 
 .post-content-body hr:after {
-  content: "";
+  content: '';
   position: absolute;
   top: -17px;
   left: 50%;
