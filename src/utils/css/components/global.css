@@ -289,7 +289,7 @@ hr {
   padding: 0;
   height: 1px;
   border: 0;
-  border-top: 5px solid var(--color-sun);
+  border-top: 4px solid var(--color-sun);
 }
 
 audio,

@@ -679,7 +679,7 @@ body {
   left: 50%;
   display: block;
   margin-left: -10px;
-  width: 5px;
+  width: 4px;
   height: 30px;
   background: var(--color-grape);
   box-shadow: #fff 0 0 0 5px;
