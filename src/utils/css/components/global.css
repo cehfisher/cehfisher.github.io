@@ -362,7 +362,7 @@ main .post-content-body .kg-image-card a {
   background: transparent;
 }
 
-main .gatsby-image-wrapper {
+.kg-image {
   border: var(--color-hot-pink) 5px dotted;
 }
 
