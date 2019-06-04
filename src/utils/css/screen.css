@@ -525,7 +525,7 @@ body {
   max-width: 720px;
   margin: 0 auto;
   background: white;
-  padding: 4rem 7rem;
+  padding: 4rem 5rem;
   margin-top: 3rem;
 }
 
@@ -572,6 +572,10 @@ body {
 @media (max-width: 500px) {
   .post-content-body {
     font-size: 1.7rem;
+  }
+
+  .post-content {
+    padding: 3rem;
   }
 }
 
