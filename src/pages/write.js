@@ -22,36 +22,8 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body write">
           <Icon />
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu
-            turpis rutrum, malesuada massa in, aliquet metus. Aliquam faucibus
-            efficitur neque, nec blandit dui varius non. Phasellus neque nulla,
-            aliquet id cursus a, blandit sit amet purus. Fusce nisi nisl,
-            lacinia id dolor eleifend, dignissim aliquet nulla. Nullam
-            ullamcorper luctus blandit. Phasellus egestas lacus sit amet nulla
-            pulvinar, in tristique ante tempus. Aliquam erat volutpat. Nam
-            efficitur vel purus nec mollis. Curabitur eu malesuada leo. In et
-            nisl sit amet arcu lobortis ultricies a lobortis nulla. Duis ut nibh
-            ut dui molestie tempor in vitae urna. Mauris id metus vitae felis
-            convallis varius eu vitae leo. Maecenas et augue ullamcorper,
-            placerat metus in, eleifend elit. Aenean porta sem non lorem
-            imperdiet blandit. Pellentesque elit purus, imperdiet at erat eget,
-            sodales hendrerit massa. Fusce imperdiet metus arcu, non ultrices
-            sem rutrum nec. Sed vehicula nec ligula vel facilisis. In vitae
-            mattis tellus, sed faucibus nisl. Curabitur porttitor mauris at
-            ultrices vehicula. Etiam et nulla placerat, egestas mi nec, finibus
-            lorem. Nulla at felis nec nisl malesuada elementum ut ut nisl. Etiam
-            augue lacus, blandit sit amet auctor sed, aliquet eget risus. Duis
-            mi augue, vestibulum non turpis a, congue placerat enim. Sed non
-            convallis tortor. Nam semper pretium aliquam. Mauris augue sapien,
-            ullamcorper et bibendum ac, condimentum non nisl. Mauris finibus id
-            neque id hendrerit. Donec dictum pulvinar erat. Fusce aliquam urna
-            ut nunc rutrum viverra ut vitae ipsum. Suspendisse risus lectus,
-            aliquet at metus non, pretium efficitur tellus. Nulla erat lectus,
-            blandit in elit in, elementum eleifend enim. Quisque a eros sit amet
-            quam finibus aliquam. Nulla accumsan sit amet orci et eleifend.
-            Curabitur id fermentum sem, vitae efficitur dolor. Phasellus
-            pulvinar efficitur dolor, nec rhoncus lectus tempus ac.
-          </p>
+            I absolutely love to write! And I have been lucky enough to do so for these fine folks in the past: Code Like a Girl, Deque Systems, Hacker Noon, Statuscode, The Startup, Tuts+Plus, UX Planet, and others.</p><p>Past topics include: <ul><li>accessibility</li><li>Commodore 64s</li><li>Drosophila melanogaster genetics</li><li>front-end development</li><li>inclusive design</li><li>STEM technology</li><li>SVGs</li><li>tech business/culture</li><li>The Rock</li><li>turkeys trying to kill me</li><li>and more!</li></ul>
+          </p><p>Contact me via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a> if you'd like me to write for your publication or organzation.</p>
         </div>
       </article>
     </Layout>

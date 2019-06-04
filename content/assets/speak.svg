@@ -13,7 +13,7 @@
   height: 0;
   margin: 10rem 0 5rem;
   transform: rotate(270deg);
-  left: -20rem;
+  left: -20.4rem;
   top: 15rem;
   position: relative;
 }
