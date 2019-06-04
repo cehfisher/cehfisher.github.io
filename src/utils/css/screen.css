@@ -459,6 +459,7 @@ body {
 @media (max-width: 700px) {
   .post-card.with-image .post-card-content {
     opacity: 1;
+    border: none;
   }
 }
 
@@ -467,13 +468,13 @@ body {
 .post-card-link:active .post-card-content {
   opacity: 1;
   transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
+  border: 5px dotted var(--color-hot-pink);
 }
 
-.post-card-link:focus a::after,
-.post-card-link:active a::after {
-  border: 5px dotted var(--color-hot-pink);
+a:focus,
+a:active {
   outline-style: dotted;
-  outline-color: pink;
+  outline-color: var(--color-hot-pink);
   outline-width: 5px;
 }
 
