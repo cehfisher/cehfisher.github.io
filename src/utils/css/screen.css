@@ -462,9 +462,19 @@ body {
   }
 }
 
-.post-card-link:hover .post-card-content {
+.post-card-link:hover .post-card-content,
+.post-card-link:focus .post-card-content,
+.post-card-link:active .post-card-content {
   opacity: 1;
   transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
+}
+
+.post-card-link:focus a::after,
+.post-card-link:active a::after {
+  border: 5px dotted var(--color-hot-pink);
+  outline-style: dotted;
+  outline-color: pink;
+  outline-width: 5px;
 }
 
 .post-card-title {
@@ -616,6 +626,8 @@ body {
   margin: 0 0 1.5em;
   padding: 1.5em 2em;
   border: 3px dotted var(--color-hot-pink);
+  font-style: italic;
+  font-size: 1.7rem;
 }
 
 .post-content-body blockquote p {

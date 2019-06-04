@@ -5,7 +5,7 @@ thumbnail: ./a11y-start1.jpg
 description: Website accessibility is a buzzword these days, but not everyone has a firm grasp on what that term means. So what is website accessibility? Who is in need of accessible websites? And why should you as a website designer/developer/content creator even care?
 ---
 
-<em>Originally published by <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
+<em>Originally published on <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
 
 ##What is Website Accessibility?
 
@@ -13,8 +13,8 @@ Website accessibility is actively designing, developing, and creating content in
 
 I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank">Web Accessibility Initiative (WAIT) Group</a> because it puts the emphasis on the people (where it belongs):
 
-<blockquote><p>Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
-Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can.</p></blockquote>
+<blockquote>"Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
+Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can."</blockquote>
 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">

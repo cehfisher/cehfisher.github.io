@@ -125,10 +125,7 @@ html {
 a {
   background-color: transparent;
 }
-a:active,
-a:hover {
-  outline: 0;
-}
+
 b,
 strong {
   font-weight: bold;
@@ -210,9 +207,7 @@ input::-moz-focus-inner {
 input {
   line-height: normal;
 }
-input:focus {
-  outline: none;
-}
+
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -332,6 +327,7 @@ blockquote small:before {
 blockquote cite {
   font-weight: bold;
 }
+
 blockquote cite a {
   font-weight: normal;
 }
