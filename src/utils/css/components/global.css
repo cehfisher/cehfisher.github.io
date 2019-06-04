@@ -358,8 +358,8 @@ main .post-content-body a:hover {
   text-decoration: underline;
 }
 
-main .post-content-body .kg-image-card a {
-  background: transparent;
+.kg-image-card a {
+  background: transparent !important;
 }
 
 .kg-image {
