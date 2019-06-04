@@ -5,7 +5,7 @@ thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
 ---
 
-<em>Originally published on <a href="https://www.deque.com/blog/5-digital-accessibility-myths-busted" target="_blank">Medium</a> on Hackernoon</em>
+<em>Originally published by <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank">Hackernoon</a></em>
 
 ##In a Galaxy Far, Far Away
 

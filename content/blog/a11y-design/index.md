@@ -5,6 +5,8 @@ thumbnail: ./a11y-design1.jpg
 description: Before even one line of code is written, you can get a jump start on website accessibility by thinking about it during the wire-framing and design phases. Here are five essential design elements to consider when creating your next accessible website or app design.
 ---
 
+<em>Originally published by <a href="https://uxplanet.org/designing-for-all-5-ways-to-make-your-next-website-design-more-accessible-23a3528bc8dc" target="_blank">UX Planet</a></em>
+
 ## Refine Your UI/UX
 
 How your website is laid out (ie. user interface — UI) and how people actually interact with your website (ie. user experience — UX) are equally important factors when creating an accessible design. I will not get into the <a href="https://www.usertesting.com/blog/2016/04/27/ui-vs-ux/" target="_blank">differences of UI/UX</a> in this article, but suffice it to say, they both play an important role in creating an accessible website.

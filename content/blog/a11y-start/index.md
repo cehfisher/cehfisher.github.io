@@ -5,14 +5,16 @@ thumbnail: ./a11y-start1.jpg
 description: Website accessibility is a buzzword these days, but not everyone has a firm grasp on what that term means. So what is website accessibility? Who is in need of accessible websites? And why should you as a website designer/developer/content creator even care?
 ---
 
+<em>Originally published by <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
+
 ##What is Website Accessibility?
 
 Website accessibility is actively designing, developing, and creating content in such a way that it does not hinder any person from interacting with the website.
 
-I love this definition of website accessibility from the Web Accessibility Initiative (WAI) because it puts the emphasis on the people (where it belongs):
+I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank">Web Accessibility Initiative (WAIT) Group</a> because it puts the emphasis on the people (where it belongs):
 
-Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
-Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can.
+<blockquote><p>Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
+Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can.</p></blockquote>
 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
@@ -23,7 +25,7 @@ Website accessibility should not be just a box you check off when you deliver a 
 
 ##Who is Website Accessibility For?
 
-According to the US Census Bureau, 19% of the United States population identifies as having a disability, which is roughly 57 million people. If you consider a global audience, you are talking about 15% of the world’s population or one billion people according to World Health Organization (WHO). That is a huge number of people who could benefit from an accessible website right from the start, but keep in mind, the official numbers do not even include people that either do not identify as having a disability or those populations that could benefit from accessible websites, such as English as a second language (ESL) users and the aging population — so the number of people needing accessible websites in reality could be much higher.
+According to the US Census Bureau, <a href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" data-href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" target="_blank">19% of the United States population</a> identifies as having a disability, which is roughly 57 million people. If you consider a global audience, you are talking about <a href="http://www.who.int/disabilities/world_report/2011/report/en/" data-href="http://www.who.int/disabilities/world_report/2011/report/en/" target="_blank">15% of the world’s population or one billion people</a> according to World Health Organization (WHO). That is a huge number of people who could benefit from an accessible website right from the start, but keep in mind, the official numbers do not even include people that either do not identify as having a disability or those populations that could benefit from accessible websites, such as English as a second language (ESL) users and the aging population — so the number of people needing accessible websites in reality could be much higher.
 
 Even if you do not identify with any of those populations, there is also situational disability to consider. Situational disability is just what it sounds like, there are times where you are in a situation that would benefit from accessibility, such as captions for a video when you are not able to turn on the audio due to your surroundings.
 
@@ -39,19 +41,19 @@ So really, all people can benefit from accessible websites at one point or anoth
 ##Why Should I Care About Website Accessibility?
 
 ###Right Thing to Do
-It is important that your website is perceivable, operable, understandable, and robust (POUR) — all successful criteria for a user experience that provides optimal usability for everyone.
+It is important that your website is <a href="http://webaim.org/articles/pour/" data-href="http://webaim.org/articles/pour/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">perceivable, operable, understandable, and robust (POUR)</a> — all successful criteria for a user experience that provides optimal usability for everyone.
 
 Everyone should have full access to cat videos and ridiculous internet memes — as well as all the useful information.
 
 ###Smart Thing to Do
-When your website is accessible, it opens your site to a wider audience (over one billion people to start) and is good for SEO/search bots/Google rankings.
+When your website is accessible, it opens your site to a wider audience (over one billion people to start) and is <a href="https://moz.com/blog/global-accessibility-awareness-day" target="_blank">good for SEO/search bots/Google rankings</a>.
 
 The states of California and NY combined is around 57 million users, the same number as those in the US who identify as being disabled. Would you ever create a website that would exclude two states?
 
 ###Lawful Thing to Do
-In the US, public sector entities (government-funded programs/schools, airlines, and nonprofits) are required to follow certain website accessibility rules, while private sector companies just hope they will not get sued.
+In the US, public sector entities (government-funded programs/schools, airlines, and nonprofits) are required to follow certain website accessibility rules, while private sector companies just <a href="https://insight.cryptzone.com/accessibility/6-web-accessibility-takeaways-winn-dixie-accessibility-decision/" target="_blank">hope they will not get sued</a>.
 
-Earlier this year the Information and Communication Technology (ICT) passed a ruling to update the old 508 rules to be more inline with current WCAG 2.0 guidelines, meaning that website accessibility updates are required for most public websites — and it is just a matter of time before private websites will be as well.
+Earlier this year the Information and Communication Technology (ICT) passed a ruling to <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" target="_blank">update the old 508 rules</a> to be more inline with current WCAG 2.0 guidelines, meaning that website accessibility updates are required for most public websites — and it is just a matter of time before private websites will be as well.
 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
