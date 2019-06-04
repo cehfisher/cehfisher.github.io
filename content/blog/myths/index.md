@@ -1,8 +1,8 @@
 ---
 title: 5 Digital Accessibility Myths Busted
 date: "2018-11-01"
-thumbnail: ./myth.jpg
-description: Time for some myth busting!
+thumbnail: ./mythbusted.jpg
+description: Time to shatter some misconceptions!
 ---
 
 <em>Originally published on <a href="https://www.deque.com/blog/5-digital-accessibility-myths-busted" target="_blank">Deque Systems</a></em>
@@ -141,6 +141,14 @@ Manual testing can include:
 - Media review (ex. audio and/or text description for video)
 - Assistive technology device testing (ex. screen readers and beyond)
 - Real user testing!
+
+<hr>
+
+<div class="kg-card kg-image-card kg-width-medium">
+
+![myths](./myth.jpg)
+
+</div>
 
 ##Recap: Accessibility Myths Busted!
 Hopefully, I helped “bust” some of your myths around accessibility with this article. Together we can help spread the word that:
