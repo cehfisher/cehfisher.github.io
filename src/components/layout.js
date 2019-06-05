@@ -75,7 +75,7 @@ class Layout extends React.Component {
           </div>
         </main>
         <footer className="site-foot">
-          &copy; {new Date().getFullYear()} {title}{" "}
+          &copy; {new Date().getFullYear()} {title}{" "} - <Link to={`/accessibility`}>Accessibility Statement</Link>
         </footer>
       </div>
     )

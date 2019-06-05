@@ -1,0 +1,70 @@
+<svg version="1.1" id="write-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
+        <title>write Carie</title><style>
+.cls-1{stroke:#8323FA;}
+#write-svg {
+  stroke-linecap: round;
+  padding: 0.25rem;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  -webkit-animation: dash 5s linear forwards;
+  animation: dash 5s linear forwards;
+  overflow: visible;
+  font-size: 100px;
+  height: 0;
+  margin: 10rem 0 5rem;
+  transform: rotate(270deg);
+  left: -20.4rem;
+  top: 11rem;
+  position: relative;
+}
+
+#write-svg-design {
+  cursor: pointer;
+  stroke-width: 3px;
+  stroke: #0077c8;
+}
+
+#write-svg-design:hover {
+  -webkit-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+  stroke-width: 3px;
+  stroke: #003349;
+  fill: #8323FA;
+}
+
+@-webkit-keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+    fill:transparent;
+  }
+  
+  to {
+    stroke-dashoffset: 0;
+    fill: #8323FA;
+  }
+}
+
+@media (max-width: 850px) {
+  #write-svg {
+    font-size: 50px;
+    height: 0;
+    margin: 5rem 0 2.5rem;
+    transform: rotate(0deg);
+    left: 0;
+    top: 0;
+  }
+  
+  #write-svg-design {
+    stroke-width: 1px;
+  }
+  
+  #write-svg-design:hover {
+    stroke-width: 1px;
+  }
+}
+</style>
+  <g id="write-svg-design">
+  	<text class="cls-1">a11y</text>
+  </g>
+</svg>
