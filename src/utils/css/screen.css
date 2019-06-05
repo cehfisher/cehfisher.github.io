@@ -28,6 +28,7 @@ body {
   background: var(--color-bg);
   transition: background 0.3s ease-out;
   transition-delay: 0.25;
+  position: relative;
 }
 
 .img {
@@ -771,8 +772,9 @@ a:active {
   text-align: center;
 }
 
-.wave-wrapper {
+.wave {
   margin-left: -4%;
   width: 102%;
+  bottom: 0;
   position: absolute;
 }
