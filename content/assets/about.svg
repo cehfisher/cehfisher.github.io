@@ -1,5 +1,5 @@
 <svg version="1.1" id="about-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
-        <title>about Carie</title><style>
+        <title>About Carie</title><style>
 .cls-1{stroke:#EA3BCB;}
 #about-svg {
   stroke-linecap: round;
@@ -29,8 +29,7 @@
   -o-transition: 0.8s;
   transition: 0.8s;
   stroke-width: 3px;
-  stroke: #003349;
-  fill: #FFBC42;
+  fill: #3FFFFD;
 }
 
 @-webkit-keyframes dash {

@@ -591,13 +591,16 @@ a:active {
 
 .post-content-body.about,
 .post-content-body.speak,
-.post-content-body.write {
+.post-content-body.write,
+.post-content-body.accessibility {
   margin-top: -13rem;
 }
+
 @media (max-width: 850px) {
   .post-content-body.about,
   .post-content-body.speak,
-  .post-content-body.write {
+  .post-content-body.write,
+  .post-content-body.accessibility {
     margin-top: 0;
   }
 }
