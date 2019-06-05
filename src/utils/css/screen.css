@@ -63,8 +63,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 13vw 0;
-  max-width: 70%;
+  padding: 1vw 0 3vw;
+  max-width: 90%;
   margin: auto;
   text-align: center;
 }
@@ -769,4 +769,10 @@ a:active {
 .page-template .post-content-body h2,
 .page-template .post-content-body h3 {
   text-align: center;
+}
+
+.wave-wrapper {
+  margin-left: -4%;
+  width: 102%;
+  position: absolute;
 }

@@ -1,6 +1,7 @@
 /* eslint-disable */
 import React from "react"
 import { Link } from "gatsby"
+import Icon from "../../content/assets/wave.svg";
 
 class Layout extends React.Component {
   render() {
@@ -26,11 +27,6 @@ class Layout extends React.Component {
                 </li>
               </ul>
             </nav>
-            <div className="site-head-center">
-              <Link className="site-head-logo" to={`/`}>
-                {title}
-              </Link>
-            </div>
             <div className="site-head-right">
               <div className="social-links">
                 <a
@@ -77,6 +73,9 @@ class Layout extends React.Component {
         <footer className="site-foot">
           &copy; {new Date().getFullYear()} {title}{" "} - <Link to={`/accessibility`}>Accessibility Statement</Link>
         </footer>
+      <div class="wave-wrapper">
+        <Icon />
+      </div>
       </div>
     )
   }

@@ -4,6 +4,7 @@ import { graphql, StaticQuery } from "gatsby";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import PostCard from "../components/postCard";
+import Icon from "../../content/assets/carie.svg";
 
 import "../utils/css/components/global.css";
 import "../utils/normalize.css";
@@ -24,9 +25,7 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h1 class="hidden">Carie Fisher's portfolio website</h1>
-          <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h2>
+          <Icon />
         </header>
       )}
       <div className="post-feed">
