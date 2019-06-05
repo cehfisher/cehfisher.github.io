@@ -24,7 +24,7 @@ const AboutPage = ({ data }, location) => {
           <h1 class="hidden">Writing</h1>
           <p>
             I absolutely love to write! And I have been lucky enough to do so for these fine folks in the past: Code Like a Girl, Deque Systems, Envato Tuts+, Hacker Noon, Mission.org, Statuscode, The Startup, UX Planet, and others.</p><p>Past topics include: <ul><li>accessibility</li><li>Commodore 64s</li><li>fruit fly genetics</li><li>front-end development</li><li>inclusive design</li><li>STEM technology</li><li>SVGs</li><li>tech business/culture</li><li>The Rock</li><li>turkeys trying to kill me</li><li>and more!</li></ul>
-          </p><p>Contact me via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a> if you'd like me to write for your publication or organzation.</p>
+          </p><p>Contact me via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a> if you'd like me to write for your publication or organization.</p>
         </div>
       </article>
     </Layout>
