@@ -1,14 +1,11 @@
 <svg viewBox="0 0 200 100">
   <defs>
     <linearGradient id="rainbow" x1="0" x2="0" y1="0" y2="100%" gradientUnits="userSpaceOnUse" >
-      <stop stop-color="#8323FA" offset="0%"/>
-      <stop stop-color="#EA3BCB" offset="20%"/>
-      <stop stop-color="#EA3BCB" offset="40%"/>
-      <stop stop-color="#8323FA" offset="60%"/>
-      <stop stop-color="#2CFFFE" offset="80%"/>
-      <stop stop-color="#8323FA" offset="100%"/> 
+      <stop stop-color="#EA3BCB" offset="30%"/>
+      <stop stop-color="#FFBC42" offset="60%"/>
+      <stop stop-color="#2CFFFE" offset="90%"/> 
     </linearGradient>
   </defs>
-  <text fill="url(#rainbow)"><tspan font-size="30" x="0" y="65">hello!</tspan>
-  <tspan font-size="18" x="0" dy="15">I'm Carie</tspan></text>
+  <text fill="url(#rainbow)"><tspan font-size="45" x="0" y="65">hello!</tspan>
+  <tspan font-size="26" x="1" dy="22">I'm Carie</tspan></text>
 </svg>
