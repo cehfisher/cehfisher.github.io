@@ -589,6 +589,7 @@ a:active {
   }
 }
 
+.post-content-body.missing,
 .post-content-body.about,
 .post-content-body.speak,
 .post-content-body.write,
@@ -597,6 +598,7 @@ a:active {
 }
 
 @media (max-width: 850px) {
+  .post-content-body.missing,
   .post-content-body.about,
   .post-content-body.speak,
   .post-content-body.write,

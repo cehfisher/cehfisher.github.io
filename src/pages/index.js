@@ -23,6 +23,7 @@ const BlogIndex = ({ data }, location) => {
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
+          <h1 class="hidden">Carie Fisher's portfolio website</h1>
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>

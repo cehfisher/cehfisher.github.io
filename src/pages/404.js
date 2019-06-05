@@ -1,8 +1,13 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import Icon from "../../content/assets/missing.svg";
+
+import "../utils/css/components/global.css";
+import "../utils/normalize.css";
+import "../utils/css/screen.css";
 
 class NotFoundPage extends React.Component {
   render() {
@@ -12,9 +17,16 @@ class NotFoundPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="404: Not Found" />
-        <h1>Not Found</h1>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-      </Layout>
+        <article className="post-content page-template no-image">
+        <div className="post-content-body missing">
+          <Icon />
+          <h1 class="hidden">Missing page</h1>
+          <p>
+            You found a flaw in the system. Please report this miscreant to me immediately via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a>. Thanks!</p><p>
+            <blockquote>“If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?” – Albert Einstein</blockquote></p>
+        </div>
+      </article>
+    </Layout>
     )
   }
 }

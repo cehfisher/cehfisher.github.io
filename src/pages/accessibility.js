@@ -15,13 +15,14 @@ const AboutPage = ({ data }, location) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
-        title="About me"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        title="Accessibility Statement"
+        keywords={[`blog`, `gatsby`, `javascript`, `accessibility`]}
       />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body accessibility">
           <Icon />
+          <h1 class="hidden">Accessibility Statement</h1>
           <p>
             I am committed to making this website as accessible as possible. I am adhering to <a href="https://www.w3.org/TR/WCAG21/" rel="noopener noreferrer" target="_blank">WCAG 2.1 AA</a> guidelines and using keyboard, mouse, touch, and screen readers tests for all my pages. However, I am a human and occassionally make mistakes or miss things. If you see something that is inaccessible, please contact me via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a>. Thanks much!
           </p>
