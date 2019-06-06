@@ -53,7 +53,7 @@ body {
   padding: 3vw;
   min-height: 100vh;
 }
-@media (max-width: 850px) {
+@media (max-width: 800px) {
   .site-wrapper {
     padding: 6vw;
   }
@@ -64,10 +64,15 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 1vw 0 3vw;
+  padding: 4% 0 2%;
   max-width: 90%;
   margin: auto;
   text-align: center;
+}
+@media (max-width: 700px) {
+  .page-head {
+    margin: 5% 0 1% 18%;
+  }
 }
 
 .error-head {
@@ -143,6 +148,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  float: right;
+}
+@media (max-width: 700px) {
+  .site-head-container {
+    float: unset;
+  }
 }
 
 .site-head-left {
@@ -155,10 +166,14 @@ body {
 }
 
 .nav {
-  display: flex;
-  margin: 0 0 0 -12px;
+  margin: 0;
   padding: 0;
   list-style: none;
+}
+@media (max-width: 700px) {
+  .nav {
+    display: flex;
+  }
 }
 
 .site-head li {
@@ -174,6 +189,7 @@ body {
   padding: 10px 12px;
   color: var(--color-base);
   font-weight: 600;
+  font-size: 2.5rem;
 }
 
 [aria-current="page"],
@@ -227,6 +243,12 @@ body {
   display: flex;
   align-items: center;
 }
+@media (max-width: 800px) {
+  .site-head-right {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
 
 .social-links {
   flex-shrink: 0;
@@ -276,12 +298,7 @@ body {
 }
 
 
-@media (max-width: 850px) {
-  .site-head-left,
-  .site-head-right {
-    max-width: 33%;
-  }
-
+@media (max-width: 800px) {
   .site-head-left .nav,
   .site-head-right .social-links {
     display: block;
@@ -406,8 +423,8 @@ body {
 
 .post-feed {
   display: flex;
-  align-items: ;
-  flex-wrap: wrap;
+  flex-wrap: wrap;  
+  clear: both;
 }
 
 .post-card {
@@ -772,9 +789,32 @@ a:active {
   text-align: center;
 }
 
-.wave {
-  margin-left: -4%;
-  width: 102%;
-  bottom: 0;
-  position: absolute;
+/* Icon colors */
+#home-svg {
+  fill: var(--color-grass);
+}
+
+#home-door-svg {
+  fill: var(--color-primary);
+}
+
+.nav-about svg {
+  fill: var(--color-sun);
+}
+
+#mic-svg {
+  fill: var(--color-grape);
+}
+
+.nav-write svg {
+  fill: var(--color-orange);
+}
+
+#pen-line-svg,
+#pen-circle-svg {
+  fill: var(--color-sun);
+}
+
+.nav-accessibility svg {
+  fill: var(--color-hot-pink);
 }
