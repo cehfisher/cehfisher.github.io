@@ -26,19 +26,19 @@ class Layout extends React.Component {
               <nav id="swup">
                 <ul className="nav" role="menu">
                   <li className="nav-home" role="menuitem">
-                    <Link to={`/`}><Icon1 /><span class="hidden">Home</span></Link>
+                    <Link to={`/`} aria-label="Home"><Icon1 /><span class="hidden">Home</span></Link>
                   </li>
                   <li className="nav-about" role="menuitem">
-                    <Link to={`/about`}><FiSmile /><span class="hidden">About</span></Link>
+                    <Link to={`/about`} aria-label="About"><FiSmile /><span class="hidden">About</span></Link>
                   </li>
                   <li className="nav-speak" role="menuitem">
-                    <Link to={`/speak`}><Icon2 /><span class="hidden">Speak</span></Link>
+                    <Link to={`/speak`} aria-label="Speak"><Icon2 /><span class="hidden">Speak</span></Link>
                   </li>
                   <li className="nav-write" role="menuitem">
-                    <Link to={`/write`}><Icon3 /><span class="hidden">Write</span></Link>
+                    <Link to={`/write`} aria-label="Write"><Icon3 /><span class="hidden">Write</span></Link>
                   </li>
                   <li className="nav-accessibility" role="menuitem">
-                    <Link to={`/accessibility`}><FiHeart /><span class="hidden">Accessibility</span></Link>
+                    <Link to={`/accessibility`} aria-label="Accessibility"><FiHeart /><span class="hidden">Accessibility</span></Link>
                   </li>
                 </ul>
               </nav>
@@ -51,7 +51,7 @@ class Layout extends React.Component {
           </div>
         </main>
         <footer className="site-foot">
-          <ul className="nav" role="menu">
+          <ul className="nav">
             <li className="social-twitter"><a
               href="https://twitter.com/cariefisher"
               title="Twitter"

@@ -800,7 +800,7 @@ a:active {
 }
 
 #home-door-svg {
-  fill: var(--color-primary);
+  fill: var(--color-grape);
 }
 
 .nav-about svg {
@@ -808,11 +808,11 @@ a:active {
 }
 
 #mic-svg {
-  fill: var(--color-grape);
+  fill: var(--color-orange);
 }
 
 .nav-write svg {
-  fill: var(--color-orange);
+  fill: var(--color-hot-pink);
 }
 
 #pen-line-svg,
@@ -821,7 +821,7 @@ a:active {
 }
 
 .nav-accessibility svg {
-  fill: var(--color-hot-pink);
+  fill: var(--color-grape);
 }
 
 .social-twitter svg {
