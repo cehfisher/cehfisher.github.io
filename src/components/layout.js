@@ -52,7 +52,7 @@ class Layout extends React.Component {
         </main>
         <footer className="site-foot">
           <ul className="nav" role="menu">
-            <li><a
+            <li className="social-twitter"><a
               href="https://twitter.com/cariefisher"
               title="Twitter"
               target="_blank"
@@ -60,7 +60,7 @@ class Layout extends React.Component {
             >
               <FiTwitter /><span class="hidden">Twitter</span>
             </a></li>
-            <li><a
+            <li className="social-linkedin"><a
               href="https://www.linkedin.com/in/cariefisher"
               title="LinkedIn"
               target="_blank"
@@ -68,7 +68,7 @@ class Layout extends React.Component {
             >
               <FiLinkedin /><span class="hidden">LinkedIn</span>
             </a></li>
-            <li><a
+            <li className="social-notist"><a
               href="https://noti.st/cariefisher"
               title="Noti.st"
               target="_blank"
@@ -76,7 +76,7 @@ class Layout extends React.Component {
             >
               <FiStar /><span class="hidden">Notist</span>
             </a></li>
-            <li><a
+            <li className="social-github"><a
               href="https://www.github.com/cehfisher"
               title="GitHub"
               target="_blank"
