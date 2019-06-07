@@ -15,7 +15,7 @@ ARIA was first developed in 2008 by the <a href="https://www.w3.org/WAI" target=
 
 The WAI group defines ARIA as:
 
-<blockquote>“A way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies.”</blockquote>
+<blockquote>A way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies.</blockquote>
 
 Put more simply, ARIA defines a collection of attributes to help modify incorrect markup and to bridge gaps in HTML to create more accessible experience those using assistive technology (AT). Correctly incorporating ARIA into your code ensures that assistive technology device users will have all of the information they need to use your website or app.
 
@@ -55,7 +55,7 @@ In cases where the browser supports an HTML tag with an implicit role that has a
 
 To keep it simple for beginners, at Deque trainings we repeat the <a href="https://www.w3.org/TR/using-aria/#rule1" target="_blank">first rule of ARIA</a> created by the W3C:
 
-<blockquote>“If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of repurposing an element and adding an ARIA role, state or property to make it accessible, then do so.”</blockquote>
+<blockquote>If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of repurposing an element and adding an ARIA role, state or property to make it accessible, then do so.</blockquote>
 
 So if we look back at the earlier coding example, instead of using ARIA to define the role of our button element, we can use the HTML <code><span class="s2">&lt;button&gt;</span></code> element instead.
 

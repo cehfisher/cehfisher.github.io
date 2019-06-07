@@ -201,10 +201,11 @@ body {
 
 [aria-current="page"],
 .site-head a:hover,
-.site-head-left [aria-current="page"] {
+.site-head-left [aria-current="page"],
+.site-foot a:hover {
   text-decoration: underline;
   color: var(--color-dark-base);
-  background: var(--color-aqua);
+  background: var(--color-sun);
 }
 
 [aria-current="page"].site-head-logo {
@@ -654,10 +655,31 @@ a:active {
 
 .post-content-body blockquote {
   margin: 0 0 1.5em;
-  padding: 1.5em 2em;
-  border: 3px dotted var(--color-hot-pink);
+  padding: 1em 3em;
+  border: none;
   font-style: italic;
   font-size: 1.7rem;
+}
+
+.post-content-body blockquote::before {
+  content: '\201c';
+  color: color(var(--color-grass));
+  font-size: 12rem;
+  font-family: var(--font-fancy);
+  position: absolute;
+  margin-left: -75px;
+  margin-top: 22px;
+}
+
+
+.post-content-body blockquote::after {
+  content: '\201d';
+  color: color(var(--color-grass));
+  font-size: 12rem;
+  font-family: var(--font-fancy);
+  position: absolute;
+  margin-right: -75px;
+  margin-bottom: 22px;
 }
 
 .post-content-body blockquote p {

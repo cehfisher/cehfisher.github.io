@@ -344,10 +344,11 @@ a:hover {
 }
 
 main .post-content-body a {
-  color: color(var(--color-dark-base));
+  color: color(var(--color-white));
   text-decoration: none;
   transition: 0.4s ease;
-  background: #2cfffe;
+  background: var(--color-grape);
+  padding: 0 0.6rem 0.3rem;
 }
 
 main .post-content-body a:hover {
@@ -359,7 +360,7 @@ main .post-content-body a:hover {
 }
 
 .kg-image {
-  border: var(--color-hot-pink) 5px dotted;
+  border: var(--color-grass) 5px dotted;
 }
 
 h1,
