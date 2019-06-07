@@ -68,6 +68,7 @@ body {
   max-width: 90%;
   margin: auto;
   text-align: center;
+  margin-right: 30%;
 }
 @media (max-width: 900px) {
   .page-head {
@@ -124,10 +125,12 @@ body {
 }
 
 .site-foot {
-  margin: 3vw 0 1vw;
+  margin: 3vw 0 8vw;
   text-align: center;
-  color: var(--color-base);
+  color: var(--color-dark-base);
   font-size: 1.4rem;
+  z-index: 4;
+  position: relative;
 }
 
 .site-foot a {
@@ -183,7 +186,6 @@ body {
 .site-head li {
   display: block;
   margin: 0;
-  padding: 0;
   background: var(--color-bg);
 }
 
@@ -479,7 +481,7 @@ body {
 .post-card.with-image .post-card-content {
   opacity: 0;
 }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .post-card.with-image .post-card-content {
     opacity: 1;
     border: none;
@@ -504,7 +506,6 @@ a:active {
 .post-card-title {
   margin: 0;
   display: inline-block;
-  font-size: 3.4rem;
   max-width: 70%;
   text-align: center;
   transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
@@ -570,7 +571,7 @@ a:active {
 }
 
 .post-content-title {
-  margin: 0 0 3vw;
+  margin: 1vw 0 3vw;
   color: var(--color-base);
   text-align: center;
 }
@@ -838,4 +839,12 @@ a:active {
 
 .social-github svg {
   fill: var(--color-sun);
+}
+
+#background-svg {
+  position: absolute;
+  bottom: 0;
+  width: 125%;
+  margin-left: -14%;
+  z-index: 0;
 }

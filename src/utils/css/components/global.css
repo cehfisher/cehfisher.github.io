@@ -376,10 +376,10 @@ h6 {
 
 h1 {
   margin: 0 0 0.5em 0;
-  font-size: 5.7rem;
+  font-size: 5rem;
   font-weight: 800;
 }
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   h1 {
     font-size: 2.7rem;
   }
@@ -387,19 +387,25 @@ h1 {
 
 h2 {
   margin: 1.5em 0 0.5em 0;
-  font-size: 4rem;
+  font-size: 3.4rem;
+}
+@media (max-width: 700px) {
+  h2 {
+    font-size: 3rem;
+  }
 }
 @media (max-width: 500px) {
   h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
+
 
 h3 {
   margin: 1.5em 0 1em 0;
   font-size: 3.2rem;
 }
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   h3 {
     font-size: 1.8rem;
   }

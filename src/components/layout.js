@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Icon1 from "../../content/assets/home.svg";
 import Icon2 from "../../content/assets/mic.svg";
 import Icon3 from "../../content/assets/pen.svg";
+import IconBG from "../../content/assets/background.svg";
 import { FiHome } from 'react-icons/fi';
 import { FiTwitter } from 'react-icons/fi';
 import { FiLinkedin } from 'react-icons/fi';
@@ -87,6 +88,7 @@ class Layout extends React.Component {
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>
         </footer>
+        <IconBG />
       </div>
     )
   }
