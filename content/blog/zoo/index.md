@@ -1,12 +1,13 @@
 ---
 title: What I Would Do If I Ran the Zoo
-date: "2017-11-27"
-thumbnail: ./zoo.jpg
+date: "2017-10-31"
+thumbnail: ./zooz.jpg
 description: Creating Positive Company Culture in Tech
 ---
 
 <em>Originally published on The Startup</em>
 
+##Who Runs the Zoo?
 I cried when I quit my last job, mainly out of frustration. It was not a pretty sight and I am a bit embarrassed to admit it out loud. Most of my clients, projects, and co-workers were amazing, but somewhere along the way my professional aspirations deviated from those of my company. It was the first time I had ever quit a job where I did not already have another job officially lined up, but I had gotten to a point where I had given so much and gotten so little in return. I felt I had no choice but to quit, if I wanted to keep some semblance of myself intact. Sadly, I think we have all been there.</span></p><p class="c24"><span class="c10">The funny thing is, I had not realized how unhappy I was until one night — months before I quit — when I was reading bedtime books to my kids. We were on a </span><span class="c0"><a class="c9" href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/Dr._Seuss&amp;sa=D&amp;ust=1559962373420000">Dr. Seuss</a></span><span class="c10">&nbsp;kick that month. We had read </span><span class="c10 c5">Green Eggs and Ham</span><span class="c10">, </span><span class="c10 c5">Fox in Socks</span><span class="c10">, </span><span class="c10 c5">The Lorax</span><span class="c10">&nbsp;and many other Dr. Seuss classics, but it was the book </span><span class="c10 c5">If I Ran the Zoo</span><span class="c10">&nbsp;that got me thinking about company culture. </span><span class="c10 c5">If I Ran the Zoo</span><span class="c8">&nbsp;is a children’s book written in 1950 about a boy named Gerald McGrew who visits an ordinary zoo, but proclaims the animals are “not good enough.” If he ran the zoo, he would make the animals much more exotic and thus the zoo much more exciting. My kids and I giggled over the weird menagerie of animals with absurd names and agreed we would love to go to this new McGrew Zoo.</span></p><p class="c24"><span class="c10">It was a bit unexpected, but the book made me reflect back on the past jobs I have had — ice cream maker to disability assistant to fruit-fly scientist to programmer and everything in-between. I wondered what made the good jobs good and the bad ones “not good enough?” Why had some jobs “</span><span class="c0"><a class="c9" href="https://www.google.com/url?q=http://www.bucketfillers101.com/have-you-filled-a-bucket-today.php&amp;sa=D&amp;ust=1559962373420000">filled my bucket</a></span><span class="c8">” while others just emotionally drained me? What would have happened to company culture if I, as an employee, could have helped shaped it? Essentially, what would I do if I ran the zoo?</span></p>
 
 <hr>
