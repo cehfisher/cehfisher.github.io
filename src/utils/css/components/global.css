@@ -344,15 +344,16 @@ a:hover {
 }
 
 main .post-content-body a {
-  color: color(var(--color-white));
-  text-decoration: none;
+  color: color(var(--color-grape));
+  text-decoration: underline;
   transition: 0.4s ease;
-  background: var(--color-grape);
   padding: 0 0.6rem 0.3rem;
 }
 
 main .post-content-body a:hover {
-  text-decoration: underline;
+  background: var(--color-grape);
+  color: color(var(--color-white));
+  text-decoration: none;
 }
 
 .kg-image-card a {
