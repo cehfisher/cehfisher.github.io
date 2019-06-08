@@ -360,7 +360,7 @@ main .post-content-body a:hover {
 }
 
 .kg-image {
-  border: var(--color-grass) 5px dotted;
+  border: var(--color-hot-pink) 5px dotted;
 }
 
 h1,
@@ -404,7 +404,7 @@ h2 {
 
 h3 {
   margin: 1.5em 0 1em 0;
-  font-size: 3.2rem;
+  font-size: 2.5rem;
 }
 @media (max-width: 700px) {
   h3 {

@@ -655,31 +655,12 @@ a:active {
 
 .post-content-body blockquote {
   margin: 0 0 1.5em;
-  padding: 1em 3em;
+  padding: 1rem 2rem 1rem 3rem;
   border: none;
   font-style: italic;
   font-size: 1.7rem;
-}
-
-.post-content-body blockquote::before {
-  content: '\201c';
-  color: color(var(--color-grass));
-  font-size: 12rem;
-  font-family: var(--font-fancy);
-  position: absolute;
-  margin-left: -75px;
-  margin-top: 22px;
-}
-
-
-.post-content-body blockquote::after {
-  content: '\201d';
-  color: color(var(--color-grass));
-  font-size: 12rem;
-  font-family: var(--font-fancy);
-  position: absolute;
-  margin-right: -75px;
-  margin-bottom: 22px;
+  position: relative;
+  border: color(var(--color-grass)) 5px dotted;
 }
 
 .post-content-body blockquote p {
@@ -748,7 +729,7 @@ a:active {
   margin-left: -10px;
   width: 4px;
   height: 30px;
-  background: var(--color-grape);
+  background: var(--color-orange);
   box-shadow: #fff 0 0 0 5px;
   transform: rotate(45deg);
 }
@@ -867,6 +848,6 @@ a:active {
   position: absolute;
   bottom: 0;
   width: 125%;
-  margin-left: -15%;
+  margin-left: -14%;
   z-index: 0;
 }
