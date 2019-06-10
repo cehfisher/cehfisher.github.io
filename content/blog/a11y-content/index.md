@@ -6,7 +6,7 @@ description: Creating and designing accessible content means more than just choo
 published: Originally published on Envato Tuts+
 ---
 
-<em class="hideen">Originally published on <a href="https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934" target="_blank">Envato Tuts+</a></em>
+<em class="hidden">Originally published on <a href="https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934" target="_blank" rel="noopener noreferrer">Envato Tuts+</a></em>
 
 ##Consider Your Typography
 
@@ -59,7 +59,7 @@ Besides picking a common font family and paying attention to character uniquenes
 
 </div>
 
-Likewise, don’t use fonts that claim to be accessible or help one particular disability (ex. dyslexic fonts). They are tempting to use, but there is <a href="https://www.understood.org/en/learning-attention-issues/child-learning-disabilities/dyslexia/dyslexia-friendly-font">no clear evidence</a> they actually help readers. You are better off picking a common font that the majority of your users are already familiar with.
+Likewise, don’t use fonts that claim to be accessible or help one particular disability (ex. dyslexic fonts). They are tempting to use, but there is <a target="_blank" rel="noopener noreferrer" href="https://www.understood.org/en/learning-attention-issues/child-learning-disabilities/dyslexia/dyslexia-friendly-font">no clear evidence</a> they actually help readers. You are better off picking a common font that the majority of your users are already familiar with.
 
 <hr>
 

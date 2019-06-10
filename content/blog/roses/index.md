@@ -6,12 +6,12 @@ description: How Disconnecting from Technology Can Actually Help You Increase Yo
 published: Originally published on The Startup
 ---
 
-<em class="hidden">Originally published on <a href="https://medium.com/swlh/want-to-be-more-productive-take-time-to-smell-the-roses-3606297fffb3" target="_blank">The Startup</a></em>
+<em class="hidden">Originally published on <a href="https://medium.com/swlh/want-to-be-more-productive-take-time-to-smell-the-roses-3606297fffb3" target="_blank" rel="noopener noreferrer">The Startup</a></em>
 
 ## Screaming into the Void
 I consider myself a fairly productive person, but when I made a personal goal to write every day I struggled. Every time I got a spare moment to write, some text, some ping, some something more urgent always came up. For months, I hardly formed more than a few sentences and certainly did not finish a story.
 
-I quickly came to realize that changing up a daily routine can be tricky, especially when life and work and so many <a href="https://media.giphy.com/media/hjMQLE1cnmGR2/giphy.gif" target="_blank">sloth gifs</a> seem to get in your way. But instead of making a plan of action, I did what any reasonable xennial would do — I complained about the struggle on Twitter.
+I quickly came to realize that changing up a daily routine can be tricky, especially when life and work and so many <a href="https://media.giphy.com/media/hjMQLE1cnmGR2/giphy.gif" target="_blank" rel="noopener noreferrer">sloth gifs</a> seem to get in your way. But instead of making a plan of action, I did what any reasonable xennial would do — I complained about the struggle on Twitter.
 
 <div class="kg-card kg-image-card kg-width-medium">
 
@@ -21,7 +21,7 @@ I quickly came to realize that changing up a daily routine can be tricky, especi
 
 Luckily when I screamed into the void that time, someone responded.
 
-My colleague <a href="https://twitter.com/mikemiles86" data-href="https://twitter.com/mikemiles86" target="_blank">Mike Miles</a> recommended I read the book <a href="https://www.goodreads.com/book/show/25744928-deep-work" target="_blank">Deep Work</a> </span>by Cal Newport, to gain some more insight into how to focus on tasks/problems in our distracted, technologically-obsessed world. In the book, Newport offers many different ways to unplug and become a deeper thinker.</p>
+My colleague <a href="https://twitter.com/mikemiles86" data-href="https://twitter.com/mikemiles86" target="_blank" rel="noopener noreferrer">Mike Miles</a> recommended I read the book <a href="https://www.goodreads.com/book/show/25744928-deep-work" target="_blank" rel="noopener noreferrer">Deep Work</a> </span>by Cal Newport, to gain some more insight into how to focus on tasks/problems in our distracted, technologically-obsessed world. In the book, Newport offers many different ways to unplug and become a deeper thinker.</p>
 
 While some ways Newport suggested to unplug were impractical for most people—taking months off and secluding oneself in a cabin deep in the woods à la <a href="https://en.wikipedia.org/wiki/Walden" data-href="https://en.wikipedia.org/wiki/Walden" class="markup--anchor markup--p-anchor" rel="noopener nofollow" target="_blank">Henry David Thoreau</a>; other methods were a bit more reasonable — dedicating a certain time of the day to unplugging or setting aside a specific number of hours to work on deeper thoughts and projects.
 

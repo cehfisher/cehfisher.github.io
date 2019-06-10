@@ -744,6 +744,8 @@ a:active {
 
 .footnotes {
   font-size: 1.5rem;
+  margin-top: -8rem;
+  padding-bottom: 4rem;
 }
 
 .footnotes p {
@@ -884,6 +886,6 @@ a:active {
 }
 
 .publishedplace {
-  margin-top: -1rem;
+  margin-top: -3rem;
   text-align: center;
 }

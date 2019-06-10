@@ -6,13 +6,13 @@ description: Website accessibility is a buzzword these days, but not everyone ha
 published: Originally published on Statuscode
 ---
 
-<em class="hidden">Originally published on <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
+<em class="hidden">Originally published on <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank" rel="noopener noreferrer">Statuscode</a></em>
 
 ##What is Website Accessibility?
 
 Website accessibility is actively designing, developing, and creating content in such a way that it does not hinder any person from interacting with the website.
 
-I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank">Web Accessibility Initiative (WAIT) Group</a> because it puts the emphasis on the people (where it belongs):
+I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank" rel="noopener noreferrer">Web Accessibility Initiative (WAIT) Group</a> because it puts the emphasis on the people (where it belongs):
 
 <blockquote>"Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
 Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can."</blockquote>
@@ -26,7 +26,7 @@ Website accessibility should not be just a box you check off when you deliver a 
 
 ##Who is Website Accessibility For?
 
-According to the US Census Bureau, <a href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" data-href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" target="_blank">19% of the United States population</a> identifies as having a disability, which is roughly 57 million people. If you consider a global audience, you are talking about <a href="http://www.who.int/disabilities/world_report/2011/report/en/" data-href="http://www.who.int/disabilities/world_report/2011/report/en/" target="_blank">15% of the world’s population or one billion people</a> according to World Health Organization (WHO). That is a huge number of people who could benefit from an accessible website right from the start, but keep in mind, the official numbers do not even include people that either do not identify as having a disability or those populations that could benefit from accessible websites, such as English as a second language (ESL) users and the aging population — so the number of people needing accessible websites in reality could be much higher.
+According to the US Census Bureau, <a href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" data-href="https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html" target="_blank" rel="noopener noreferrer">19% of the United States population</a> identifies as having a disability, which is roughly 57 million people. If you consider a global audience, you are talking about <a href="http://www.who.int/disabilities/world_report/2011/report/en/" data-href="http://www.who.int/disabilities/world_report/2011/report/en/" target="_blank" rel="noopener noreferrer">15% of the world’s population or one billion people</a> according to World Health Organization (WHO). That is a huge number of people who could benefit from an accessible website right from the start, but keep in mind, the official numbers do not even include people that either do not identify as having a disability or those populations that could benefit from accessible websites, such as English as a second language (ESL) users and the aging population — so the number of people needing accessible websites in reality could be much higher.
 
 Even if you do not identify with any of those populations, there is also situational disability to consider. Situational disability is just what it sounds like, there are times where you are in a situation that would benefit from accessibility, such as captions for a video when you are not able to turn on the audio due to your surroundings.
 

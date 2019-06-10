@@ -6,10 +6,10 @@ description: Rethinking the Way We Approach Website Design and Development
 published: Originally published on 24 Accessibility
 ---
 
-<em class="hideen">Originally published on <a href="https://www.24a11y.com/2017/accessibility-first/" target="_blank">24 Accessibility</a></em>
+<em class="hidden">Originally published on <a href="https://www.24a11y.com/2017/accessibility-first/" target="_blank" rel="noopener noreferrer">24 Accessibility</a></em>
 
 <h2>Inclusive Design and Development Principles</h2>
-<p>The term <a href="http://www.inclusivedesigntoolkit.com/whatis/whatis.html"><em>Inclusive Design</em></a> is not a new one. It is a phrase that has been around since 2005. It is defined as “The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible…without the need for special adaptation or specialized design.”</p>
+<p>The term <a href="http://www.inclusivedesigntoolkit.com/whatis/whatis.html" target="_blank" rel="noopener noreferrer"><em>Inclusive Design</em></a> is not a new one. It is a phrase that has been around since 2005. It is defined as “The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible…without the need for special adaptation or specialized design.”</p>
 <p><em>Inclusive Development</em> is really taking that next logical step and adhering to inclusive design principles during the development process. Essentially, it is a shift in the way you approach your thinking about development. So during the development phase, you choose or create code, markup, libraries, and other developmental pieces that are accessible (or as accessible as possible).</p>
 
 <div class="kg-card kg-image-card kg-width-medium">
@@ -20,7 +20,7 @@ published: Originally published on 24 Accessibility
 
 <p>In both inclusive design and development, you want to target the users near the top of the pyramid that have severe difficulties (~25% of the population). By making that your target, you will cover all the additional users with little to no difficulties (~74% of the population). This is essentially a “trickle down” effect for accessibility. Adaptive technologies (often called AT) help cover the severely disabled users at the top of the pyramid with specialized products.</p>
 <p>When we rethink our approach to development, we go beyond just the base level of access to information. Inclusive <strong>development</strong> means making something valuable, not just accessible, to as many people as we can*. It is about putting Accessibility First.</p>
-<p>* Adapted quote from Heydon Pickering’s article on <a href="https://24ways.org/2016/what-the-heck-is-inclusive-design/">Inclusive Design</a></p>
+<p>* Adapted quote from Heydon Pickering’s article on <a href="https://24ways.org/2016/what-the-heck-is-inclusive-design/" target="_blank" rel="noopener noreferrer">Inclusive Design</a></p>
 
 <hr>
 
@@ -35,7 +35,7 @@ published: Originally published on 24 Accessibility
 
 <p>In fact, researchers estimate that 10-17% of the U.S. population has dyslexia. That is a pretty significant percentage, which is even higher than current Internet Explorer, Edge, Firefox and Opera users combined (as of September 2017).</p>
 <p>So if we choose a typeface we know that is legible for people with dyslexia (as shown by the top section on the pyramid with severe difficulties), then we also know every group under that section can also read the font. People who are blind or have more serious sight issues other than dyslexia would need additional typography or assistive technology considerations.</p>
-<p>Heydon Pickering sums it up best with this quote from his book <a href="https://shop.smashingmagazine.com/products/inclusive-design-patterns">Inclusive Design Patterns</a>:</p>
+<p>Heydon Pickering sums it up best with this quote from his book <a href="https://shop.smashingmagazine.com/products/inclusive-design-patterns" target="_blank" rel="noopener noreferrer">Inclusive Design Patterns</a>:</p>
 <blockquote><p>“By choosing a typeface that we feel the average user could read we’d be consciously alienating a section of our users. Instead, by selecting a typeface which is workable for those who struggle to read, we arrive at a choice that works for everyone. This is efficient and effective inclusive design.”</p></blockquote>
 <p>Beyond just font families, other inclusive design and development choices include:</p>
 <ul>
@@ -58,7 +58,7 @@ published: Originally published on 24 Accessibility
 
 </div>
 
-<p>The <a href="http://a11y-style-guide.com/style-guide">A11Y Style Guide</a> was formed out of development workflows, aided by the component driven development tool&nbsp;KSS node, and fueled by the conviction that everyone deserves to be able to use and contribute back to the wonderfully wacky web. The A11Y Style Guide is ultimately a style guide that comes with pre-populated accessible components that include helpful links to related tools, articles, and WCAG guidelines to make your website more inclusive. You can use it as a reference, as a base for your own style guide or accessible components. You may even decide to create a new accessible theme based on the guides.</p>
+<p>The <a href="http://a11y-style-guide.com/style-guide" target="_blank" rel="noopener noreferrer">A11Y Style Guide</a> was formed out of development workflows, aided by the component driven development tool&nbsp;KSS node, and fueled by the conviction that everyone deserves to be able to use and contribute back to the wonderfully wacky web. The A11Y Style Guide is ultimately a style guide that comes with pre-populated accessible components that include helpful links to related tools, articles, and WCAG guidelines to make your website more inclusive. You can use it as a reference, as a base for your own style guide or accessible components. You may even decide to create a new accessible theme based on the guides.</p>
 <p>The concept of the A11Y Style Guide is really simple. I did not reinvent the wheel with this project and at this point in time, there are many more people/organizations with their own spin on this accessible component concept. My style guide tool builds on all the wonderful work that is already being done in the world of accessibility and makes that existing knowledge base more applicable to real-world scenarios in a condensed manner. I lovingly think of it as the CliffsNotes of website accessibility or a nicer term may be accessible pattern library for developers. But by using a reusable, accessible, component-driven approach and thinking about inclusiveness from the start, we can get a head start on building accessible websites. So ultimately you and your clients save&nbsp;time&nbsp;and&nbsp;money, plus your website is a little more&nbsp;inclusive…what’s not to love?</p>
 
 <hr>

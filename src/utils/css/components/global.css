@@ -433,5 +433,5 @@ h6 {
 .kg-image {
   max-width: 100%;
   width: 100%;
-  height: 650px;
+  max-height: 650px;
 }
