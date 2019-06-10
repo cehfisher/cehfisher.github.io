@@ -5,7 +5,7 @@ thumbnail: ./aria.jpg
 description: Introduction to ARIA
 ---
 
-<em>Originally published on <a href="https://www.deque.com/blog/much-ado-about-aria/" target="_blank">Deque Systems</a></em>
+<em class="published">Originally published on <a href="https://www.deque.com/blog/much-ado-about-aria/" target="_blank">Deque Systems</a></em>
 
 ##ARIA Act One
 

@@ -5,7 +5,7 @@ thumbnail: ./svg-pattern.jpg
 description: Featuring 12 SVG pattern examples and screen reader tests
 ---
 
-<em>Originally published on <a href="https://www.deque.com/blog/creating-accessible-svgs/" target="_blank">Deque Systems</a></em>
+<em class="published">Originally published on <a href="https://www.deque.com/blog/creating-accessible-svgs/" target="_blank">Deque Systems</a></em>
 
 <p>Scalable Vector Graphics (SVGs) have <a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics">been around since 1999</a>, but they have seen a real resurgence in use as design interactions have become more complex and CSS/JavaScript have replaced antiquated animation programs such as Adobe Flash. There are plenty of reasons to use SVGs today including:</p><ul><li><strong>Browser support</strong> – Increased native browser support of SVGs means better consistency and higher fidelity of images.</li><li><strong>Code control</strong> – Advancements in CSS and JavaScript functionality to style and animate images.</li><li><strong>File size</strong> – The relative “lightness” of SVG code in a world where bandwidth and performance matter more than ever.</li><li><strong>Accessibility</strong> – Markup can be added to the SVGs directly so more information can be added within the image itself – which is helpful for people using assistive technology devices such as screen readers.</li></ul><p>Of course, this article will be focusing on accessibility, but it is good to know there are a lot of other benefits to using SVGs (just in case someone needs more convincing).</p>
 

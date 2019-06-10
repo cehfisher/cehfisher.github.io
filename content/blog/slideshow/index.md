@@ -5,7 +5,7 @@ thumbnail: ./shera.jpg
 description: Rethinking the slideshow pattern, pt 2
 ---
 
-<em>Originally published on <a href="https://uxplanet.org/rethinking-the-slideshow-be-the-hero-of-your-next-web-design-project-75607ae767a6" target="_blank">UX Planet</a></em>
+<em class="published">Originally published on <a href="https://uxplanet.org/rethinking-the-slideshow-be-the-hero-of-your-next-web-design-project-75607ae767a6" target="_blank">UX Planet</a></em>
 
 <span>In my previous blog post, 6 Design Alternatives to Avoid (Evil) Slideshows, I outlined six design alternatives to avoid slideshows. The response to that blog post was great &mdash; who knew there were so many kindred spirits who disliked slideshows?</span></p><p class="c0"><span class="c2">From the feedback I received, the number one question was why are slideshows so bad in the first place? Followed by the question, if slideshow are so bad why do we still see them everywhere? This companion blog post will hopefully give you a deeper understanding of why alternatives to slideshows are the way to go and maybe help convince your next client of that point too.</span></p>
 

@@ -5,7 +5,7 @@ thumbnail: ./a11y-start1.jpg
 description: Website accessibility is a buzzword these days, but not everyone has a firm grasp on what that term means. So what is website accessibility? Who is in need of accessible websites? And why should you as a website designer/developer/content creator even care?
 ---
 
-<em>Originally published on <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
+<em class="published">Originally published on <a href="https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92" target="_blank">Statuscode</a></em>
 
 ##What is Website Accessibility?
 

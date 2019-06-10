@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import { FiCornerDownRight } from 'react-icons/fi';
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -24,7 +25,7 @@ class BlogPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p class="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
           {post.frontmatter.thumbnail && (
@@ -36,7 +37,7 @@ class BlogPostTemplate extends React.Component {
               />
             </div>
           )}
-
+          <FiCornerDownRight className="arrow-svg" />
           <div
             className="post-content-body"
             dangerouslySetInnerHTML={{ __html: post.html }}

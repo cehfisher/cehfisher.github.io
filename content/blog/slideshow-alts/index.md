@@ -5,7 +5,7 @@ thumbnail: ./skeletor.png
 description: Rethinking the slideshow pattern, pt 1
 ---
 
-<em>Originally published on <a href="https://uxplanet.org/6-design-alternatives-to-avoid-evil-slideshows-9d442cf680d3" target="_blank">UX Planet</a></em>
+<em class="published">Originally published on <a href="https://uxplanet.org/6-design-alternatives-to-avoid-evil-slideshows-9d442cf680d3" target="_blank">UX Planet</a></em>
 
 Slideshows, sliders, carousels: no matter what you call them, in terms of web design they are just evil. Do a quick Google search and you will see that most frontend developers and UX/UI designers can agree on this point and have been talking about it for years. But why do we still constantly see them?</span></p><p class="c6"><span class="c8">Part of the issue is that slideshows, especially in the hero region, are so ubiquitous that many clients see them as necessary and keep asking for them. They have essentially become a “home page standard.”</span></p><p class="c6"><span class="c8">A design element that is so prevalent can’t be all that bad, right? Wrong. The next time a client asks for a slideshow, resist the temptation to go off on why they will kill a website, and propose one of these alternatives.</span></p>
 

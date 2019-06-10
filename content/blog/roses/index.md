@@ -5,7 +5,7 @@ thumbnail: ./roses.jpg
 description: How Disconnecting from Technology Can Actually Help You Increase Your Productivity
 ---
 
-<em>Originally published on <a href="https://medium.com/swlh/want-to-be-more-productive-take-time-to-smell-the-roses-3606297fffb3" target="_blank">The Startup</a></em>
+<em class="published">Originally published on <a href="https://medium.com/swlh/want-to-be-more-productive-take-time-to-smell-the-roses-3606297fffb3" target="_blank">The Startup</a></em>
 
 ## Screaming into the Void
 I consider myself a fairly productive person, but when I made a personal goal to write every day I struggled. Every time I got a spare moment to write, some text, some ping, some something more urgent always came up. For months, I hardly formed more than a few sentences and certainly did not finish a story.

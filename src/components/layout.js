@@ -61,7 +61,7 @@ class Layout extends React.Component {
               }
             },
             "opacity": {
-              "value": 0.65,
+              "value": 0.75,
               "random": false,
               "anim": {
                 "enable": true,

@@ -565,7 +565,7 @@ a:active {
   max-width: 850px;
   margin: 0 auto;
   background: white;
-  padding: 6rem 5rem 5rem;
+  padding: 6rem;
   margin-top: 3rem;
 }
 
@@ -867,4 +867,20 @@ a:active {
   width: 125%;
   margin-left: -14%;
   z-index: 0;
+}
+
+.kg-card {
+  margin: -4rem 0 -5rem;
+}
+
+.arrow-svg {
+  color: var(--color-orange);
+  font-size: 4rem;
+}
+
+.published {
+  margin-left: 5rem;
+  margin-top: -6rem;
+  position: absolute;
+  font-size: 1.75rem;
 }

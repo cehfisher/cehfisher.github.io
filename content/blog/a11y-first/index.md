@@ -5,7 +5,7 @@ thumbnail: ./win.jpg
 description: Rethinking the Way We Approach Website Design and Development
 ---
 
-<em>Originally published on <a href="https://www.24a11y.com/2017/accessibility-first/"" target="_blank">24 Accessibility</a></em>
+<em class="published">Originally published on <a href="https://www.24a11y.com/2017/accessibility-first/"" target="_blank">24 Accessibility</a></em>
 
 <h2>Inclusive Design and Development Principles</h2>
 <p>The term <a href="http://www.inclusivedesigntoolkit.com/whatis/whatis.html"><em>Inclusive Design</em></a> is not a new one. It is a phrase that has been around since 2005. It is defined as “The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible…without the need for special adaptation or specialized design.”</p>
