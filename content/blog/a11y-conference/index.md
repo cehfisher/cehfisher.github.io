@@ -7,7 +7,7 @@ description: Where do Accessibility talks belong? Development, Diversity, or UX 
 
 <em>Originally published on <a href="https://hackernoon.com/finding-a-place-for-website-accessibility-in-tech-conferences-4b1d2d4e2371" target="_blank">Hacker Noon</a></em>
 
-## Where does accessibility fit into tech?
+##Where does accessibility fit into tech?
 
 <p>Now that the winter holidays are over and the snow is beginning to melt, we find ourselves at the beginning of a new season. No, not spring, but tech conference season. By this time of the year, I have usually submitted a few talks to a handful of</span><span><a class="c3" href="https://www.google.com/url?q=https://hackernoon.com/tagged/conferences&amp;sa=D&amp;ust=1560140953194000">&nbsp;</a></span><span class="c6"><a class="c3" href="https://www.google.com/url?q=https://hackernoon.com/tagged/conferences&amp;sa=D&amp;ust=1560140953194000">conferences</a></span><span class="c0">, patiently waiting to hear back on decisions so I can try to figure out how I can magically stretch my limited budget.</span></p><p class="c1"><span>Between coordinating work and family, travel schedules, and actually writing/practicing a talk, the simple act of submitting a talk should be the easy part. But each time I submit a talk to a tech conference, I pause. What track does this website accessibility talk fit under? Development?</span><span><a class="c3" href="https://www.google.com/url?q=https://hackernoon.com/tagged/user-experience&amp;sa=D&amp;ust=1560140953195000">&nbsp;</a></span><span class="c6"><a class="c3" href="https://www.google.com/url?q=https://hackernoon.com/tagged/user-experience&amp;sa=D&amp;ust=1560140953195000">User experience</a></span><span class="c0">? Diversity? Off the island (aka miscellaneous)? Do I choose a “soft science” category because the talk might be more likely to be accepted or do I choose something more technical to reach a broader audience? Sometimes the answer is obvious, but often it is not.</span></p>
 
@@ -15,7 +15,7 @@ description: Where do Accessibility talks belong? Development, Diversity, or UX 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./a11yconf1.jpg)
+![a11y-conference](./a11yconf1.jpg)
 
 </div>
 
@@ -24,7 +24,7 @@ description: Where do Accessibility talks belong? Development, Diversity, or UX 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./a11yconf2.png)
+![a11y-conference](./a11yconf2.png)
 
 </div>
 
@@ -36,7 +36,7 @@ If we are talking about technology specifically, this commonality can be reframe
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./a11yconf3.jpg)
+![a11y-conference](./a11yconf3.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ If we are talking about technology specifically, this commonality can be reframe
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./a11yconf4.png)
+![a11y-conference](./a11yconf4.png)
 
 </div>
 
