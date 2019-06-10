@@ -186,6 +186,9 @@ body {
 .site-head li {
   display: block;
   margin: 0;
+}
+
+.site-head .floatingHeader li {
   background: var(--color-bg);
 }
 
@@ -855,6 +858,7 @@ a:active {
   z-index: -1;
   width: 125%;
   margin-left: -20%;
+  top: 0;
 }
 
 #background-svg {
