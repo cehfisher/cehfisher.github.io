@@ -37,14 +37,14 @@ class Layout extends React.Component {
     params={{
           "particles": {
             "number": {
-              "value": 80,
+              "value": 60,
               "density": {
                 "enable": true,
                 "value_area": 800
               }
             },
             "color": {
-              "value": "#8323fa"
+              "value": "#d8bcfb"
             },
             "shape": {
               "type": "circle",
@@ -56,13 +56,12 @@ class Layout extends React.Component {
                 "nb_sides": 10
               },
               "image": {
-                "src": "img/github.svg",
                 "width": 100,
                 "height": 100
               }
             },
             "opacity": {
-              "value": 0.3,
+              "value": 0.65,
               "random": false,
               "anim": {
                 "enable": true,

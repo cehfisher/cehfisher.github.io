@@ -28,7 +28,7 @@
   -o-transition: 0.8s;
   transition: 0.8s;
   stroke-width: 3px;
-  fill: #3FFFFD;
+  fill: #d8bcfb;
 }
 
 @-webkit-keyframes dash {

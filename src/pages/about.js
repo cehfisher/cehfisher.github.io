@@ -40,7 +40,7 @@ const AboutPage = ({ data }, location) => {
               A11y Cats T-shirt
             </a>
             , member of the <a href="https://a11yproject.com/" rel="noopener noreferrer" target="_blank">A11y Project</a>{" "}
-            and <a href="https://www.24a11y.com/" rel="noopener noreferrer" target="_blank">24a11y</a> teams, and past
+            and <a href="https://www.24a11y.com/" rel="noopener noreferrer" target="_blank">24 Accessibility</a> teams, and past
             team member and mentor for the{" "}
             <a href="https://air-rallies.org/" rel="noopener noreferrer" target="_blank">OpenAIR Knowbility Challenge</a>.
           </p>
