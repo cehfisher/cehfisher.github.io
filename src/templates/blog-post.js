@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import { FiCornerDownRight } from 'react-icons/fi';
+import { FiMoreHorizontal } from 'react-icons/fi';
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -22,11 +22,18 @@ class BlogPostTemplate extends React.Component {
         >
           <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
-          </header>
-
+          
           {post.frontmatter.description && (
             <p className="post-content-excerpt">{post.frontmatter.description}</p>
           )}
+
+          <p class="publishedplace">
+          <FiMoreHorizontal className="dots-svg" />
+          {post.frontmatter.published && (
+            <p className="published">{post.frontmatter.published}</p>
+          )}
+          </p>
+          </header>
 
           {post.frontmatter.thumbnail && (
             <div className="post-content-image">
@@ -37,7 +44,6 @@ class BlogPostTemplate extends React.Component {
               />
             </div>
           )}
-          <FiCornerDownRight className="arrow-svg" />
           <div
             className="post-content-body"
             dangerouslySetInnerHTML={{ __html: post.html }}
@@ -73,6 +79,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        published
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 1360) {

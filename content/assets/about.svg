@@ -23,14 +23,6 @@
   stroke-width: 2px;
 }
 
-#about-svg-design:hover {
-  -webkit-transition: 0.8s;
-  -o-transition: 0.8s;
-  transition: 0.8s;
-  stroke-width: 3px;
-  fill: #d8bcfb;
-}
-
 @-webkit-keyframes dash {
   from {
     stroke-dashoffset: 1000;

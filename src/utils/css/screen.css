@@ -873,14 +873,12 @@ a:active {
   margin: -4rem 0 -5rem;
 }
 
-.arrow-svg {
+.dots-svg {
   color: var(--color-orange);
-  font-size: 4rem;
+  font-size: 5rem;
 }
 
 .published {
-  margin-left: 5rem;
-  margin-top: -6rem;
-  position: absolute;
   font-size: 1.75rem;
+  margin-bottom: -2rem;
 }
