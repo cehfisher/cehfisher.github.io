@@ -3,6 +3,7 @@ title: What I Would Do If I Ran the Zoo
 date: "2017-10-31"
 thumbnail: ./zooz.jpg
 description: Creating Positive Company Culture in Tech
+published: Originally published on The Startup
 ---
 
 <em class="published">Originally published on The Startup</em>

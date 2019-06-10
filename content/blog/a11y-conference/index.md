@@ -3,9 +3,10 @@ title: Finding a Place for Website Accessibility in Tech Conferences
 date: "2018-02-20"
 thumbnail: ./a11yconf.jpg
 description: Where do Accessibility talks belong? Development, Diversity, or UX tracks? On its own? So many track choices, so little time.
+published: Originally published on Hacker Noon
 ---
 
-<em class="published">Originally published on <a href="https://hackernoon.com/finding-a-place-for-website-accessibility-in-tech-conferences-4b1d2d4e2371" target="_blank">Hacker Noon</a></em>
+<em class="hideen">Originally published on <a href="https://hackernoon.com/finding-a-place-for-website-accessibility-in-tech-conferences-4b1d2d4e2371" target="_blank">Hacker Noon</a></em>
 
 ##Where does accessibility fit into tech?
 

@@ -3,9 +3,10 @@ title: Confessions of a Middle Aged Techie
 date: "2017-10-05"
 thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
+published: Originally published on Hacker Noon
 ---
 
-<em class="published">Originally published on <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank">Hacker Noon</a></em>
+<em class="hidden">Originally published on <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank">Hacker Noon</a></em>
 
 ##In a Galaxy Far, Far Away
 

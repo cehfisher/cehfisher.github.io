@@ -3,9 +3,10 @@ title: Designing Accessible Content - Typography, Font Styling, and Structure
 date: "2018-10-25"
 thumbnail: ./content.jpg
 description: Creating and designing accessible content means more than just choosing accessible typography. Even with “perfect” font families in place on your website, people with low vision, cognitive, language, and learning disabilities may still struggle to process the text. 
+published: Originally published on Envato Tuts+
 ---
 
-<em class="published">Originally published on <a href="https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934" target="_blank">Envato Tuts+</a></em>
+<em class="hideen">Originally published on <a href="https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934" target="_blank">Envato Tuts+</a></em>
 
 ##Consider Your Typography
 

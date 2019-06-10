@@ -3,9 +3,10 @@ title: Much Ado About ARIA
 date: "2018-09-18"
 thumbnail: ./aria.jpg
 description: Introduction to ARIA
+published: Originally published on Deque Systems
 ---
 
-<em class="published">Originally published on <a href="https://www.deque.com/blog/much-ado-about-aria/" target="_blank">Deque Systems</a></em>
+<em class="hidden">Originally published on <a href="https://www.deque.com/blog/much-ado-about-aria/" target="_blank">Deque Systems</a></em>
 
 ##ARIA Act One
 
