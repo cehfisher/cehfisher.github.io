@@ -2,7 +2,7 @@
 title: Be the Hero of Your Next Web Design Project
 date: "2018-01-23"
 thumbnail: ./shera.jpg
-description: Rethinking the slideshow pattern
+description: Rethinking the slideshow pattern, pt 2
 ---
 
 <em>Originally published on <a href="https://uxplanet.org/rethinking-the-slideshow-be-the-hero-of-your-next-web-design-project-75607ae767a6" target="_blank">UX Planet</a></em>
