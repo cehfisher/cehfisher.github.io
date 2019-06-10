@@ -1,5 +1,5 @@
 ---
-title: Accessibility First
+title: Putting Accessibility First
 date: "2017-12-01"
 thumbnail: ./win.jpg
 description: Rethinking the Way We Approach Website Design and Development

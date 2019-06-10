@@ -5,7 +5,7 @@ thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
 ---
 
-<em>Originally published on <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank">Hackernoon</a></em>
+<em>Originally published on <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank">Hacker Noon</a></em>
 
 ##In a Galaxy Far, Far Away
 
