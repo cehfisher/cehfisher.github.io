@@ -47,7 +47,7 @@ const BlogIndex = ({ data }, location) => {
               }
             },
             "opacity": {
-              "value": 0.4,
+              "value": 0.3,
               "random": false,
               "anim": {
                 "enable": true,
@@ -57,7 +57,7 @@ const BlogIndex = ({ data }, location) => {
               }
             },
             "size": {
-              "value": 16.03412060865523,
+              "value": 10,
               "random": true,
               "anim": {
                 "enable": true,

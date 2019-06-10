@@ -205,7 +205,7 @@ body {
 .site-foot a:hover {
   text-decoration: underline;
   color: var(--color-dark-base);
-  background: var(--color-sun);
+  background: var(--color-lavendar);
 }
 
 [aria-current="page"].site-head-logo {
@@ -850,10 +850,11 @@ a:active {
 }
 
 .snow {
-  width: 100%;
-  height: 60vh;
+  height: 75vh;
   position: absolute;
   z-index: -1;
+  width: 125%;
+  margin-left: -20%;
 }
 
 #background-svg {
