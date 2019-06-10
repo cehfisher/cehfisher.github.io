@@ -559,10 +559,10 @@ a:active {
 /* ---------------------------------------------------------- */
 
 .post-content {
-  max-width: 720px;
+  max-width: 850px;
   margin: 0 auto;
   background: white;
-  padding: 4rem 5rem;
+  padding: 5rem;
   margin-top: 3rem;
 }
 
@@ -843,6 +843,17 @@ a:active {
 
 .social-github svg {
   fill: var(--color-sun);
+}
+
+#carie-svg {
+  overflow: visible;
+}
+
+.snow {
+  width: 100%;
+  height: 60vh;
+  position: absolute;
+  z-index: -1;
 }
 
 #background-svg {

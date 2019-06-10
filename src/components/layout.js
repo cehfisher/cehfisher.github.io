@@ -27,19 +27,19 @@ class Layout extends React.Component {
               <nav id="swup">
                 <ul className="nav" role="menu">
                   <li className="nav-home" role="menuitem">
-                    <Link to={`/`} aria-label="Home"><Icon1 /><span class="hidden">Home</span></Link>
+                    <Link to={`/`} aria-label="Home"><Icon1 /><span className="hidden">Home</span></Link>
                   </li>
                   <li className="nav-about" role="menuitem">
-                    <Link to={`/about`} aria-label="About"><FiSmile /><span class="hidden">About</span></Link>
+                    <Link to={`/about`} aria-label="About"><FiSmile /><span className="hidden">About</span></Link>
                   </li>
                   <li className="nav-speak" role="menuitem">
-                    <Link to={`/speak`} aria-label="Speak"><Icon2 /><span class="hidden">Speak</span></Link>
+                    <Link to={`/speak`} aria-label="Speak"><Icon2 /><span className="hidden">Speak</span></Link>
                   </li>
                   <li className="nav-write" role="menuitem">
-                    <Link to={`/write`} aria-label="Write"><Icon3 /><span class="hidden">Write</span></Link>
+                    <Link to={`/write`} aria-label="Write"><Icon3 /><span className="hidden">Write</span></Link>
                   </li>
                   <li className="nav-accessibility" role="menuitem">
-                    <Link to={`/accessibility`} aria-label="Accessibility"><FiHeart /><span class="hidden">Accessibility</span></Link>
+                    <Link to={`/accessibility`} aria-label="Accessibility"><FiHeart /><span className="hidden">Accessibility</span></Link>
                   </li>
                 </ul>
               </nav>
@@ -59,7 +59,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiTwitter /><span class="hidden">Twitter</span>
+              <FiTwitter /><span className="hidden">Twitter</span>
             </a></li>
             <li className="social-linkedin"><a
               href="https://www.linkedin.com/in/cariefisher"
@@ -67,7 +67,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiLinkedin /><span class="hidden">LinkedIn</span>
+              <FiLinkedin /><span className="hidden">LinkedIn</span>
             </a></li>
             <li className="social-notist"><a
               href="https://noti.st/cariefisher"
@@ -75,7 +75,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiStar /><span class="hidden">Notist</span>
+              <FiStar /><span className="hidden">Notist</span>
             </a></li>
             <li className="social-github"><a
               href="https://www.github.com/cehfisher"
@@ -83,7 +83,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiGithub /><span class="hidden">GitHiub</span>
+              <FiGithub /><span className="hidden">GitHiub</span>
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>

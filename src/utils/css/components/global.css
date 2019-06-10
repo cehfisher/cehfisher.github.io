@@ -350,7 +350,9 @@ main .post-content-body a {
   padding: 0 0.3rem;
 }
 
-main .post-content-body a:hover {
+main .post-content-body a:hover,
+main .post-content-body a:active,
+main .post-content-body a:focus {
   background: var(--color-grape);
   color: color(var(--color-white));
   text-decoration: none;
