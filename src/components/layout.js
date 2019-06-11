@@ -147,20 +147,20 @@ class Layout extends React.Component {
           <div className="site-head-container">
             <div className="site-head-right">
               <nav id="swup" className="main-menu">
-                <ul className="nav" role="menu">
-                  <li className="nav-home" role="menuitem">
+                <ul className="nav">
+                  <li className="nav-home">
                     <Link to={`/`} aria-label="Home"><Icon1 /><span className="hidden">Home</span></Link>
                   </li>
-                  <li className="nav-about" role="menuitem">
+                  <li className="nav-about">
                     <Link to={`/about`} aria-label="About"><FiSmile /><span className="hidden">About</span></Link>
                   </li>
-                  <li className="nav-speak" role="menuitem">
+                  <li className="nav-speak">
                     <Link to={`/speak`} aria-label="Speak"><Icon2 /><span className="hidden">Speak</span></Link>
                   </li>
-                  <li className="nav-write" role="menuitem">
+                  <li className="nav-write">
                     <Link to={`/write`} aria-label="Write"><Icon3 /><span className="hidden">Write</span></Link>
                   </li>
-                  <li className="nav-accessibility" role="menuitem">
+                  <li className="nav-accessibility">
                     <Link to={`/accessibility`} aria-label="Accessibility"><FiHeart /><span className="hidden">Accessibility</span></Link>
                   </li>
                 </ul>
