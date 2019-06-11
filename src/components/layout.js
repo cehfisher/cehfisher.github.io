@@ -33,7 +33,7 @@ class Layout extends React.Component {
     const rootPath = `${__PATH_PREFIX__}/`
     return (
       <div className="site-wrapper">
-        <Particles className="snow"
+        <Particles className="snow" focusable="false" aria-hidden="true"
     params={{
           "particles": {
             "number": {
@@ -181,7 +181,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiTwitter /><span className="hidden">Twitter</span>
+              <FiTwitter />
             </a></li>
             <li className="social-linkedin"><a
               href="https://www.linkedin.com/in/cariefisher"
@@ -189,7 +189,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiLinkedin /><span className="hidden">LinkedIn</span>
+              <FiLinkedin />
             </a></li>
             <li className="social-notist"><a
               href="https://noti.st/cariefisher"
@@ -197,7 +197,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiStar /><span className="hidden">Notist</span>
+              <FiStar />
             </a></li>
             <li className="social-github"><a
               href="https://www.github.com/cehfisher"
@@ -205,7 +205,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiGithub /><span className="hidden">GitHiub</span>
+              <FiGithub />
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>
