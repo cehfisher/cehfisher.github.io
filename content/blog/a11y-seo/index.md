@@ -4,10 +4,10 @@ date: "2017-12-13"
 thumbnail: ./a11y-seo.jpg
 description: Finding the Place Where Accessibility and SEO Happily Co-Exist
 published: Originally published on The Startup
-tags: SEO, accessibility, a11y
+tags: accessibility, a11y, design, SEO, media, development
 ---
-<em class="hidden">Originally published on <a href="https://medium.com/swlh/how-to-boost-both-your-website-accessibility-seo-c7ee63625cdd" target="_blank" rel="noopener noreferrer">The Startup</a></em>
 
+## SEO + A11y = <3
 Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https://www.google.com/url?q=https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92&amp;sa=D&amp;ust=1560199601388000" target="_blank" rel="noopener noreferrer">website accessibility</a></span><span class="c3">&nbsp;are not the same thing. There are different rules to follow, different audiences to target, and different ways to test the effectiveness of each.</span></p><p class="c7"><span>Optimizing your website for search engine bots does not mean it will be automagically accessible to real people too. Some SEO practices may even </span><span class="c12">hurt</span><span class="c3">&nbsp;your website’s accessibility.</span></p><p class="c7"><span class="c3">However it is not all bad news, there are some areas where the two worlds overlap. If you have a limited budget and/or timeframe for a project, targeting these six areas* may simultaneously boost both SEO and website accessibility.</span></p><p class="c7"><span class="c12 c13">*Note: the focus of this article is on the areas of overlap. Each specific task in each area below may target SEO more, some tasks may target accessibility more.</span></p>
 
 <hr>

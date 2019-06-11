@@ -4,9 +4,9 @@ date: "2018-11-01"
 thumbnail: ./mythbusted.jpg
 description: Time to shatter some misconceptions!
 published: Originally published on Deque Systems
+tags: accessibility, a11y, patterns, development, WCAG, POUR, ARIA
 ---
 
-<em class="hidden">Originally published on <a href="https://www.deque.com/blog/5-digital-accessibility-myths-busted" target="_blank" rel="noopener noreferrer">Deque Systems</a></em>
 ##Accessibility fact vs fiction
 
 By now you have most likely have heard the term <a href="https://www.deque.com/accessibility-beginners-guide" target="_blank" rel="noopener noreferrer">digital accessibility</a> and may have an inkling about what it is — but have you bought into the hype? Or are you secretly asking yourself questions like:

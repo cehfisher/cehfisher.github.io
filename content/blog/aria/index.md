@@ -4,9 +4,8 @@ date: "2018-09-18"
 thumbnail: ./aria.jpg
 description: Introduction to ARIA
 published: Originally published on Deque Systems
+tags: accessibility, a11y, patterns, development, WCAG, POUR, ARIA
 ---
-
-<em class="hidden">Originally published on <a href="https://www.deque.com/blog/much-ado-about-aria/" target="_blank" rel="noopener noreferrer">Deque Systems</a></em>
 
 ##ARIA Act One
 

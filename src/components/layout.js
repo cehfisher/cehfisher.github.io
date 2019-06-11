@@ -149,19 +149,19 @@ class Layout extends React.Component {
               <nav id="swup" className="main-menu">
                 <ul className="nav">
                   <li className="nav-home">
-                    <Link to={`/`}><Icon1 /><span className="hidden">Home</span></Link>
+                    <Link to={`/`}><Icon1 /><span className="sr-only">Home</span></Link>
                   </li>
                   <li className="nav-about">
-                    <Link to={`/about`}><FiSmile /><span className="hidden">About</span></Link>
+                    <Link to={`/about`}><FiSmile /><span className="sr-only">About</span></Link>
                   </li>
                   <li className="nav-speak">
-                    <Link to={`/speak`}><Icon2 /><span className="hidden">Speak</span></Link>
+                    <Link to={`/speak`}><Icon2 /><span className="sr-only">Speak</span></Link>
                   </li>
                   <li className="nav-write">
-                    <Link to={`/write`}><Icon3 /><span className="hidden">Write</span></Link>
+                    <Link to={`/write`}><Icon3 /><span className="sr-only">Write</span></Link>
                   </li>
                   <li className="nav-accessibility">
-                    <Link to={`/accessibility`}><FiHeart /><span className="hidden">Accessibility</span></Link>
+                    <Link to={`/accessibility`}><FiHeart /><span className="sr-only">Accessibility</span></Link>
                   </li>
                 </ul>
               </nav>
@@ -180,28 +180,28 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiTwitter /><span className="hidden">Twitter</span>
+              <FiTwitter /><span className="sr-only">Twitter</span>
             </a></li>
             <li className="social-linkedin"><a
               href="https://www.linkedin.com/in/cariefisher"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiLinkedin /><span className="hidden">LinkedIn</span>
+              <FiLinkedin /><span className="sr-only">LinkedIn</span>
             </a></li>
             <li className="social-notist"><a
               href="https://noti.st/cariefisher"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiStar /><span className="hidden">Notist</span>
+              <FiStar /><span className="sr-only">Notist</span>
             </a></li>
             <li className="social-github"><a
               href="https://www.github.com/cehfisher"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiGithub /><span className="hidden">Github</span>
+              <FiGithub /><span className="sr-only">Github</span>
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>

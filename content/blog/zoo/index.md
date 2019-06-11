@@ -4,6 +4,7 @@ date: "2017-10-31"
 thumbnail: ./zooz.jpg
 description: Creating Positive Company Culture in Tech
 published: Originally published on The Startup
+tags: development, technology, tech culture, STEM, diversity in tech
 ---
 
 ##Who Runs the Zoo?

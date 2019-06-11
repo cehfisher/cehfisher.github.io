@@ -4,11 +4,10 @@ date: "2017-12-01"
 thumbnail: ./win.jpg
 description: Rethinking the Way We Approach Website Design and Development
 published: Originally published on 24 Accessibility
+tags: accessibility, a11y, design, style guides, patterns, development
 ---
 
-<em class="hidden">Originally published on <a href="https://www.24a11y.com/2017/accessibility-first/" target="_blank" rel="noopener noreferrer">24 Accessibility</a></em>
-
-<h2>Inclusive Design and Development Principles</h2>
+##Inclusive Design and Development Principles
 <p>The term <a href="http://www.inclusivedesigntoolkit.com/whatis/whatis.html" target="_blank" rel="noopener noreferrer"><em>Inclusive Design</em></a> is not a new one. It is a phrase that has been around since 2005. It is defined as “The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible…without the need for special adaptation or specialized design.”</p>
 <p><em>Inclusive Development</em> is really taking that next logical step and adhering to inclusive design principles during the development process. Essentially, it is a shift in the way you approach your thinking about development. So during the development phase, you choose or create code, markup, libraries, and other developmental pieces that are accessible (or as accessible as possible).</p>
 

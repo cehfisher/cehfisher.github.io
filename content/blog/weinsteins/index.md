@@ -4,9 +4,9 @@ date: "2017-10-15"
 thumbnail: ./wein.jpg
 description: Facing the Monster Under My Own Bed
 published: Originally published on Code Like a Girl
+tags: development, technology, tech culture, diversity in tech
 ---
 
-<em class="hidden">Originally published on <a href="https://code.likeagirl.io/there-are-weinsteins-lurking-in-every-profession-including-tech-d833d7d92758" target="_blank" rel="noopener noreferrer">Code Like a Girl</a></em>
 ##The Backstory
 
 Unless you have been under a rock for the last week or so, you have probably heard about the horrible allegations leveled against <a href="https://www.newyorker.com/news/news-desk/from-aggressive-overtures-to-sexual-assault-harvey-weinsteins-accusers-tell-their-stories" target="_blank" rel="noopener noreferrer">Harvey Weinstein</a> — a.k.a. the mega movie mogul who liked to leverage his position for evil. Really, it is a classic case of abuse of power...a real-life drama, that will likely become a movie itself in short time.

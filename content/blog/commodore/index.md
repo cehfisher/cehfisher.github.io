@@ -4,9 +4,8 @@ date: "2017-10-05"
 thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
 published: Originally published on Hacker Noon
+tags: development, technology, tech culture, STEM, diversity in tech
 ---
-
-<em class="hidden">Originally published on <a href="https://hackernoon.com/confessions-of-a-middle-aged-techie-21e704cda942" target="_blank" rel="noopener noreferrer">Hacker Noon</a></em>
 
 ##In a Galaxy Far, Far Away
 
