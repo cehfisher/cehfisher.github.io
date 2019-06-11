@@ -582,7 +582,7 @@ a:active {
 }
 
 .post-content-excerpt {
-  margin: -2vw 0 3vw;
+  margin: 0 2vh 2vh;
   font-size: 2.2rem;
   line-height: 1.6em;
   color: var(--color-base);
@@ -863,6 +863,12 @@ a:active {
   top: 0;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .snow {
+    display: none;
+  }
+}
+
 #background-svg {
   position: absolute;
   bottom: 0;
@@ -882,10 +888,10 @@ a:active {
 
 .published {
   font-size: 1.75rem;
-  margin: 1rem 0 -1rem;
+  margin: 1vh 0 -1vh;
 }
 
 .publishedplace {
-  margin-top: -3rem;
+  margin-top: -1vh;
   text-align: center;
 }
