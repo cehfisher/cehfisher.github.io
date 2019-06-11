@@ -149,19 +149,19 @@ class Layout extends React.Component {
               <nav id="swup" className="main-menu">
                 <ul className="nav">
                   <li className="nav-home">
-                    <Link to={`/`} aria-label="Home"><Icon1 /><span className="hidden">Home</span></Link>
+                    <Link to={`/`}><Icon1 /><span className="hidden">Home</span></Link>
                   </li>
                   <li className="nav-about">
-                    <Link to={`/about`} aria-label="About"><FiSmile /><span className="hidden">About</span></Link>
+                    <Link to={`/about`}><FiSmile /><span className="hidden">About</span></Link>
                   </li>
                   <li className="nav-speak">
-                    <Link to={`/speak`} aria-label="Speak"><Icon2 /><span className="hidden">Speak</span></Link>
+                    <Link to={`/speak`}><Icon2 /><span className="hidden">Speak</span></Link>
                   </li>
                   <li className="nav-write">
-                    <Link to={`/write`} aria-label="Write"><Icon3 /><span className="hidden">Write</span></Link>
+                    <Link to={`/write`}><Icon3 /><span className="hidden">Write</span></Link>
                   </li>
                   <li className="nav-accessibility">
-                    <Link to={`/accessibility`} aria-label="Accessibility"><FiHeart /><span className="hidden">Accessibility</span></Link>
+                    <Link to={`/accessibility`}><FiHeart /><span className="hidden">Accessibility</span></Link>
                   </li>
                 </ul>
               </nav>
@@ -177,35 +177,31 @@ class Layout extends React.Component {
           <ul className="nav">
             <li className="social-twitter"><a
               href="https://twitter.com/cariefisher"
-              title="Twitter"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiTwitter />
+              <FiTwitter /><span className="hidden">Twitter</span>
             </a></li>
             <li className="social-linkedin"><a
               href="https://www.linkedin.com/in/cariefisher"
-              title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiLinkedin />
+              <FiLinkedin /><span className="hidden">LinkedIn</span>
             </a></li>
             <li className="social-notist"><a
               href="https://noti.st/cariefisher"
-              title="Noti.st"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiStar />
+              <FiStar /><span className="hidden">Notist</span>
             </a></li>
             <li className="social-github"><a
               href="https://www.github.com/cehfisher"
-              title="GitHub"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FiGithub />
+              <FiGithub /><span className="hidden">Github</span>
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>
