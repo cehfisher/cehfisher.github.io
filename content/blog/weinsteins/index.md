@@ -1,5 +1,5 @@
 ---
-title: There Are “Weinsteins” Lurking in Every Profession — Including Tech
+title: “Weinsteins” are Lurking in Every Profession — Including Tech
 date: "2017-10-15"
 thumbnail: ./wein.jpg
 description: Facing the Monster Under My Own Bed

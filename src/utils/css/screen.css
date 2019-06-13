@@ -509,6 +509,7 @@ body {
   opacity: 1;
   transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
   border: 5px dotted var(--color-hot-pink);
+  text-shadow: 1px 1px #3b3838;
 }
 
 a:focus,
