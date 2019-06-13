@@ -887,15 +887,6 @@ a:active {
   z-index: 0;
 }
 
-.kg-card {
-  margin: -4rem 0 -5rem;
-}
-@media (max-width: 800px) {
-  .kg-card {
-    margin: 0;
-  }
-}
-
 .dots-svg {
   color: var(--color-orange);
   font-size: 5rem;
@@ -909,4 +900,23 @@ a:active {
 .publishedplace {
   margin-top: -1vh;
   text-align: center;
+}
+
+.kg-card {
+  margin: -4rem 0 -5rem;
+}
+@media (max-width: 800px) {
+  .kg-card {
+    margin: 0;
+  }
+}
+
+.kg-card figcaption {
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  line-height: 1.5em;
+  font-weight: 600;
+  color: var(--color-base);
+  text-align: center;
+  opacity: 1;
 }
