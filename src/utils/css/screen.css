@@ -636,7 +636,7 @@ a:active {
   margin-top: -13rem;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 900px) {
   .post-content-body.missing,
   .post-content-body.about,
   .post-content-body.speak,

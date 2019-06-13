@@ -42,7 +42,7 @@
   }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 900px) {
   #a11y-svg {
     font-size: 50px;
     height: 0;
