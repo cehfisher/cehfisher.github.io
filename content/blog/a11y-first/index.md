@@ -51,7 +51,7 @@ tags: accessibility, a11y, design, style guides, patterns, development
 <p>By now, a lot of people have used component driven development using style guides in their development workflow process. Even if you have not formally heard the term or use the tools, I am betting you are already doing it to some degree already…it is about breaking a large website down into manageable pieces. Much like building a house, you need to build one piece of your house at a time…first the foundation, then the structure, walls, windows, roof, and everything in between. Component driven development tools allow us to do this, but for websites.</p>
 <p>Component driven development helps break the website down into manageable components, so there is less development time with these reusable components. It allows front-end and back-end developers to work simultaneously. And clients love it because they can preview the build process and can use living style guide as a reference after the website has launched.</p>
 
-<div class="kg-card kg-image-card kg-width-medium">
+<div class="kg-card kg-image-card kg-card-left">
 
 ![a11y-first](./first3.png "Accessibility Style Guide logo")
 

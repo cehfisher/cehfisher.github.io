@@ -927,3 +927,16 @@ a:active {
   width: 100%;
   min-height: 515px;
 }
+
+.kg-card-left {
+  float: left;
+  margin-right: 5rem;
+  width: 40%;
+}
+@media (max-width: 800px) {
+  .kg-card-left {
+    float: none;
+    margin-right: inherit;
+    width: 100%;
+  }
+}
