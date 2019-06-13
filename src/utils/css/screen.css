@@ -895,6 +895,7 @@ a:active {
 .published {
   font-size: 1.75rem;
   margin: 1vh 0 -1vh;
+  font-style: italic;
 }
 
 .publishedplace {
@@ -919,4 +920,10 @@ a:active {
   color: var(--color-base);
   text-align: center;
   opacity: 1;
+}
+
+.kg-image {
+  max-width: 100%;
+  width: 100%;
+  min-height: 515px;
 }
