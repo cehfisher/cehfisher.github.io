@@ -46,7 +46,7 @@
   #missing-svg {
     font-size: 50px;
     height: 0;
-    margin: 5rem 0 2.5rem;
+    margin: 4.5rem 0 2.5rem;
     transform: rotate(0deg);
     left: 0;
     top: 0;
