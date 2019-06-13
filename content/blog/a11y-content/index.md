@@ -1,22 +1,22 @@
 ---
-title: Designing Accessible Content - Typography, Font Styling, and Structure
+title: Designing Accessible Content
 date: "2018-10-25"
 thumbnail: ./content.jpg
-description: Creating and designing accessible content means more than just choosing accessible typography. Even with “perfect” font families in place on your website, people with low vision, cognitive, language, and learning disabilities may still struggle to process the text. 
+description: Best practices for accessible typography, font styling, and structure
 published: Originally published on Envato Tuts+
 tags: accessibility, a11y, content, typography, design, development
 ---
 
 ##Consider Your Typography
 
-It can be a bit overwhelming when you think of all the elements you have to consider when choosing an accessible typeface–serif vs. sans-serif, font variations, font size, kerning, tracking…to name just a few–but if you follow the guidelines below you will have taken the first steps in making your website typography more accessible.
+Creating and designing accessible content means more than just choosing accessible typography. Even with “perfect” font families in place on your website, people with low vision, cognitive, language, and learning disabilities may still struggle to process the text. It can be a bit overwhelming when you think of all the elements you have to consider when choosing an accessible typeface–serif vs. sans-serif, font variations, font size, kerning, tracking…to name just a few–but if you follow the guidelines below you will have taken the first steps in making your website typography more accessible.
 
 ###Find Common Ground
 Less is more when it comes to accessible typography. The easiest way to make your typography accessible is to choose a common font and limit the number of fonts on your website. This is especially important for your main body copy. Studies show common fonts most often win when reading speed and user preference of different fonts is compared.
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content1.png)
+![a11y-content](./content1.png "Common font families used for accessibility include: Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.")
 
 </div>
 
@@ -33,7 +33,7 @@ The research is not conclusive as to whether serif or sans serif typefaces are e
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content2.png)
+![a11y-content](./content2.png "Readability differences between Gill Sans and PT Mono.")
 
 </div>
 
@@ -54,7 +54,7 @@ Besides picking a common font family and paying attention to character uniquenes
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content3.png)
+![a11y-content](./content3.png "Avoid fancy display fonts when designing for accessibility.")
 
 </div>
 
@@ -82,7 +82,7 @@ With the number of people who have some variant of color blindness, suffer from 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content4.png)
+![a11y-content](./content4.png "Example color ratio chart for text and backgrounds.")
 
 </div>
 
@@ -105,7 +105,7 @@ Think of each page on your website as being an outline to a story. By thinking a
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content5.png)
+![a11y-content](./content5.png "Long lines with small letter-spacing (bad) vs. short lines with regular letter-spacing (good).")
 
 </div>
 
@@ -118,7 +118,7 @@ For people with cognitive and attention-deficit disorders, whitespace is helpful
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content6.png)
+![a11y-content](./content6.png "Fully justified text (bad) vs. left aligned text (good).")
 
 </div>
 
