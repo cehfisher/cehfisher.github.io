@@ -411,7 +411,7 @@ h3 {
 }
 @media (max-width: 700px) {
   h3 {
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 }
 
@@ -421,7 +421,7 @@ h4 {
 }
 @media (max-width: 700px) {
   h4 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
   }
 }
 
@@ -431,13 +431,13 @@ h5 {
 }
 @media (max-width: 700px) {
   h5 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
   }
 }
 
 h6 {
   margin: 1.5em 0 1em 0;
-  font-size: 2.1rem;
+  font-size: 2rem;
 }
 @media (max-width: 700px) {
   h6 {

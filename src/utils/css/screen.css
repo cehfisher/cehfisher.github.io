@@ -890,7 +890,7 @@ a:active {
 .kg-card {
   margin: -4rem 0 -5rem;
 }
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .kg-card {
     margin: 0;
   }
