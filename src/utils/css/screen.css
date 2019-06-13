@@ -890,6 +890,11 @@ a:active {
 .kg-card {
   margin: -4rem 0 -5rem;
 }
+@media (max-width: 700px) {
+  .kg-card {
+    margin: 0;
+  }
+}
 
 .dots-svg {
   color: var(--color-orange);
