@@ -51,7 +51,7 @@ While it can be a bit overwhelming when you think of all the elements you have t
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-design](./a11y-design3.png "Same photo of rainbow stripes, as seen with Tritanopia (a type of colorblindness).")
+![a11y-design](./a11y-design3.png "Rainbow stripes as seen with Tritanopia (a type of colorblindness).")
 
 </div>
 

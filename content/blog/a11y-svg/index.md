@@ -2,7 +2,7 @@
 title: Creating Accessible SVGs
 date: "2019-01-10"
 thumbnail: ./svg-pattern.jpg
-description: Featuring 12 SVG pattern examples and screen reader tests
+description: Featuring twelve SVG pattern examples and screen reader tests!
 published: Originally published on Deque Systems
 tags: accessibility, a11y, design, media, patterns, development
 ---
@@ -22,46 +22,61 @@ tags: accessibility, a11y, design, media, patterns, development
 
 <h2>Using the &lt;img&gt; Tag</h2><p>For basic, uncomplicated, or decorative images, use the <code>&lt;img&gt;</code> tag and reference the SVG as a file. This pattern should render lighter and faster pages overall (versus inline SVGs) and allow for easier maintenance on SVGs that you use in multiple places.</p>
 
+<div class="kg-card-left">
 <h3>SVG Pattern 1</h3>
-<div class="kg-card kg-image-card kg-width-medium">
 
 ![a11y-svg](./pattern1.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;img class="lightbulb" alt="Lightbulb moment!" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/BulbIcon.svg"></code>
+</div>
 
-<h3>SVG pattern 2</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 2</h3>
 
 ![a11y-svg](./pattern2.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;img class="lightbulb" role="img" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/BulbIcon.svg" alt="Lightbulb moment!" /></code>
+</div>
 
-<h3>SVG pattern 3</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 3</h3>
 
 ![a11y-svg](./pattern3.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;img class="lightbulb" role="img" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/BulbIcon.svg" aria-label="Lightbulb moment!" /></code>
+</div>
 
-<h3>SVG pattern 4</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 4</h3>
 
 ![a11y-svg](./pattern4.png)
 
 </div>
 
-<h4>Code:</h4>
-<code>&#60;p id="caption1" class="visually-hidden">Lightbulb moment!</p>
+<div class="kg-card-right">
+<h3>Code</h3><code>&#60;p id="caption1" class="visually-hidden">Lightbulb moment!</p>
 &#60;img class="lightbulb" role="img" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/BulbIcon.svg" aria-labelledby="caption1" /></code>
+</div>
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
 
 <table id="results"><caption><h3>Results for SVG Patterns using <code>&lt;img&gt;</code></h3></caption><thead><tr><th scope="col">Screen Reader + Browser</th><th scope="col">Pattern 1</th><th scope="col">Pattern 2</th><th scope="col">Pattern 3</th><th scope="col">Pattern 4</th></tr></thead><tbody><tr><th scope="row">Mac: Safari + VoiceOver<br> (v 12.0.2)</th><td>Lightbulb Moment! (group)</td><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! Lightbulb Moment! (image)</td></tr><tr><th scope="row">Windows: Firefox + NVDA<br> (FF v63.0.1 + NVDA v2018.4)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>Lightbulb moment! (graphic) Lightbulb moment!</td></tr><tr><th scope="row">Windows: Chrome + NVDA<br> (Chrome v71.0 + NVDA v2018.1.1)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>Lightbulb moment! (graphic) Lightbulb moment!</td></tr><tr><th scope="row">Windows: Edge + Narrator<br> (v42.17134)</th><td>(image) Lightbulb moment!</td><td>(image) Lightbulb moment!</td><td>(image) Lightbulb moment!</td><td>Lightbulb moment! (image) Lightbulb moment!</td></tr><tr><th scope="row">Windows: IE11 + JAWS<br> (IE 11 v11.111 + JAWS Prof 2018)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>Lightbulb moment! (graphic) Lightbulb moment!</td></tr><tr><th scope="row">Mobile (iOS): Safari + VoiceOver<br> (v12.1.2)</th><td><em>Not focusable</em></td><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! Lightbulb Moment! (image)</td></tr><tr><th scope="row">Mobile (Android): Chrome + TalkBack<br> (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! Lightbulb moment! (graphic)</td></tr><tr><th scope="row">Mobile (Android): Firefox + TalkBack<br> (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic)</td></tr></tbody></table>
 
@@ -69,231 +84,151 @@ tags: accessibility, a11y, design, media, patterns, development
 
 <h2>Using the &lt;svg&gt; Tag</h2><p>For more complex or essential SVGs, you should consider adding the SVG as markup into the HTML. Although adding the SVG into the markup makes the page potentially heavier and slower, you have more options with JavaScript and CSS to manipulate the styles and animations of the images.</p>
 
+<div class="kg-card-left">
 <h3>SVG Pattern 5</h3>
-<div class="kg-card kg-image-card kg-width-medium">
 
 ![a11y-svg](./pattern5.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title>Lightbulb moment!</title>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg>
+&#60;path d="M19..."/>
+&#60;/svg>
  </code>
+</div>
 
-<h3>SVG pattern 6</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 6</h3>
 
 ![a11y-svg](./pattern6.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;text>Lightbulb moment!</text>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg></code>
+&#60;path d="M19..."/>
+&#60;/svg></code>
+</div>
 
-<h3>SVG pattern 7</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 7</h3>
 
 ![a11y-svg](./pattern7.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title>Lightbulb moment!</title>
       &#60;text class="visually-hidden" font-size="0">I have a great idea.</text>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg></code>
+&#60;path d="M19..."/>
+&#60;/svg></code>
+</div>
 
-<h3>SVG pattern 8</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 8</h3>
 
 ![a11y-svg](./pattern8.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" aria-labelledby="lightbulb8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title id="lightbulb8">Lightbulb moment!</title>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg></code>
+&#60;path d="M19..."/>
+&#60;/svg></code>
+</div>
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
 
 <table id="results2"><caption><h3>Results for SVG Patterns using <code>&lt;svg&gt;</code></h3></caption><thead><tr><th scope="col">Screen Reader + Browser</th><th scope="col">Pattern 5</th><th scope="col">Pattern 6</th><th scope="col">Pattern 7</th><th scope="col">Pattern 8</th></tr></thead><tbody><tr><th scope="row">Mac: Safari + VoiceOver (v 12.0.2)</th><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment!</td><td>I have a great idea.<p></p><p>&lt;<em>title&gt; ignored</em></p></td><td>Lightbulb Moment! (image)</td></tr><tr><th scope="row">Windows: Firefox + NVDA (FF v63.0.1 + NVDA v2018.4)</th><td>Lightbulb moment! (graphic) Lightbulb moment!</td><td><em>Not focusable</em></td><td>Lightbulb moment! (graphic) Lightbulb moment!<p></p><p>&lt;<em>text&gt; ignored</em></p></td><td>Lightbulb moment! (graphic) Lightbulb moment!</td></tr><tr><th scope="row">Windows: Chrome + NVDA (Chrome v71.0 + NVDA v2018.1.1)</th><td>(graphic) Lightbulb moment!</td><td><em>Not focusable</em></td><td>(graphic) Lightbulb moment!<p></p><p>&lt;<em>text&gt; ignored</em></p></td><td>(graphic) Lightbulb moment!</td></tr><tr><th scope="row">Windows: Edge + Narrator (v42.17134)</th><td>(image) Lightbulb moment!</td><td>(image) Lightbulb moment!</td><td>(image) Lightbulb moment! I have a great idea.</td><td>(image) Lightbulb moment!</td></tr><tr><th scope="row">Windows: IE11 + JAWS (IE 11 v11.111 + JAWS Prof 2018)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment! (graphic) I have a great idea.</td><td>(graphic) Lightbulb moment!</td></tr><tr><th scope="row">Mobile (iOS): Safari + VoiceOver (v12.1.2)</th><td>Lightbulb Moment! (image)</td><td>(image)</td><td>Lightbulb Moment! (image)<p></p><p>&lt;<em>text&gt; ignored</em></p></td><td>Lightbulb Moment! (image)</td></tr><tr><th scope="row">Mobile (Android): Chrome + TalkBack (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic)</td><td><em>Not focusable</em></td><td>Lightbulb moment! (graphic)<p></p><p>&lt;<em>text&gt; ignored</em></p></td><td>Lightbulb moment! (graphic)</td></tr><tr><th scope="row">Mobile (Android): Firefox + TalkBack (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic) (graphic)</td><td>(graphic) Lightbulb moment! (graphic)</td><td>Lightbulb moment! (graphic) I have a great idea. (graphic)</td><td>Lightbulb moment! (graphic) (graphic)</td></tr></tbody></table>
 
+<div class="kg-card-left">
 <h3>SVG Pattern 9</h3>
-<div class="kg-card kg-image-card kg-width-medium">
 
 ![a11y-svg](./pattern9.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" aria-describedby="lightbulb9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title id="lightbulb9">Lightbulb moment!</title>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg>
+&#60;path d="M19..."/>
+&#60;/svg>
  
  </code>
+</div>
 
-<h3>SVG pattern 10</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 10</h3>
 
 ![a11y-svg](./pattern10.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title>Lightbulb moment!</title>
       &#60;desc>I have a great idea.</desc>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg>
+&#60;path d="M19..."/>
+&#60;/svg>
  </code>
+</div>
 
-<h3>SVG pattern 11</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 11</h3>
 
 ![a11y-svg](./pattern11.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" aria-labelledby="lightbulb11 description11" version="1.1" class="hotpink" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title id="lightbulb11">Lightbulb moment!</title>
       &#60;desc id="description11">I have a great idea.</desc>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg></code>
+&#60;path d="M19..."/>
+&#60;/svg></code>
+</div>
 
-<h3>SVG pattern 12</h3>
-<div class="kg-card kg-image-card kg-width-medium">
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<div class="kg-card-left">
+<h3>SVG Pattern 12</h3>
 
 ![a11y-svg](./pattern12.png)
 
 </div>
 
-<h4>Code:</h4>
+<div class="kg-card-right">
+<h3>Code</h3>
 <code>&#60;svg role="img" aria-describedby="lightbulb12 description12" version="1.1" class="ltgray" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
       &#60;title id="lightbulb12">Lightbulb moment!</title>
       &#60;desc id="description12">I have a great idea.</desc>
-&#60;path d="M19,39v-1h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19v-2h10v2h0.5c0.3,0,0.5,0.2,0.5,0.5S29.8,38,29.5,38H29v1h0.5
-    c0.3,0,0.5,0.2,0.5,0.5S29.8,40,29.5,40H29c0,0-1.4,3-5,3s-5-3-5-3h-0.5c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5H19z M20,39h8v-1h-8
-    V39z M20.2,40c0.2,0.3,0.4,0.5,0.7,0.8c0.8,0.8,1.9,1.2,3.2,1.2s2.3-0.5,3.2-1.2c0.3-0.2,0.5-0.5,0.7-0.8H20.2L20.2,40z M20,37h8v-1
-    h-8V37z M16.1,7.8c-0.1-0.2,0-0.5,0.2-0.7c0.2-0.1,0.5,0,0.7,0.2l1.6,3.2c0.1,0.2,0,0.5-0.2,0.7c-0.2,0.1-0.5,0-0.7-0.2
-    C17.7,11,16.1,7.8,16.1,7.8z M30.2,7.4c0.1-0.2,0.4-0.4,0.7-0.2c0.2,0.1,0.4,0.4,0.2,0.7L29.5,11c-0.1,0.2-0.4,0.4-0.7,0.2
-    c-0.2-0.1-0.4-0.4-0.2-0.7C28.6,10.6,30.2,7.4,30.2,7.4z M23.1,6c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v3.2c0,0.3-0.2,0.5-0.5,0.5
-    s-0.5-0.2-0.5-0.5V6z M10.8,11.9c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0l2.3,2.4c0.2,0.2,0.2,0.5,0,0.7
-    c-0.2,0.2-0.5,0.2-0.7,0C13.1,14.3,10.8,11.9,10.8,11.9z M7.9,17.7c-0.3-0.1-0.4-0.3-0.4-0.6c0.1-0.3,0.3-0.4,0.6-0.4c0,0,0,0,0,0
-    l3.1,0.8c0.3,0.1,0.4,0.3,0.4,0.6c-0.1,0.3-0.3,0.4-0.6,0.4c0,0,0,0,0,0C11,18.5,7.9,17.7,7.9,17.7z M39.7,17.7l-3.1,0.8
-    c-0.3,0.1-0.5-0.1-0.6-0.4c-0.1-0.3,0.1-0.5,0.3-0.6l3.1-0.8c0.3-0.1,0.5,0.1,0.6,0.4C40.1,17.4,40,17.6,39.7,17.7z M35.7,11.3
-    c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0l-2.3,2.4c-0.2,0.2-0.5,0.2-0.7,0c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
-    L35.7,11.3z M18.8,34c0-5.5-4.8-5.5-4.8-12.6c0-5,4.5-9.4,10-9.4s10,4.4,10,9.4c0,7.1-4.8,7.1-4.8,12.6H18.8z M28.2,33
-    c0.2-1.8,0.8-3,2.1-4.7l0.4-0.6c1.6-2.1,2.2-3.5,2.2-6.3c0-4.5-4.1-8.4-9-8.4s-9,3.9-9,8.4c0,2.7,0.6,4.2,2.2,6.3l0.4,0.6
-    c1.3,1.7,1.9,3,2.1,4.7C19.8,33,28.2,33,28.2,33z M21.4,15.9c0.3-0.1,0.5,0.1,0.6,0.3c0.1,0.2,0,0.5-0.3,0.6c-1.8,0.7-3.2,2.2-3.9,4
-    c-0.1,0.3-0.4,0.4-0.6,0.3c-0.2-0.1-0.4-0.4-0.3-0.6C17.6,18.4,19.3,16.7,21.4,15.9z"/>
-</svg></code>
+&#60;path d="M19..."/>
+&#60;/svg></code>
+</div>
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
 
 <table id="results3"><thead><tr><th scope="col">Screen Reader + Browser</th><th scope="col">Pattern 9</th><th scope="col">Pattern 10</th><th scope="col">Pattern 11</th><th scope="col">Pattern 12</th></tr></thead><tbody><tr><th scope="row">Mac: Safari + VoiceOver (v 12.0.2)</th><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! (image) I have a great idea.</td><td>Lightbulb Moment! I have a great idea. (image) I have a great idea.</td><td>Lightbulb Moment! (image) Lightbulb Moment! I have a great idea.</td></tr><tr><th scope="row">Windows: Firefox + NVDA (FF v63.0.1 + NVDA v2018.4)</th><td>Lightbulb moment! (graphic) Lightbulb moment!</td><td>Lightbulb moment! (graphic) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>Lightbulb Moment! I have a great idea. (graphic) Lightbulb Moment! I have a great idea.</td><td>Lightbulb moment! (graphic) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td></tr><tr><th scope="row">Windows: Chrome + NVDA (Chrome v71.0 + NVDA v2018.1.1)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>(graphic) Lightbulb Moment! I have a great idea.</td><td>(graphic) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td></tr><tr><th scope="row">Windows: Edge + Narrator (v42.17134)</th><td>(image) Lightbulb moment!</td><td>(image) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>(image) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>(image) Lightbulb moment!<p></p><p>&lt;<em>desc&gt; ignored</em></p></td></tr><tr><th scope="row">Windows: IE11 + JAWS (IE 11 v11.111 + JAWS Prof 2018)</th><td>(graphic) Lightbulb moment!</td><td>(graphic) Lightbulb moment! (graphic) I have a great idea.</td><td>(graphic) Lightbulb moment! (graphic) I have a great idea.</td><td>(graphic) Lightbulb moment! (graphic) I have a great idea.</td></tr><tr><th scope="row">Mobile (iOS): Safari + VoiceOver (v12.1.2)</th><td>Lightbulb Moment! (image)</td><td>Lightbulb Moment! (image) I have a great idea.</td><td>Lightbulb Moment! I have a great idea. (image) I have a great idea.</td><td>Lightbulb Moment! (image) Lightbulb Moment! I have a great idea.</td></tr><tr><th scope="row">Mobile (Android): Chrome + TalkBack (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic) Lightbulb moment!</td><td>Lightbulb moment! (graphic)<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>Lightbulb moment! I have a great idea. (graphic)</td><td>Lightbulb moment! (graphic) Lightbulb moment! I have a great idea.</td></tr><tr><th scope="row">Mobile (Android): Firefox + TalkBack (Google Pixel 2 + Android v9)</th><td>Lightbulb moment! (graphic) (graphic)</td><td>Lightbulb moment! (graphic) (graphic)<p></p><p>&lt;<em>desc&gt; ignored</em></p></td><td>Lightbulb moment! I have a great idea. (graphic) (graphic)</td><td>Lightbulb moment! (graphic) (graphic)<p></p><p>&lt;<em>desc&gt; ignored</em></p></td></tr></tbody></table>
 
