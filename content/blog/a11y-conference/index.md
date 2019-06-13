@@ -1,5 +1,5 @@
 ---
-title: Finding a Place for Website Accessibility in Tech Conferences
+title: Finding a Place for Digital Accessibility at Tech Conferences
 date: "2018-02-20"
 thumbnail: ./a11yconf.jpg
 description: Where do Accessibility talks belong? Development, Diversity, or UX tracks? On its own? So many track choices, so little time.
