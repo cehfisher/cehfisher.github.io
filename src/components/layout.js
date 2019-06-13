@@ -37,7 +37,7 @@ class Layout extends React.Component {
     params={{
           "particles": {
             "number": {
-              "value": 60,
+              "value": 99,
               "density": {
                 "enable": true,
                 "value_area": 800
