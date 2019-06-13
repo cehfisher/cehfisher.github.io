@@ -13,9 +13,16 @@
   height: 0;
   margin: 10rem 0 5rem;
   transform: rotate(270deg);
-  left: -20.6rem;
+  left: -21.3rem;
   top: 11.6rem;
   position: relative;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #a11y-svg {
+    animation: none;
+    fill: #FF4B00;
+  }
 }
 
 #a11y-svg-design {

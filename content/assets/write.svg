@@ -13,9 +13,16 @@
   height: 0;
   margin: 10rem 0 5rem;
   transform: rotate(270deg);
-  left: -20.6rem;
+  left: -21.3rem;
   top: 11.4rem;
   position: relative;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #write-svg {
+    animation: none;
+    fill: #8323FA;
+  }
 }
 
 #write-svg-design {
