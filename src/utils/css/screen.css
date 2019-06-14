@@ -926,9 +926,10 @@ a:active {
 }
 
 .kg-image {
-  max-width: 100%;
+  max-width: 1000px;
   width: 100%;
-  min-height: 515px;
+  max-height: 660px;
+  margin: 0 auto;
 }
 
 .kg-card-left {
