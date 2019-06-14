@@ -58,7 +58,7 @@ This story starts back in 2007&#8202;—&#8202;the year that <a href="https://ww
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey5.jpg)
+![turkeys](./turkey5.jpg "Just be happy mug filled with pens, pencils, and my turkey feather.")
 
 </div>
 
