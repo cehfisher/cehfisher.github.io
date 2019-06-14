@@ -13,10 +13,16 @@ Even though I am just barely on the edge of my fourth decade on this earth and d
 
 My father was an engineer and a technophile. I still remember the day he showed up with the grayish-tannish Commodore 64 and proudly proclaimed that this was the wave of the future. Once the computer was set-up, the first thing he showed my brothers and I was how to program it using BASIC to guess your number. It was amazing! How did it know what number we were thinking of? What evil wizardry was afoot? Looking back, the Commodore was even more astounding considering how much it did with just 64 KB RAM and 20 KB ROM, which is less processing power than your <a href="https://www.engadget.com/2017/01/04/griffin-connects-your-toast-to-your-phone/" target="_blank" rel="noopener noreferrer">smart toaster</a>. We were all hooked from day one — fast forward 35 years and you might (not) be surprised that my brothers and I all are programmers.
 
+<div class="kg-card kg-image-card kg-width-medium">
+
+![commodore](./com.png "One of the first BASIC programming script I entered into the Commodore 64. Nerdy memories :)")
+
+</div>
+
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com2.jpg)
+![commodore](./com2.jpg "What is a Xennial?")
 
 </div>
 
@@ -31,7 +37,7 @@ I guess you can say that (arguably) gives us Xennials a unique perspective on te
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com3.jpg)
+![commodore](./com3.jpg "Chart showing exponential growth of computing vs the brain power of different creatures (including humans)")
 
 </div>
 
@@ -46,7 +52,7 @@ The Commodore 64 failed drastically at adaption. In the article <a href="https:/
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com4.jpg)
+![commodore](./com4.jpg "Even babies can write code.")
 
 </div>
 
@@ -61,7 +67,7 @@ The Commodore failed at this when they kicked out their founder and “man with 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com5.png)
+![commodore](./com5.png "I hate to admit how much time I spent playing Barbie’s Dream Date on my Commodore.")
 
 </div>
 
@@ -78,7 +84,7 @@ Fast forward to 2017 and this trend to focus on masculine computer programs/game
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com6.png)
+![commodore](./com6.png "Why don't I own this yet?!")
 
 </div>
 
