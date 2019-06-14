@@ -576,7 +576,7 @@ a:active {
   max-width: 800px;
   margin: 0 auto;
   background: white;
-  padding: 6rem;
+  padding: 5rem 6rem;
   margin-top: 3rem;
 }
 
@@ -957,4 +957,10 @@ a:active {
     margin-right: inherit;
     width: 100%;
   }
+}
+
+.h1-svg {
+  text-align: unset;
+  font-weight: unset;
+  font-size: 0;
 }

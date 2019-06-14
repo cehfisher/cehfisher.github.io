@@ -19,8 +19,7 @@ class NotFoundPage extends React.Component {
         <SEO title="404: Not Found" />
         <article className="post-content page-template no-image">
         <div className="post-content-body missing">
-          <Icon />
-          <h1 class="hidden">Missing page</h1>
+          <h1 class="h1-svg"><Icon /></h1>
           <p>
             You found a flaw in the system. Please report this miscreant to me immediately via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a>. Thanks!</p><p>
             <blockquote>“If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?” – Albert Einstein</blockquote></p>

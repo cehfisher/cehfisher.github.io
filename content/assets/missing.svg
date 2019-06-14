@@ -1,4 +1,4 @@
-<svg version="1.1" id="missing-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" role="img" aria-hidden="true" focusable="false">
+<svg version="1.1" id="missing-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" role="img" aria-label="404: Page Not Found" focusable="false">
 <style>
 .cls-1{stroke:#FFBC42;}
 #missing-svg {
@@ -62,6 +62,6 @@
 }
 </style>
         <g id="missing-svg-design">
-        	<text class="cls-1">oh no!</text>
+        	<text aria-hidden="true" class="cls-1">oh no!</text>
         </g>
       </svg>
