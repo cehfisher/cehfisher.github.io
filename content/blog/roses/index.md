@@ -14,7 +14,7 @@ I quickly came to realize that changing up a daily routine can be tricky, especi
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose1.png)
+![roses](./rose1.png "Twitter correspondence with Michael Miles.")
 
 </div>
 
@@ -30,7 +30,7 @@ I decided to try the ladder option to see if my writing productivity level would
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose2.png)
+![roses](./rose2.png "Rodin's sculpture The Thinker.")
 
 </div>
 
@@ -49,10 +49,9 @@ This is especially good news since productivity experts have found that our capa
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose3.jpg)
+![roses](./rose3.jpg "Adapted image showing a Pavlovian response to notifications. Get the real poster here from Lili Chin.")
 
 </div>
-<em class="footnotes">Adapted image showing a Pavlovian response to notifications. Get the real poster here from <a href="https://www.doggiedrawings.net/freeposters" data-href="https://www.doggiedrawings.net/freeposters" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">Get the real poster here from Lili&nbsp;Chin</a>.</em>
 
 ##Take a Break From Distractions
 The zen of technology is hard to obtain. I can admit that Slack pings and Twitter notifications illicit a <a href="https://en.wikipedia.org/wiki/Classical_conditioning" data-href="https://en.wikipedia.org/wiki/Classical_conditioning" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Pavlovian response</a> in me. Just like the dog in the famous experiment, I have been conditioned to respond to a noise/visual clue as quickly as possible in order to get my reward. Your distraction mechanism might be different, but your response is probably similar.
@@ -70,7 +69,7 @@ The most surprising thing I found when I unplugged, was how productive I became 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose4.jpg)
+![roses](./rose4.jpg "Little kid with round glasses looking very bored.")
 
 </div>
 
@@ -91,7 +90,7 @@ By allowing your brain some boredom, some quiet, some mindfulness, you just may 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose5.jpg)
+![roses](./rose5.jpg "Kites on Ice event in Madison, WI.")
 
 </div>
 
