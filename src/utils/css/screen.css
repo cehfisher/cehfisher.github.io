@@ -964,3 +964,9 @@ a:active {
   font-weight: unset;
   font-size: 0;
 }
+
+.h1-svg-home {
+  text-align: unset;
+  font-weight: unset;
+  font-size: unset;
+}

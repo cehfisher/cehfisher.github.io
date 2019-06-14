@@ -24,6 +24,7 @@ const BlogIndex = ({ data }, location) => {
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
+          <h1 class="h1-svg">Hello! I'm Carie</h1>
           <Icon/>
         </header>
       )}
