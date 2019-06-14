@@ -1,5 +1,5 @@
-<svg version="1.1" id="write-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
-        <title>Writing</title><style>
+<svg version="1.1" id="write-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" role="img" aria-label="Writing" focusable="false">
+<style>
 .cls-1{stroke:#8323FA;}
 #write-svg {
   stroke-linecap: round;
@@ -62,6 +62,6 @@
 }
 </style>
         <g id="write-svg-design">
-        	<text class="cls-1">write</text>
+        	<text aria-hidden="true" class="cls-1">write</text>
         </g>
       </svg>

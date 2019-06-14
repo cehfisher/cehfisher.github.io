@@ -21,8 +21,7 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body about">
-          <Icon />
-          <h1 class="hidden">About Carie</h1>
+          <h1 class="h1-svg"><Icon /></h1>
           <p>
             I have been building websites professionally since the early 2000s and I am passionate
             about front-end development, accessibility, and promoting diversity

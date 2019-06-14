@@ -1,5 +1,5 @@
-<svg version="1.1" id="about-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
-        <title>About Carie</title><style>
+<svg version="1.1" id="about-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" role="img" aria-label="About Carie" focusable="false">
+<style>
 .cls-1{stroke:#EA3BCB;}
 #about-svg {
   stroke-linecap: round;
@@ -62,6 +62,6 @@
 }
 </style>
         <g id="about-svg-design">
-        	<text class="cls-1">about</text>
+        	<text aria-hidden="true" class="cls-1">about</text>
         </g>
       </svg>

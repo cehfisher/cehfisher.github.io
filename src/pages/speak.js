@@ -20,8 +20,7 @@ const AboutPage = ({ data }, location) => {
       />
       <article className="post-content page-template no-image">
         <div className="post-content-body speak">
-          <Icon />
-          <h1 class="hidden">Speaking</h1>
+          <h1 class="h1-svg"><Icon /></h1>
           <p>When I have a great idea, I can't keep it to myself!</p><p>Between client trainings and conference talks, I love to share some of the knowledge I've gained these past 15 years or so in the tech business. I am always looking for opportunities to speak - especially in tropical locations in winter (it's cold in Wisconsin)!</p><p>Here are some of the places I've been fortunate enough to speak at:<ul><li>a11yTO</li><li>DrupalCon</li><li>Drupal camps</li><li>WordSesh</li><li>WordPress Campus</li><li>various client trainings</li></ul></p><p>For more info, see my <a href="https://noti.st/cariefisher" rel="noopener noreferrer" target="_blank">speaking portfolio on Noti.st</a></p>
         </div>
       </article>
