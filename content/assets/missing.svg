@@ -1,5 +1,5 @@
-<svg version="1.1" id="missing-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
-        <title>Missing link</title><style>
+<svg version="1.1" id="missing-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" role="img" aria-hidden="true" focusable="false">
+<style>
 .cls-1{stroke:#FFBC42;}
 #missing-svg {
   stroke-linecap: round;
