@@ -15,7 +15,7 @@ Ten years ago a wild turkey tried to kill me. No, I am not talking about the <a 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey1.png)
+![turkeys](./turkey.png "2007: iPhones and mouse brains and Windows, oh my!")
 
 </div>
 
@@ -32,19 +32,19 @@ This story starts back in 2007&#8202;—&#8202;the year that <a href="https://ww
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey2.jpg)
+![turkeys](./turkey2.jpg "My seat after the accident. Notice the person-shaped area sans glass.")
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey3.jpg)
+![turkeys](./turkey3.jpg "Notice no airbag deployed…guessing the van did not have one.")
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey4.jpg)
+![turkeys](./turkey4.jpg "You can see from these photos how very close I got to a turkey in the face.")
 
 </div>
 
