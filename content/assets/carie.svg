@@ -1,10 +1,10 @@
-<svg viewBox="0 0 200 100" id="carie-svg" role="img" aria-label="About Carie" focusable="false">
-  <defs>
+<svg viewBox="0 0 200 100" id="carie-svg" role="presentation" focusable="false">
+  <defs aria-hidden="true">
     <linearGradient id="rainbow" x1="0" x2="0" y1="0" y2="100%" gradientUnits="userSpaceOnUse" >
       <stop stop-color="#FF4B00" offset="20%"/>
       <stop stop-color="#EA3BCB" offset="50%"/>
       <stop stop-color="#8323FA" offset="90%"/>
     </linearGradient>
   </defs>
-  <text aria-hidden="true" stroke="#555555" stroke-width="0.75px" font-weight="300" font-fmaily="Muli, sans-serif" fill="url(#rainbow)"><tspan font-size="65" x="0" y="47">hello!</tspan><tspan font-size="38" x="1" dy="33">I'm Carie</tspan></text>
+  <text role="presentation" stroke="#555555" stroke-width="0.75px" font-weight="300" font-fmaily="Muli, sans-serif" fill="url(#rainbow)"><tspan font-size="65" x="0" y="47" role="presentation">hello!</tspan><tspan font-size="38" x="1" dy="33" role="presentation">I'm Carie</tspan></text>
 </svg>
