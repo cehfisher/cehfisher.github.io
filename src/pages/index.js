@@ -18,7 +18,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
-        title="All posts"
+        title="Carie Fisher's digital portfolio and blog"
         keywords={[`blog`, `gatsby`, `javascript`, `accessibility`]}
       />
       {/* <Bio /> */}
