@@ -970,3 +970,7 @@ a:active {
   font-weight: unset;
   font-size: unset;
 }
+
+.page-template .post-content-body h1.h1-svg {
+  text-align: unset;
+}
