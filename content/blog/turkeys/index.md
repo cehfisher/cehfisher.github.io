@@ -15,7 +15,7 @@ Ten years ago a wild turkey tried to kill me. No, I am not talking about the <a 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey.png "2007: iPhones and mouse brains and Windows, oh my!")
+![Steve Jobs, a virtual mouse, and browser stats.](./turkey.png "2007: iPhones and mouse brains and Windows, oh my!")
 
 </div>
 
@@ -32,19 +32,19 @@ This story starts back in 2007&#8202;—&#8202;the year that <a href="https://ww
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey2.jpg "My seat after the accident. Notice the person-shaped area sans glass.")
+![Van chair with glass.](./turkey2.jpg "My seat after the accident. Notice the person-shaped area sans glass.")
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey3.jpg "Notice no airbag deployed…guessing the van did not have one.")
+![Van windshield bent in - inside view.](./turkey3.jpg "Notice no airbag deployed…guessing the van did not have one.")
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey4.jpg "You can see from these photos how very close I got to a turkey in the face.")
+![Van windshield bent in - outside view.](./turkey4.jpg "You can see from these photos how very close I got to a turkey in the face.")
 
 </div>
 
@@ -58,7 +58,7 @@ This story starts back in 2007&#8202;—&#8202;the year that <a href="https://ww
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![turkeys](./turkey5.jpg "Just be happy mug filled with pens, pencils, and my turkey feather.")
+![Just be happy mug filled with pens, pencils, and my turkey feather.](./turkey5.jpg "Just be happy.")
 
 </div>
 
