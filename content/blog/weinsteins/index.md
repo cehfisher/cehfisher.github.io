@@ -17,7 +17,7 @@ I applaud the women who came forward, both in the past — and were basicall
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![weinsteins](./wein1.png "I know H.T.M.L. - How to Meet Ladies shirt (insert eye roll).")
+![I know H.T.M.L. - How to Meet Ladies shirt.](./wein1.png "Insert eye roll.")
 
 </div>
 
@@ -34,7 +34,7 @@ So when my co-worker (who is sitting at his table), motions me over to sit with 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![weinsteins](./wein2.jpg "Feeling heavy.")
+![Woman in dark deep water falling down.](./wein2.jpg "Feeling heavy.")
 
 </div>
 
@@ -51,7 +51,7 @@ After the dust settled a bit, my friend begged me to report him. My co-worker be
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![weinsteins](./wein3.jpg "What decade are we living in again?")
+![1950s housewife thinking about what she will make for dinner.](./wein3.jpg "What decade are we living in again?")
 
 </div>
 
@@ -68,7 +68,7 @@ Wait…did I hear all of that correctly? Or had we just time traveled back to th
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![weinsteins](./wein4.jpg "Beautiful iridescent green butterfly representing change and hope.")
+![Beautiful iridescent green butterfly representing change and hope.](./wein4.jpg "Feeling lighter.")
 
 </div>
 
