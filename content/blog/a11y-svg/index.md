@@ -25,7 +25,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 1</h3>
 
-![a11y-svg](./pattern1.png)
+![Lightbulb drawing painted in coral color.](./pattern1.png)
 
 </div>
 
@@ -39,7 +39,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 2</h3>
 
-![a11y-svg](./pattern2.png)
+![Lightbulb drawing painted in purple color.](./pattern2.png)
 
 </div>
 
@@ -53,7 +53,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 3</h3>
 
-![a11y-svg](./pattern3.png)
+![Lightbulb drawing painted in rose color.](./pattern3.png)
 
 </div>
 
@@ -67,7 +67,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 4</h3>
 
-![a11y-svg](./pattern4.png)
+![Lightbulb drawing painted in lime-green color.](./pattern4.png)
 
 </div>
 
@@ -87,7 +87,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 5</h3>
 
-![a11y-svg](./pattern5.png)
+![Lightbulb drawing painted in dark blue color.](./pattern5.png)
 
 </div>
 
@@ -105,7 +105,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 6</h3>
 
-![a11y-svg](./pattern6.png)
+![Lightbulb drawing painted in dark green color.](./pattern6.png)
 
 </div>
 
@@ -122,7 +122,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 7</h3>
 
-![a11y-svg](./pattern7.png)
+![Lightbulb drawing painted in dark purple color.](./pattern7.png)
 
 </div>
 
@@ -140,7 +140,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 8</h3>
 
-![a11y-svg](./pattern8.png)
+![Lightbulb drawing painted in baby pink color.](./pattern8.png)
 
 </div>
 
@@ -161,7 +161,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 9</h3>
 
-![a11y-svg](./pattern9.png)
+![Lightbulb drawing painted in orange color.](./pattern9.png)
 
 </div>
 
@@ -180,7 +180,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 10</h3>
 
-![a11y-svg](./pattern10.png)
+![Lightbulb drawing painted in baby blue color.](./pattern10.png)
 
 </div>
 
@@ -199,7 +199,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 11</h3>
 
-![a11y-svg](./pattern11.png)
+![Lightbulb drawing painted in hot pink color.](./pattern11.png)
 
 </div>
 
@@ -217,7 +217,7 @@ tags: accessibility, a11y, design, media, patterns, development
 <div class="kg-card-left">
 <h3>SVG Pattern 12</h3>
 
-![a11y-svg](./pattern12.png)
+![Lightbulb drawing painted in gray color.](./pattern12.png)
 
 </div>
 
@@ -238,7 +238,7 @@ tags: accessibility, a11y, design, media, patterns, development
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-svg](./a11y-svg.png)
+![Creating accessible SVGs banner.](./a11y-svg.png)
 
 </div>
 
