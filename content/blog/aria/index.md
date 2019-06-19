@@ -24,7 +24,7 @@ There are three main features of ARIA as defined by the guidelines:
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![aria](./aria1.png "Think about accessibility at every layer of the front-end development stack.")
+![Think about accessibility at every layer of the front-end development stack.](./aria1.png)
 
 </div>
 
@@ -131,13 +131,13 @@ As mentioned earlier in this article, it is best practice to use native HTML ele
 
 <div class="kg-card kg-image-card kg-width-small">
 
-![aria](./aria2.png "What is your favorite flavor of ice cream? Vanilla, Chocolate, Strawberry, I prefer cake.")
+![What is your favorite flavor of ice cream? Vanilla, Chocolate, Strawberry, I prefer cake.](./aria2.png)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-small">
 
-![aria](./aria3.png "Which one of these scientists most inspires you? Marie Curie, Jane Goodall, Rosalind Franklin, Hedy Lamarr.")
+![Which one of these scientists most inspires you? Marie Curie, Jane Goodall, Rosalind Franklin, Hedy Lamarr.](./aria3.png)
 
 </div>
 
@@ -155,7 +155,7 @@ Those warnings aside, digital accessibility really is not an all-or-nothing situ
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![aria](./aria.png "Much Ado About ARIA")
+![Much Ado About ARIA banner.](./aria.png)
 
 </div>
 
