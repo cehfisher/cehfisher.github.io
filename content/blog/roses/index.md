@@ -14,7 +14,7 @@ I quickly came to realize that changing up a daily routine can be tricky, especi
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose1.png "Twitter correspondence with Michael Miles.")
+![Twitter correspondence with Michael Miles.](./rose1.png)
 
 </div>
 
@@ -30,7 +30,7 @@ I decided to try the ladder option to see if my writing productivity level would
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose2.png "Rodin's sculpture The Thinker.")
+![Rodin's sculpture The Thinker.](./rose2.png "Cogito, ergo sum (I think, therefore I am).")
 
 </div>
 
@@ -49,7 +49,7 @@ This is especially good news since productivity experts have found that our capa
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose3.jpg "Adapted image showing a Pavlovian response to notifications. Get the real poster here from Lili Chin.")
+![Poster showing cartoon dog responding to a bell plus food equals love.](./rose3.jpg "Adapted image showing a Pavlovian response to social media and Slack notifications. Get the real poster here from Lili Chin.")
 
 </div>
 
@@ -69,7 +69,7 @@ The most surprising thing I found when I unplugged, was how productive I became 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose4.jpg "Little kid with round glasses looking very bored.")
+![Little kid with round glasses looking very bored.](./rose4.jpg "Terebravisse ego sum, ergo sum (I am bored, therefore I am).")
 
 </div>
 
@@ -90,7 +90,7 @@ By allowing your brain some boredom, some quiet, some mindfulness, you just may 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![roses](./rose5.jpg "Kites on Ice event in Madison, WI.")
+![Kites on Ice event in Madison, WI.](./rose5.jpg "Let's go fly a kite!")
 
 </div>
 
