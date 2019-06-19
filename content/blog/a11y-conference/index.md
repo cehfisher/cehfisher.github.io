@@ -15,7 +15,7 @@ tags: tech, a11y, accessibility, conferences, development
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-conference](./a11yconf1.jpg "This user of your website has no mouse and is in a low-light environment. Can he still use your website?")
+![Man sitting on a building ledge at dusk trying to use his computer.](./a11yconf1.jpg "This user of your website has no mouse and is in a low-light environment. Can he still use your website?")
 
 </div>
 
@@ -24,7 +24,7 @@ tags: tech, a11y, accessibility, conferences, development
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-conference](./a11yconf2.png "One way to image the three concepts of Accessibility, Diversity, and UX working symbiotically together.")
+![Venn Diagram showing User experience wrapping accessibility and diversity together.](./a11yconf2.png "One way to image the three concepts of Accessibility, Diversity, and UX working symbiotically together.")
 
 </div>
 
@@ -36,7 +36,7 @@ If we are talking about technology specifically, this commonality can be reframe
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-conference](./a11yconf3.jpg "The universe is nebulous and so is the topic of website accessibility.")
+![Space photo of an unknown object.](./a11yconf3.jpg "The universe is nebulous and so is the topic of website accessibility.")
 
 </div>
 
@@ -46,8 +46,8 @@ If we are talking about technology specifically, this commonality can be reframe
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-conference](./a11yconf4.png "Maybe you're blind but appreciate captioning. Maybe you're a paraplegic appreciating keyboard nav. #a11y means we are all in this together.")
+![Tweet from Sara: Maybe you're blind but appreciate captioning. Maybe you're a paraplegic appreciating keyboard nav. #a11y means we are all in this together.](./a11yconf4.png "I love this thought/thread. Sara Tabor calling it like it should be.")
 
 </div>
 
-<p class="c1"><span>I love this thought/thread.</span><span class="c6"><a class="c3" target="_blank" rel="noopener noreferrer" href="https://www.google.com/url?q=https://twitter.com/OneHotProcessor&amp;sa=D&amp;ust=1560140953205000">Sara Tabor</a></span><span class="c0">&nbsp;calling it like it should be.</span></p><p class="c1"><span>Part of the solution here is rethinking the way we approach design and development and how those topics are addressed at conferences. Website accessibility should be about making something </span><span class="c7">valuable</span><span class="c0">, not just accessible, to as many people as we can.</span></p><p class="c1"><span>When we get to that magical tipping point of thinking about </span><span class="c2">Website Accessibility</span><span>&nbsp;as we do </span><span class="c2">Diversity</span><span>&nbsp;and </span><span class="c2">User Experience — </span><span class="c0">as essential pieces to the development process — it will be much easier to submit talks to tech conferences. In the meantime, you can find me trying out all of the various tracks until accessibility has one of its own.</span></p><p class="c1 c5"><span class="c0"></span></p>
+<p class="c1"><span>Part of the solution here is rethinking the way we approach design and development and how those topics are addressed at conferences. Website accessibility should be about making something </span><span class="c7">valuable</span><span class="c0">, not just accessible, to as many people as we can.</span></p><p class="c1"><span>When we get to that magical tipping point of thinking about </span><span class="c2">Website Accessibility</span><span>&nbsp;as we do </span><span class="c2">Diversity</span><span>&nbsp;and </span><span class="c2">User Experience — </span><span class="c0">as essential pieces to the development process — it will be much easier to submit talks to tech conferences. In the meantime, you can find me trying out all of the various tracks until accessibility has one of its own.</span></p><p class="c1 c5"><span class="c0"></span></p>
