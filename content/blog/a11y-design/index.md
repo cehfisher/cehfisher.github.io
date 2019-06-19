@@ -28,7 +28,7 @@ Users with screen readers, reading disorders, learning disabilities, or attentio
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-design](./a11y-design2.jpg "Fancy letter D.")
+![Fancy typography with the letter D.](./a11y-design2.jpg "Fancy letter D.")
 
 </div>
 
@@ -51,7 +51,7 @@ While it can be a bit overwhelming when you think of all the elements you have t
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-design](./a11y-design3.png "Rainbow stripes as seen with Tritanopia (a type of colorblindness).")
+![Vertical lines of red, teal, and orange.](./a11y-design3.png "Rainbow stripes as seen with Tritanopia (a type of colorblindness).")
 
 </div>
 
@@ -73,7 +73,7 @@ Color and contrast is at the heart of every design. There are numerous studies a
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-design](./a11y-design4.jpg "Cartoon drawing of a giant smartphone and a man with a yellow shirt and a beard pressing the YES button on a form.")
+![Cartoon drawing of a giant smartphone and a man with a yellow shirt and a beard pressing the YES button on a form](./a11y-design4.jpg "Sometimes I wish form buttons were this big.")
 
 </div>
 
@@ -97,7 +97,7 @@ As a designer, you get off relatively easy on this element — developing th
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-design](./a11y-design5.png "Cartoon drawing of hands holding a smartphone and playing a video.")
+![Cartoon drawing of hands holding a smartphone and playing a video.](./a11y-design5.png "When's the last time you've watched a movie on your smartphone *without* captions?")
 
 </div>
 
