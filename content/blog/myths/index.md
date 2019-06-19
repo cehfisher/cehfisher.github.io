@@ -21,7 +21,7 @@ If you or your client have pondered these (or similar) thoughts, I am here to ch
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth1.png "Bell graph showing how most people are not really average users.")
+![Bell graph showing how most people are not really average users.](./myth1.png "How many people *really* fall into the average category?")
 
 </div>
 
@@ -48,7 +48,7 @@ So when you consider these additional groups, the number of people needing websi
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth2.png "Shifting left or making accessibility first helps save time, money, and effort.")
+![Chart showing the business case for putting accessibility first.](./myth2.png "Shifting left or making accessibility first helps save time, money, and effort.")
 
 </div>
 
@@ -64,7 +64,7 @@ This “<a href="https://www.24a11y.com/2017/accessibility-first/" target="_blan
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth3.png "Build accessibility into each department or workflow.")
+![Workflow chart showing accessibility in different stages and departments.](./myth3.png "Build accessibility into each department or workflow.")
 
 </div>
 
@@ -86,7 +86,7 @@ For a deeper dive on this subject, check out Dennis Lembree’s series on <a hre
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth4.png "Screenshot of Deque's home page emphasizing accessibility can be beautiful.")
+![Screenshot of Deque's home page emphasizing accessibility can be beautiful.](./myth4.png "Accessibility can be beautiful too.")
 
 </div>
 
@@ -114,7 +114,7 @@ If you are new to the field, there are a lot of great resources to help you star
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth5.png "Robots know a lot, but not a lot about accessibility.")
+![Robots know a lot, but not a lot about accessibility.](./myth5.png "Robots know a lot, but not a lot about accessibility.")
 
 </div>
 
@@ -147,7 +147,7 @@ Manual testing can include:
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![myths](./myth.jpg)
+![Accessibility myths banner.](./myth.jpg)
 
 </div>
 

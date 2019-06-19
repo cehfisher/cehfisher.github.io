@@ -6,5 +6,6 @@
       <stop stop-color="#8323FA" offset="90%"/>
     </linearGradient>
   </defs>
+  <use xlink:href="#rainbow"></use>
   <text role="presentation" stroke="#555555" stroke-width="0.75px" font-weight="300" font-fmaily="Muli, sans-serif" fill="url(#rainbow)"><tspan font-size="65" x="0" y="47" role="presentation">hello!</tspan><tspan font-size="38" x="1" dy="33" role="presentation">I'm Carie</tspan></text>
 </svg>
