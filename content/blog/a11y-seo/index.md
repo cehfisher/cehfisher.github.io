@@ -13,7 +13,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo1.jpg "Warning: bearded hipster pizza guy will hunt you down you and force you to drink a handcrafted brew he made in his bathtub, if you underestimate the importance of UI for SEO and website accessibility.")
+![Hipster man with a beard staring you down as he eats pizza.](./a11y-seo1.jpg "Warning: bearded hipster pizza guy will hunt you down you and force you to drink a handcrafted brew he made in his bathtub, if you underestimate the importance of UI for SEO and website accessibility.")
 
 </div>
 
@@ -23,7 +23,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo2.jpg "Tags, tags, everywhere tags. Handmade package tags of various sizes and colors.")
+![Six handmade package tags of various sizes and colors.](./a11y-seo2.jpg "Tags, tags, everywhere tags.")
 
 </div>
 
@@ -33,7 +33,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo3.jpg "Practice makes perfect. Athlete rests white Adidas shoes on chainlink fence.")
+![Athlete rests white Adidas shoes on chainlink fence.](./a11y-seo3.jpg "Practice makes perfect.")
 
 </div>
 
@@ -43,7 +43,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo4.jpg "Say cheese! Woman in pink floral shirt holding retro Nikon camera.")
+![Woman in pink floral shirt holding retro Nikon camera.](./a11y-seo4.jpg "Say cheese!")
 
 </div>
 
@@ -53,7 +53,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo5.jpg "Make your media work for bots and humans. Close-up of spinning record player.")
+![Close-up of spinning record player.](./a11y-seo5.jpg "Make your media work for both bots and humans.")
 
 </div>
 
@@ -63,7 +63,7 @@ Search Engine Optimization (SEO) and <span class="c1"><a class="c0" href="https:
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-seo](./a11y-seo6.jpg "Content is King. Container of printing press block letters of various sizes and font families.")
+![Container of printing press block letters of various sizes and font families.](./a11y-seo6.jpg "Content is King...and Queen.")
 
 </div>
 
