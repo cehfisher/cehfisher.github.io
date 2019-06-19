@@ -14,7 +14,7 @@ I cried when I quit my last job, mainly out of frustration. It was not a pretty 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![zoo](./zoo1.jpg "Finding the balance between work life and personal life.")
+![Left side of desk is for work, right side is for family.](./zoo1.jpg "Finding the balance between work life and personal life.")
 
 </div>
 
@@ -26,7 +26,7 @@ I cried when I quit my last job, mainly out of frustration. It was not a pretty 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![zoo](./zoo2.jpg "Chart showing the very sad state of diversity in the top tech companies. Source: http://www.businessinsider.com/infographic-tech-diversity-companies-compared-2017-8")
+![Chart showing the very sad state of diversity in the top tech companies.](./zoo2.jpg "Source: http://www.businessinsider.com/infographic-tech-diversity-companies-compared-2017-8")
 </div>
 
 ##Change #2: Make Diversity a Priority
@@ -37,7 +37,7 @@ I cried when I quit my last job, mainly out of frustration. It was not a pretty 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![zoo](./zoo3.jpg "Can I retire yet?")
+![Clear boat on a crystal clear body of water.](./zoo3.jpg "Can I retire yet?")
 
 </div>
 
@@ -49,7 +49,7 @@ I cried when I quit my last job, mainly out of frustration. It was not a pretty 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![zoo](./zoo4.png "Chart showing the personal characteristics of the DiSC profile system.")
+![Chart showing the personal characteristics of the DiSC profile system.](./zoo4.png)
 
 </div>
 
@@ -60,7 +60,7 @@ I cried when I quit my last job, mainly out of frustration. It was not a pretty 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![zoo](./zoo5.jpg "Be like Aretha in the workplace.")
+![Black and white photo of Aretha Franklin.](./zoo5.jpg "Be like Aretha in the workplace.")
 
 </div>
 
