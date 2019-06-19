@@ -19,7 +19,7 @@ Website accessibility should not be just a box you check off when you deliver a 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-start](./a11y-start2.jpg "Smiling, happy people. Do you *really* know who has a disability just by their outward appearance?")
+![Group of people looking way too excited all dressed in muted colors with a white background.](./a11y-start2.jpg "Smiling, happy people. Do you *really* know who has a disability just by their outward appearance?")
 
 </div>
 
@@ -34,7 +34,7 @@ So really, all people can benefit from accessible websites at one point or anoth
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-start](./a11y-start3.png "Two hands coming together to make a heart with the sunlight filtering through.")
+![Two hands coming together to make a heart with the sunlight filtering through.](./a11y-start3.png "Caring is the first step.")
 
 </div>
 
@@ -58,7 +58,7 @@ Earlier this year the Information and Communication Technology (ICT) passed a ru
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-start](./a11y-start4.jpg "Smooth stone path in the middle of a river.")
+![Smooth stone path in the middle of a river.](./a11y-start4.jpg "A journey of a thousand miles begins with a single step.")
 
 </div>
 
@@ -83,7 +83,7 @@ Keep in mind that even adding one or two accessible pieces to a website is movin
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-start](./a11y-start5.jpg "Books are your friends.")
+![Stack of books with three books open on a library desk.](./a11y-start5.jpg "Books are your friends.")
 
 </div>
 
