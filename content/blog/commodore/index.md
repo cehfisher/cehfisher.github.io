@@ -15,14 +15,14 @@ My father was an engineer and a technophile. I still remember the day he showed 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com.png "One of the first BASIC programming script I entered into the Commodore 64. Nerdy memories :)")
+![Guessing game script for the Commodore 64.](./com.png "One of the first BASIC programming script I entered into the Commodore 64. Nerdy memories :)")
 
 </div>
 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com2.jpg "What is a Xennial?")
+![What is a Xennial? A micro generation born during the cusp years of Gen Xers and Mullenials (1977-1983).](./com2.jpg)
 
 </div>
 
@@ -37,7 +37,7 @@ I guess you can say that (arguably) gives us Xennials a unique perspective on te
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com3.jpg "Chart showing exponential growth of computing vs the brain power of different creatures (including humans)")
+![Chart showing exponential growth of computing vs the brain power of different creatures (including humans)](./com3.jpg)
 
 </div>
 
@@ -52,7 +52,7 @@ The Commodore 64 failed drastically at adaption. In the article <a href="https:/
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com4.jpg "Even babies can write code.")
+![Cute baby in a diaper looking at a computer.](./com4.jpg "Even babies can write code.")
 
 </div>
 
@@ -67,7 +67,7 @@ The Commodore failed at this when they kicked out their founder and “man with 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com5.png "I hate to admit how much time I spent playing Barbie’s Dream Date on my Commodore.")
+![Screenshot of Barbie’s Dream Date game.](./com5.png "I hate to admit how much time I spent playing Barbie’s Dream Date on my Commodore.")
 
 </div>
 
@@ -84,7 +84,7 @@ Fast forward to 2017 and this trend to focus on masculine computer programs/game
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![commodore](./com6.png "Why don't I own this yet?!")
+![New Commodore 64 console.](./com6.png "Why don't I own this yet?!")
 
 </div>
 
