@@ -18,7 +18,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt1.png "Stand-alone image design option.")
+![Line drawing of stand-alone image design option.](./slidesalt1.png "Stand-alone image design option.")
 
 </div>
 
@@ -28,7 +28,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt2.png "Stand-alone image with call-to-action button design option.")
+![Line drawing of stand-alone image with call-to-action button design option.](./slidesalt2.png "Stand-alone image with call-to-action button design option.")
 
 </div>
 
@@ -38,7 +38,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt3.png "Image grid design option.")
+![Line drawing of image grid design option.](./slidesalt3.png "Image grid design option.")
 
 </div>
 
@@ -48,7 +48,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt4.png "Engaging video or animated hero design option.")
+![Line drawing of video or animated hero design option.](./slidesalt4.png "Engaging video or animated hero design option.")
 
 </div>
 
@@ -58,7 +58,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt5.png "Focused landing page design option.")
+![Line drawing of focused landing page design option.](./slidesalt5.png "Focused landing page design option.")
 
 </div>
 
@@ -68,7 +68,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt6.png "Streamlined design option.")
+![Line drawing of streamlined design option.](./slidesalt6.png "Streamlined design option.")
 
 </div>
 
@@ -78,7 +78,7 @@ Slideshows, sliders, carousels: no matter what you call them, in terms of web de
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow-alt](./slidesalt7.png "Should you use a slideshow? Really?")
+![Slideshow cartoon drawing.](./slidesalt7.png "Do you need a slideshow? Really?")
 
 </div>
 

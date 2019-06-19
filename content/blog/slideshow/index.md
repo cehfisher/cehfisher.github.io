@@ -13,7 +13,7 @@ tags: development, technology, design, patterns
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow](./slideshow1.png "Eye tracking map that shows a complete disregard for the slideshow area.")
+![Screenshot of a eye tracking test.](./slideshow1.png "Eye tracking map that shows a complete disregard for the slideshow area.")
 
 </div>
 
@@ -24,7 +24,7 @@ tags: development, technology, design, patterns
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow](./slideshow2.jpg "Slides, slides, everywhere slides.")
+![Desktop and a laptop showing slideshows.](./slideshow2.jpg "Slides, slides, everywhere slides.")
 
 </div>
 
@@ -34,7 +34,7 @@ tags: development, technology, design, patterns
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![slideshow](./slideshow3.jpg "Create slideshows for all the people — not just some.")
+![People walking across the street with long shadows.](./slideshow3.jpg "Create slideshows for all the people — not just some.")
 
 </div>
 
