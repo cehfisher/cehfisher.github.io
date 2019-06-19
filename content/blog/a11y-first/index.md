@@ -13,7 +13,7 @@ tags: accessibility, a11y, design, style guides, patterns, development
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./first1.png "Pyramid of inclusive design. Source: http://www.inclusivedesigntoolkit.com/whatis/whatis.html")
+![Pyramid of inclusive design.](./first1.png "Source: http://www.inclusivedesigntoolkit.com/whatis/whatis.html")
 
 </div>
 
@@ -28,7 +28,7 @@ tags: accessibility, a11y, design, style guides, patterns, development
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-first](./first2.png "Browser market shares worldwide (September 2017)")
+![Bar chart showing Chrome is the most popular browser in 2017.](./first2.png "Browser market shares worldwide (September 2017)")
 
 </div>
 
@@ -53,7 +53,7 @@ tags: accessibility, a11y, design, style guides, patterns, development
 
 <div class="kg-card kg-image-card kg-card-left">
 
-![a11y-first](./first3.png "Accessibility Style Guide logo")
+![Accessibility Style Guide logo](./first3.png)
 
 </div>
 
