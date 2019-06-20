@@ -4,7 +4,6 @@ import { Link } from "gatsby"
 import Icon1 from "../../content/assets/home.svg";
 import Icon2 from "../../content/assets/mic.svg";
 import Icon3 from "../../content/assets/pen.svg";
-import Icon4 from "../../content/assets/rss.svg";
 import IconBG from "../../content/assets/background.svg";
 import { FiHome } from 'react-icons/fi';
 import { FiTwitter } from 'react-icons/fi';
@@ -15,6 +14,7 @@ import { FiGithub } from 'react-icons/fi';
 import { FiStar } from 'react-icons/fi';
 import { FiMic } from 'react-icons/fi';
 import { FiHeart } from 'react-icons/fi';
+import { FiRss } from 'react-icons/fi';
 import Particles from 'react-particles-js';
 import $ from 'jquery';
 
@@ -209,7 +209,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Icon4 /><span className="sr-only">RSS feed</span>
+              <FiRss /><span className="sr-only">RSS feed</span>
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>
