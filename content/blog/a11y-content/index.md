@@ -16,7 +16,7 @@ Less is more when it comes to accessible typography. The easiest way to make you
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Common font families used for accessibility include: Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.](./content1.png)
+![Common font families used for accessibility include Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.](./content1.png)
 
 </div>
 
