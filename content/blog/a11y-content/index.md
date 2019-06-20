@@ -16,7 +16,7 @@ Less is more when it comes to accessible typography. The easiest way to make you
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content1.png "Common font families used for accessibility include: Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.")
+![Common font families used for accessibility include: Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.](./content1.png)
 
 </div>
 
@@ -33,7 +33,7 @@ The research is not conclusive as to whether serif or sans serif typefaces are e
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content2.png "Readability differences between Gill Sans and PT Mono.")
+![Readability differences between Gill Sans and PT Mono.](./content2.png)
 
 </div>
 
@@ -54,7 +54,7 @@ Besides picking a common font family and paying attention to character uniquenes
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content3.png "Avoid fancy display fonts when designing for accessibility.")
+![Avoid fancy display fonts when designing for accessibility.](./content3.png)
 
 </div>
 
@@ -82,7 +82,7 @@ With the number of people who have some variant of color blindness, suffer from 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content4.png "Example color ratio chart for text and backgrounds.")
+![Example color ratio chart for text and backgrounds.](./content4.png)
 
 </div>
 
@@ -105,7 +105,7 @@ Think of each page on your website as being an outline to a story. By thinking a
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content5.png "Long lines with small letter-spacing (bad) vs. short lines with regular letter-spacing (good).")
+![Long lines with small letter-spacing (bad) vs. short lines with regular letter-spacing (good).](./content5.png)
 
 </div>
 
@@ -118,7 +118,7 @@ For people with cognitive and attention-deficit disorders, whitespace is helpful
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![a11y-content](./content6.png "Fully justified text (bad) vs. left aligned text (good).")
+![Fully justified text (bad) vs. left aligned text (good).](./content6.png)
 
 </div>
 
