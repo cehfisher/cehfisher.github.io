@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Icon1 from "../../content/assets/home.svg";
 import Icon2 from "../../content/assets/mic.svg";
 import Icon3 from "../../content/assets/pen.svg";
+import Icon4 from "../../content/assets/rss.svg";
 import IconBG from "../../content/assets/background.svg";
 import { FiHome } from 'react-icons/fi';
 import { FiTwitter } from 'react-icons/fi';
@@ -202,6 +203,13 @@ class Layout extends React.Component {
               rel="noopener noreferrer"
             >
               <FiGithub /><span className="sr-only">Github</span>
+            </a></li>
+            <li className="social-rss"><a
+              href="https://cariefisher.com/rss.xml"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Icon4 /><span className="sr-only">RSS feed</span>
             </a></li>
           </ul>
           <p>&copy; {new Date().getFullYear()} {title}{" "}</p>

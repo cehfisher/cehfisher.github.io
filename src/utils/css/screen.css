@@ -862,6 +862,10 @@ a:active {
   fill: var(--color-sun);
 }
 
+.social-rss svg {
+  fill: var(--color-orange);
+}
+
 #carie-svg {
   overflow: visible;
 }
