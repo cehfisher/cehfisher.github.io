@@ -32,6 +32,9 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.published && (
             <p className="published">{post.frontmatter.published}</p>
           )}
+          {post.frontmatter.pub_date && (
+            <p className="published">{post.frontmatter.pub_date}</p>
+          )}
           </p>
           </header>
 
