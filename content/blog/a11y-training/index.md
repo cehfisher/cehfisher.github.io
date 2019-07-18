@@ -4,7 +4,7 @@ date: "2019-04-11"
 thumbnail: ./handsup.jpg
 description: These are the top five questions that I hear most often and some context/resources to learn a bit more about each.
 published: Originally published on Deque Systems
-pub_date: Apr 11, 2019
+pub_date: April 11, 2019
 tags: accessibility, a11y, design, media, patterns, development, WCAG, POUR, ARIA, mobile, tools, resources
 ---
 ##Evolution of the accessibility landscape

@@ -4,7 +4,7 @@ date: "2017-10-31"
 thumbnail: ./zooz.jpg
 description: Creating Positive Company Culture in Tech
 published: Originally published on The Startup
-pub_date: Oct 31, 2017
+pub_date: October 31, 2017
 tags: development, technology, tech culture, STEM, diversity in tech
 ---
 

@@ -4,7 +4,7 @@ date: "2018-02-20"
 thumbnail: ./a11yconf.jpg
 description: Where do Accessibility talks belong? Development, Diversity, or UX tracks? On its own? So many track choices, so little time.
 published: Originally published on Hacker Noon
-pub_date: Feb 20, 2018
+pub_date: February 20, 2018
 tags: tech, a11y, accessibility, conferences, development
 ---
 

@@ -4,7 +4,7 @@ date: "2017-11-27"
 thumbnail: ./roses.jpg
 description: How Disconnecting from Technology Can Actually Help You Increase Your Productivity
 published: Originally published on The Startup
-pub_date: Nov 27, 2017
+pub_date: November 27, 2017
 tags: development, technology, tech culture, STEM, diversity in tech
 ---
 

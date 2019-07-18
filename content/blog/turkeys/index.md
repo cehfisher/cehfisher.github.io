@@ -4,7 +4,7 @@ date: "2017-11-14"
 thumbnail: ./turkey.jpg
 description: Surviving A Wild Turkey Attack
 published: Originally published on The Mission
-pub_date: Nov 14, 2017
+pub_date: November 14, 2017
 tags: random, being thankful
 ---
 

@@ -4,7 +4,7 @@ date: "2018-01-08"
 thumbnail: ./skeletor.png
 description: Rethinking the slideshow pattern, pt 1
 published: Originally published on UX Planet
-pub_date: Jan 8, 2018
+pub_date: January 8, 2018
 tags: development, technology, design, patterns
 ---
 

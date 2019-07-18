@@ -4,7 +4,7 @@ date: "2017-10-05"
 thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
 published: Originally published on Hacker Noon
-pub_date: Oct 5, 2017
+pub_date: October 5, 2017
 tags: development, technology, tech culture, STEM, diversity in tech
 ---
 

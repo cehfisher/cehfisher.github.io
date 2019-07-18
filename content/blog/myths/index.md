@@ -4,7 +4,7 @@ date: "2018-11-01"
 thumbnail: ./mythbusted.jpg
 description: Time to shatter some misconceptions!
 published: Originally published on Deque Systems
-pub_date: Nov 1, 2018
+pub_date: November 1, 2018
 tags: accessibility, a11y, patterns, development, WCAG, POUR, ARIA
 ---
 
