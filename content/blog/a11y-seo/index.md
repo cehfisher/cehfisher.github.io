@@ -4,6 +4,7 @@ date: "2017-12-13"
 thumbnail: ./a11y-seo.jpg
 description: Finding the Place Where Accessibility and SEO Happily Co-Exist
 published: Originally published on The Startup
+pub_date: Dec 13, 2017
 tags: accessibility, a11y, design, SEO, media, development
 ---
 

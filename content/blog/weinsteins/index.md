@@ -4,6 +4,7 @@ date: "2017-10-15"
 thumbnail: ./wein.jpg
 description: Facing the Monster Under My Own Bed
 published: Originally published on Code Like a Girl
+pub_date: Oct 15, 2017
 tags: development, technology, tech culture, diversity in tech
 ---
 

@@ -4,6 +4,7 @@ date: "2018-10-25"
 thumbnail: ./content.jpg
 description: Best practices for accessible typography, font styling, and structure
 published: Originally published on Envato Tuts+
+pub_date: Oct 25, 2018
 tags: accessibility, a11y, content, typography, design, development
 ---
 

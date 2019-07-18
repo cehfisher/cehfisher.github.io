@@ -4,6 +4,7 @@ date: "2017-12-01"
 thumbnail: ./win.jpg
 description: Rethinking the Way We Approach Website Design and Development
 published: Originally published on 24 Accessibility
+pub_date: Dec 1, 2017
 tags: accessibility, a11y, design, style guides, patterns, development
 ---
 

@@ -4,6 +4,7 @@ date: "2018-01-23"
 thumbnail: ./shera.jpg
 description: Rethinking the slideshow pattern, pt 2
 published: Originally published on UX Planet
+pub_date: Jan 23, 2018
 tags: development, technology, design, patterns
 ---
 

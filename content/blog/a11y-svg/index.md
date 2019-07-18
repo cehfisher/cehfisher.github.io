@@ -4,6 +4,7 @@ date: "2019-01-10"
 thumbnail: ./svg-pattern.jpg
 description: Featuring twelve SVG pattern examples and screen reader tests!
 published: Originally published on Deque Systems
+pub_date: Jan 10, 2019
 tags: accessibility, a11y, design, media, patterns, development
 ---
 
