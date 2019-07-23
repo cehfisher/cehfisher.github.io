@@ -3,7 +3,8 @@ title: Putting Accessibility First
 date: "2017-12-01"
 thumbnail: ./win.jpg
 description: Rethinking the Way We Approach Website Design and Development
-published: Originally published on 24 Accessibility
+published: 24 Accessibility
+canonical: https://www.24a11y.com/2017/accessibility-first
 pub_date: December 1, 2017
 tags: accessibility, a11y, design, style guides, patterns, development
 ---

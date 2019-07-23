@@ -3,7 +3,8 @@ title: 6 Design Alternatives to Avoid (Evil) Slideshows
 date: "2018-01-08"
 thumbnail: ./skeletor.png
 description: Rethinking the slideshow pattern, pt 1
-published: Originally published on UX Planet
+published: UX Planet
+canonical: https://uxplanet.org/6-design-alternatives-to-avoid-evil-slideshows-9d442cf680d3
 pub_date: January 8, 2018
 tags: development, technology, design, patterns
 ---

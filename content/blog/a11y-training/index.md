@@ -3,7 +3,8 @@ title: Top 5 Questions Asked in Accessibility Trainings
 date: "2019-04-11"
 thumbnail: ./handsup.jpg
 description: These are the top five questions that I hear most often and some context/resources to learn a bit more about each.
-published: Originally published on Deque Systems
+published: Deque Systems
+canonical: https://www.deque.com/blog/top-5-questions-asked-in-accessibility-trainings/
 pub_date: April 11, 2019
 tags: accessibility, a11y, design, media, patterns, development, WCAG, POUR, ARIA, mobile, tools, resources
 ---

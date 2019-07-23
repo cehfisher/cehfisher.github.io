@@ -3,7 +3,8 @@ title: How to Boost Your Website’s Accessibility + SEO
 date: "2017-12-13"
 thumbnail: ./a11y-seo.jpg
 description: Finding the Place Where Accessibility and SEO Happily Co-Exist
-published: Originally published on The Startup
+published: The Startup
+canonical: https://medium.com/swlh/how-to-boost-both-your-website-accessibility-seo-c7ee63625cdd
 pub_date: December 13, 2017
 tags: accessibility, a11y, design, SEO, media, development
 ---

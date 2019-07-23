@@ -3,7 +3,8 @@ title: What I Would Do If I Ran the Zoo
 date: "2017-10-31"
 thumbnail: ./zooz.jpg
 description: Creating Positive Company Culture in Tech
-published: Originally published on The Startup
+published: The Startup
+canonical: https://medium.com/swlh
 pub_date: October 31, 2017
 tags: development, technology, tech culture, STEM, diversity in tech
 ---

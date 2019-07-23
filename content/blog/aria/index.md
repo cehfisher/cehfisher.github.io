@@ -3,7 +3,8 @@ title: Much Ado About ARIA
 date: "2018-09-18"
 thumbnail: ./aria.jpg
 description: Introduction to ARIA
-published: Originally published on Deque Systems
+published: Deque Systems
+canonical: https://www.deque.com/blog/much-ado-about-aria/
 pub_date: September 18, 2018
 tags: accessibility, a11y, patterns, development, WCAG, POUR, ARIA
 ---

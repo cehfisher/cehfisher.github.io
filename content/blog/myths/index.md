@@ -3,7 +3,8 @@ title: 5 Digital Accessibility Myths Busted
 date: "2018-11-01"
 thumbnail: ./mythbusted.jpg
 description: Time to shatter some misconceptions!
-published: Originally published on Deque Systems
+published: Deque Systems
+canonical: https://www.deque.com/blog/5-digital-accessibility-myths-busted/
 pub_date: November 1, 2018
 tags: accessibility, a11y, patterns, development, WCAG, POUR, ARIA
 ---

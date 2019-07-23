@@ -3,7 +3,8 @@ title: Designing Accessible Content
 date: "2018-10-25"
 thumbnail: ./content.jpg
 description: Best practices for accessible typography, font styling, and structure
-published: Originally published on Envato Tuts+
+published: Envato Tuts+
+canonical: https://webdesign.tutsplus.com/articles/designing-accessible-content-typography-font-styling-and-structure--cms-31934
 pub_date: October 25, 2018
 tags: accessibility, a11y, content, typography, design, development
 ---
