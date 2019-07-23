@@ -3,7 +3,8 @@ title: Taking Time To Be Thankful
 date: "2017-11-14"
 thumbnail: ./turkey.jpg
 description: Surviving A Wild Turkey Attack
-published: Originally published on The Mission
+published: The Mission
+canonical: https://medium.com/the-mission/taking-time-to-be-thankful-surviving-a-wild-turkey-attack-34d75e6a12c6
 pub_date: November 14, 2017
 tags: random, being thankful
 ---

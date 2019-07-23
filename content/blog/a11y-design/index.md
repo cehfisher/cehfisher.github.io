@@ -3,7 +3,8 @@ title: 5 Ways to Make Your Next Design More Accessible
 date: "2017-09-23"
 thumbnail: ./a11y-design1.jpg
 description: Before even one line of code is written, you can get a jump start on website accessibility by thinking about it during the wire-framing and design phases. Here are five essential design elements to consider when creating your next accessible website or app design.
-published: Originally published on UX Planet
+published: UX Planet
+canonical: https://uxplanet.org/designing-for-all-5-ways-to-make-your-next-website-design-more-accessible-23a3528bc8dc
 pub_date: September 23, 2017
 tags: accessibility, a11y, design, typography, color, contrast, forms, media, development
 ---

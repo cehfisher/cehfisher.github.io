@@ -3,7 +3,8 @@ title: “Weinsteins” are Lurking in Every Profession — Including Tech
 date: "2017-10-15"
 thumbnail: ./wein.jpg
 description: Facing the Monster Under My Own Bed
-published: Originally published on Code Like a Girl
+published: Code Like a Girl
+canonical: https://code.likeagirl.io/there-are-weinsteins-lurking-in-every-profession-including-tech-d833d7d92758
 pub_date: October 15, 2017
 tags: development, technology, tech culture, diversity in tech
 ---

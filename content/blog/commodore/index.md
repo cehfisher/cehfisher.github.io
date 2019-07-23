@@ -3,7 +3,8 @@ title: Confessions of a Middle Aged Techie
 date: "2017-10-05"
 thumbnail: ./com1.jpg
 description: Or What I Learned About Technology from the Commodore 64
-published: Originally published on Hacker Noon
+published: Hacker Noon
+canonical: https://medium.com/hackernoon/confessions-of-a-middle-aged-techie-21e704cda942
 pub_date: October 5, 2017
 tags: development, technology, tech culture, STEM, diversity in tech
 ---
