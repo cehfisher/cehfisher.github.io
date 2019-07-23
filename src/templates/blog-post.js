@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import { FiMoreHorizontal } from 'react-icons/fi';
+import { FiMoreHorizontal } from 'react-icons/fi'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -16,6 +16,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          canonical={post.frontmatter.canonical}
         />
         <article
           className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
@@ -29,8 +30,8 @@ class BlogPostTemplate extends React.Component {
 
           <p class="publishedplace">
           <FiMoreHorizontal className="dots-svg" />
-          {post.frontmatter.published && (
-            <p className="published">{post.frontmatter.published}</p>
+          {post.frontmatter.canonical && (
+            <p className="published">Originally published on <a className="published" target="_blank" rel="noopener noreferrer" href={`${post.frontmatter.canonical}/`}>{post.frontmatter.published}</a></p>
           )}
           {post.frontmatter.pub_date && (
             <p className="published">{post.frontmatter.pub_date}</p>
@@ -84,6 +85,7 @@ export const pageQuery = graphql`
         description
         published
         pub_date
+        canonical
         tags
         thumbnail {
           childImageSharp {

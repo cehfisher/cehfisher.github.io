@@ -343,7 +343,8 @@ a:hover {
   transition: 0.2s ease;
 }
 
-main .post-content-body a {
+main .post-content-body a,
+.published a {
   color: color(var(--color-grape));
   text-decoration: underline;
   transition: 0.4s ease;
@@ -352,7 +353,10 @@ main .post-content-body a {
 
 main .post-content-body a:hover,
 main .post-content-body a:active,
-main .post-content-body a:focus {
+main .post-content-body a:focus,
+.published a:hover,
+.published a:active,
+.published a:focus {
   background: var(--color-grape);
   color: color(var(--color-white));
   text-decoration: none;
