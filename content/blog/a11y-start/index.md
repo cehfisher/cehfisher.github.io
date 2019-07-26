@@ -13,7 +13,7 @@ tags: accessibility, a11y, design, media, color, contrast, demographics, resourc
 
 Website accessibility is actively designing, developing, and creating content in such a way that it does not hinder any person from interacting with the website.
 
-I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank" rel="noopener noreferrer">Web Accessibility Initiative (WAIT) Group</a> because it puts the emphasis on the people (where it belongs):
+I love this definition of website accessibility from the <a href="https://www.w3.org/WAI/" data-href="https://www.w3.org/WAI/" target="_blank" rel="noopener noreferrer">Web Accessibility Initiative (WAI) Group</a> because it puts the emphasis on the people (where it belongs):
 
 <blockquote>"Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
 Website accessibility should not be just a box you check off when you deliver a new website to a client, it is a way of rethinking design and development, where you go beyond just the base level of access to information. Website accessibility should be about making something valuable, not just accessible, to as many people as we can."</blockquote>

@@ -6,7 +6,7 @@ description: Featuring twelve SVG pattern examples and screen reader tests!
 published: Deque Systems
 canonical: https://www.deque.com/blog/creating-accessible-svgs/
 pub_date: January 10, 2019
-tags: accessibility, a11y, design, media, patterns, development
+tags: accessibility, a11y, design, media, patterns, development, svgs
 ---
 
 ##SVG All the Things!

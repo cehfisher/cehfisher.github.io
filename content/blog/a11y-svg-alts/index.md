@@ -1,0 +1,53 @@
+---
+title: Accessible SVGs - Methods for Adding Alternative Content
+date: "2018-12-03"
+thumbnail: ./svg-pattern.jpg
+description: Things to consider when adding alternative content to SVGs
+published: Envato Tuts+
+canonical: https://webdesign.tutsplus.com/tutorials/accessible-svg-methods-for-adding-alternative-content--cms-32205
+pub_date: December 3, 20198
+tags: accessibility, a11y, design, media, patterns, development, svgs
+---
+
+##SVG All the Things!
+Scalable Vector Graphics (SVG) are XML-based vector images. They’ve been around for a long time now but have seen a real resurgence in use over the past couple of years. There are plenty of reasons to use SVGs today including: 
+
+- Increased native browser support of SVGs means better consistency and higher fidelity of images.
+- Advancement of CSS and JavaScript techniques available to style and animate images.
+- The relative “lightness” of SVG code in a world where bandwidth and performance matter more than ever.
+
+Another big advantage of using SVGs over standard images is that they can easily be made accessible. Since markup can be added to the SVGs directly, they give individuals who use assistive technologies (ATs), such as screen readers, more information about the images within the image itself.</p>
+
+<hr>
+
+![Lightbulb drawing painted in dark blue color.](./pattern5.png)
+<h2>Rules of Alternative Content</h2>
+
+While there are many things to consider when making SVGs fully accessible, we’re going to focus on the ways you can add alternative content to an SVG. I expect you’re already familiar with the alt="" tag on images–alternative content is what’s used when an image isn’t, or can’t be displayed, or assistive technologies are used. Keep in mind, the usual <a href="https://webaim.org/techniques/alttext/" target="_blank" rel="noopener noreferrer">basic rules of alternative content</a> apply to SVGs:
+- Make sure your alternative content is meaningful and descriptive.
+- Do not let your alternative content exceed 250 characters.
+- Do not repeat the same alternative content for different images.
+- Do not use phrases like “image of” or “graphic of” to describe an image. A screen reader already tells the user this information.
+- If an SVG (or any graphic) is purely decorative, it needs to have an empty/null alternative text attribute. This sends a signal to the AT to ignore this image as it is not necessary for understanding the content or action on the page.
+- An empty/null alternative text attribute is not the same as a missing alternative text attribute. If the alternative text attribute is missing, the AT might read out the file name or surrounding content in an attempt to give the user more information about the image.
+- Bad: <code>&#60;img src="here-is-some-path.svg"></code>
+- Good: <code>&#60;img src="here-is-some-path.svg" alt=""></code>
+
+Now that the basics of alternative content are out of the way, let’s look at a few methods you can use to make your SVGs more accessible.
+
+<hr>
+
+![Lightbulb drawing painted in dark blue color.](./pattern5.png)
+<h2>SVGs as Images</h2>
+
+For basic, uncomplicated, or decorative images, using the <code>&#60;img></code> tag and referencing the SVG as a file is the way to go. There are some benefits to this method including:
+
+- The overall file size will be smaller than embedding the <code>&#60;svg></code> element inline.
+- The image can be cached by the browser.
+- Maintenance is easier if you are using the SVG in multiple places.
+
+<h3>The <code>&#60;img></code> + Alternative Text Attribute Method</h3>
+
+<code>&#60;
+
+In the example above, the <code>&#60;img></code> tag includes alt="Black and yellow bee with six legs and translucent wings".

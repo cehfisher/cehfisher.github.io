@@ -13,6 +13,20 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve:"@weknow/gatsby-remark-codepen",
+            options: {
+              theme: "dark",
+              height: 400
+            }
+          }
+        ]
+      }
+    }
+    {
       resolve: `gatsby-plugin-accessibilityjs`,
       options: {
         injectStyles: `
