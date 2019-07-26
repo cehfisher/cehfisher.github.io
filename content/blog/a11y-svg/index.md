@@ -1,5 +1,5 @@
 ---
-title: Creating Accessible SVGs
+title: Deeper Dive on Accessible SVG Patterns
 date: "2019-01-10"
 thumbnail: ./svg-pattern.jpg
 description: Featuring twelve SVG pattern examples and screen reader tests!
