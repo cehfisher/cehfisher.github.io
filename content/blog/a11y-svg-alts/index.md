@@ -1,5 +1,5 @@
 ---
-title: Accessible SVGs - Methods for Adding Alternative Content
+title: Accessible SVGs — Methods for Adding Alternative Content
 date: "2018-12-03"
 thumbnail: ./bee.png
 description: Things to consider when adding alternative content to SVGs
