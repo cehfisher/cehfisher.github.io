@@ -44,16 +44,20 @@ For basic, uncomplicated, or decorative images, using the <code>&#60;img></code>
 - The image can be cached by the browser.
 - Maintenance is easier if you are using the SVG in multiple places.
 
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
 <h3>The <code>&#60;img></code> + Alternative Text Attribute Method</h3>
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Accessible bee SVG using &lt;img&gt; and alt text attribute" src="//codepen.io/cariefisher/embed/mQQzVb/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+In the example below, the <code>&#60;img></code> tag includes <code>alt="Black and yellow bee with six legs and translucent wings"</code>.
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Accessible bee SVG using &lt;img&gt; and alt text attribute" src="//codepen.io/cariefisher/embed/mQQzVb/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/cariefisher/pen/mQQzVb/'>Accessible bee SVG using &lt;img&gt; and alt text attribute</a> by Carie Fisher
   (<a href='https://codepen.io/cariefisher'>@cariefisher</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-https://codepen.io/cariefisher/pen/mQQzVb
+<p></p>
 
-In the example above, the <code>&#60;img></code> tag includes alt="Black and yellow bee with six legs and translucent wings".
+https://codepen.io/cariefisher/pen/mQQzVb
 
 <hr>
 
@@ -67,7 +71,84 @@ For more complex or essential SVGs, you should consider adding the SVG as markup
 
 <strong>Note:</strong> To ensure the widest range of ATs recognize the SVG as an image, make sure to add role="img" to the <code>&#60;svg></code> element.
 
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
 <h3>The <code>&#60;title></code> Method</h3>
+
 The <code>&#60;title></code> element for an SVG is equivalent to the alternative text attribute for a typical raster image using the <code>&#60;img></code> element. All the same basic alternative content rules apply. It is important to list the main <code>&#60;title></code> element first so it is read first by ATs, as SVGs can have multiple title elements embedded.
 
-<p><iframe id="cp_embed_KbeNYX" src="https://codepen.io/cariefisher/pen/mQQzVb?height=500&amp;slug-hash=KbeNYX&amp;default-tabs=css,result&amp;host=https://codepen.io" title="Accessible bee SVG using <img> and alt text attribute" scrolling="no" frameborder="0" height="500" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;"></iframe></p>
+In the following example, you will see the <code>&#60;title></code> element immediately after the opening <code>&#60;svg></code> tag.
+
+<p></p>
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Accessible bee SVG using &lt;title&gt;" src="//codepen.io/cariefisher/embed/LXXgEX/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/cariefisher/pen/LXXgEX/'>Accessible bee SVG using &lt;title&gt;</a> by Carie Fisher
+  (<a href='https://codepen.io/cariefisher'>@cariefisher</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<p></p>
+
+https://codepen.io/cariefisher/pen/LXXgEX
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<h3>The <code>aria-labelledby</code> + <code>&#60;title></code> Method</h3>
+
+While a <code>&#60;title></code> element provides the equivalent to alternative text for an embedded SVG, not all browsers and screen reader combinations can use the <code>&#60;title></code> element on its own. When the <code>aria-labelledby</code> attribute is added to the mix, it can help link the SVG to the <code>&#60;title></code> element in a more robust way.
+
+Note the additional <code>aria-labelledby</code> attribute linking to the <code>&#60;title></code> by its id.
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Accessible bee SVG using aria-labelledby + &lt;title&gt;" src="//codepen.io/cariefisher/embed/VVVREW/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/cariefisher/pen/VVVREW/'>Accessible bee SVG using aria-labelledby + &lt;title&gt;</a> by Carie Fisher
+  (<a href='https://codepen.io/cariefisher'>@cariefisher</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<p></p>
+
+https://codepen.io/cariefisher/pen/VVVREW
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<h3>The <code>&#60;title></code> + <code>&#60;desc></code> Method</h3>
+
+<p>For complex images, you may need more than 250 characters to describe them. This is where the <code class="inline">&lt;desc&gt;</code> element comes into play. The <code class="inline">&lt;desc&gt;</code>&nbsp;tag is equivalent to the&nbsp;<code class="inline">longdesc=""</code> attribute in&nbsp;an&nbsp;<code class="inline">&lt;img&gt;</code> element. However, the benefit to <code class="inline">&lt;desc&gt;</code> is that the description is provided as part of the image itself, whereas with a raster image, the <code class="inline">longdesc=""</code> attribute simply points to another location that contains the detailed description.&nbsp;</p>
+
+<p>Below is an example using <code class="inline">&lt;svg&gt;</code> in combination with <code class="inline">&lt;title&gt;</code> and <code class="inline">&lt;desc&gt;</code>.</p>
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Accessible bee SVG using &lt;title&gt; + &lt;desc&gt;" src="//codepen.io/cariefisher/embed/KrrLKa/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/cariefisher/pen/KrrLKa/'>Accessible bee SVG using &lt;title&gt; + &lt;desc&gt;</a> by Carie Fisher
+  (<a href='https://codepen.io/cariefisher'>@cariefisher</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<p></p>
+
+https://codepen.io/cariefisher/pen/KrrLKa
+
+<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="dots-svg" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+
+<h3>The <code>aria-labelledby</code> + <code>&#60;title></code> + <code>&#60;desc></code> Method</h3>
+
+<p>Just like the example above where <code class="inline">&lt;title&gt;</code> was not enough for some browser/AT combinations, <code class="inline">&lt;desc&gt;</code> sometimes needs help from an ARIA attribute too. Just make sure you have two different IDs for the&nbsp;<code class="inline">&lt;title&gt;</code> and&nbsp;<code class="inline">&lt;desc&gt;</code> elements and both are referenced in the <code class="inline">aria-labelledby</code> attribute.&nbsp;</p>
+
+<p><strong>Note:</strong> You might want to use the&nbsp;<code class="inline">aria-describedby</code>&nbsp;attribute instead, but the differences are extremely subtle.</p>
+
+<p>In this example the <code class="inline">&lt;title&gt;</code> and the <code class="inline">&lt;desc&gt;</code> have unique IDs and are <em>both</em> referenced in a single <code class="inline">labelledby</code> attribute.</p>
+
+<iframe height="400" style="width: 100%;" scrolling="no" title="Accessible bee SVG using aria-labelledby + &lt;title&gt; + &lt;desc&gt;" src="//codepen.io/cariefisher/embed/zMMQzL/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/cariefisher/pen/zMMQzL/'>Accessible bee SVG using aria-labelledby + &lt;title&gt; + &lt;desc&gt;</a> by Carie Fisher
+  (<a href='https://codepen.io/cariefisher'>@cariefisher</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<p></p>
+
+https://codepen.io/cariefisher/pen/zMMQzL
+
+<hr>
+
+<h2>Summary</h2>
+
+There are many methods to make SVGs a bit more accessible when it comes to supplemental image information. Depending on the complexity of your image you can:
+
+<ul>
+<li>Reference the SVG as an <code class="inline">&lt;img&gt;</code> source and use a traditional alternative text attribute (max 250 characters).</li>
+<li>Supplement your inline SVG with a <code class="inline">&lt;title&gt;</code> element&nbsp;(max 250 characters).</li>
+<li>For more complex images, you can use a <code class="inline">&lt;desc&gt;</code> element to add more details than the <code class="inline">&lt;title&gt;</code> element (no limit on characters).</li>
+<li>For additional browser/AT support, link the <code class="inline">&lt;title&gt;</code> or <code class="inline">&lt;desc&gt;</code> elements to an <code class="inline">aria-labelledby</code> attribute.</li>
+</ul>

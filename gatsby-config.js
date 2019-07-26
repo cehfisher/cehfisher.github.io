@@ -25,7 +25,7 @@ module.exports = {
           }
         ]
       }
-    }
+    },
     {
       resolve: `gatsby-plugin-accessibilityjs`,
       options: {
