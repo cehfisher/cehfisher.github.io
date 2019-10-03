@@ -91,7 +91,7 @@ For people who multi-task - yes, I am talking to you - turning your video on wil
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![A person walking up steel stairs while wearing orange shoes.](./shoes.jpg)
+![A painted schedule on the ground with people walking over it.](./schedule.jpg)
 
 </div>
 
@@ -107,7 +107,7 @@ take off all communication apps on your mobile
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![A person walking up steel stairs while wearing orange shoes.](./shoes.jpg)
+![Sunlight filtered through light colored grasses.](./sun.jpg)
 
 </div>
 
@@ -119,7 +119,7 @@ Owning a dog helps motivate me to leave the house.
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![A person walking up steel stairs while wearing orange shoes.](./shoes.jpg)
+![Group of people at a conference.](./audience.jpg)
 
 </div>
 
@@ -129,7 +129,7 @@ Owning a dog helps motivate me to leave the house.
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![A person walking up steel stairs while wearing orange shoes.](./shoes.jpg)
+![Pile of rocks in the sand balanced one on top of the other.](./balance.jpg)
 
 </div>
 
@@ -144,7 +144,7 @@ disconnect from technology once in awhile
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![A person walking up steel stairs while wearing orange shoes.](./shoes.jpg)
+![A group of multi-colored hats in a pile.](./hats.jpg)
 
 </div>
 
