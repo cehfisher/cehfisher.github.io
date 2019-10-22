@@ -1,6 +1,6 @@
 ---
 title: Top 10 Pro-tips for Working Remotely
-date: "2019-10-03"
+date: "2019-10-22"
 thumbnail: ./swim.jpg
 description: Leveling-up on working remotely
 pub_date: October 22, 2019
