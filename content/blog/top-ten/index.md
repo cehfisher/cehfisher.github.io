@@ -153,7 +153,7 @@ Tech is a blessing and a curse for a lot of us - but especially the remote worke
 
 For me, unplugging these helpers occasionally helps me concentrate on getting my work done. I call this "going dark" - where I unplug for an hour or two to go into deep thought/work. I suggest you do it at least a couple of times a week - or as your schedule allows. You will be amazed at how much you can accomplish without the constant pings.
 
-For someone working in tech for as long as I have (15+ years), I honestly avoid tech as much as I possibly can. I am not very active on social media accounts/Slack, I don't have any work-related apps on my phone, and I refuse to check email after 5 pm. I don't do this because I'm a secret tech curmudgeon, but because I have learned what tools are helpful to me and which just add to the noise.
+For someone working in tech for as long as I have (15+ years), I honestly avoid tech as much as I possibly can. I am not very active on social media/Slack, I don't have any work apps on my phone, and I refuse to check email after 5 pm. I don't do this because I'm a secret tech curmudgeon, but because I have learned what tools are helpful to me and which just add to the noise.
 
 <hr>
 
@@ -166,6 +166,6 @@ For someone working in tech for as long as I have (15+ years), I honestly avoid 
 ##10. One size does not fit all
 Finally, you need to realize that working remotely is a skill. And like any skill it takes practice, patience, and perseverance before you are good at it. The pro-tips in this article are things that work for me - but they might not work for you. Make sure you take some time to figure out what works best for you before you run back to office life.
 
-That being said, working from home isn't for everyone. It is OK to admit if remote working doesn't work for you. We all go through different stages of life and have different needs - both personally and professionally. Taking some time to step back and reevaluate what works for you and what doesn't is imperative to both your short-term and long-term mental happiness.
+Conversely, working from home isn't for everyone. It is OK to admit if remote working doesn't work for you. We all have different needs - both personally and professionally. Taking some time to step back and reevaluate what works for you and what doesn't is imperative to both your short- and long-term happiness.
 
 <blockquote>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.<br><p class="float-right">- Franklin D. Roosevelt</p></blockquote>
