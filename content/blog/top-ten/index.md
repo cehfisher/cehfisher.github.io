@@ -168,4 +168,4 @@ Finally, you need to realize that working remotely - like any skill - takes prac
 
 We all go through different stages of life and have different needs - both personally and professionally. Taking some time to step back and reevaluate what works for you and what doesn't is imperative to both your short-term and long-term happiness.
 
-<blockquote>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.<br><br><p style="text-align: right;">- Franklin D. Roosevelt</p></blockquote>
+<blockquote>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.<br><p class="float-right">- Franklin D. Roosevelt</p></blockquote>
