@@ -2,14 +2,14 @@
 title: Top 10 Pro-tips for Working Remotely
 date: "2019-10-22"
 thumbnail: ./swim.jpg
-description: Leveling-up on working remotely
+description: Leveling-up on remote work
 pub_date: October 22, 2019
 tags: work-life balance, development, tech
 ---
 
 Today is my 10th anniversary...of working remotely!
 
-Some think remote working is "living the life" - but it's not always a vacation. Over the years, I've had both good and bad experiences with remote work, so I decided to compile some "pro-tips" to shed some light on how to effectively work from home and to find a work/life balance.
+Some people think remote working is "living the life" - but it's not always a vacation. Over the years, I've had both good and bad experiences, so I decided to compile some pro-tips to shed some light on how to effectively work from home while maintaining a good work/life balance.
 
 <hr>
 
@@ -57,7 +57,7 @@ Exercise. I'm pretty sure that is a doubled-up four-letter word. But for the rem
 
 Studies have shown exercise can help decrease stress, increase memory, and also boost overall brain cognition. What's not to love? I'm no brogrammer, but I make it a point to run/walk every day I can. On weeks when I'm lucky, I find time for yoga as well.
 
-If running/walking is not your thing, think about buying an under-the-desk bike you can peddle in the middle of meetings, while Karen drones on about the latest sales projections. Or start even smaller and swap out your boring old office chair with a stability ball chair. You might not end up with abs of steel, but it will at least help your balance and posture.
+If running/walking is not your thing, think about buying an under-the-desk bike you can peddle in the middle of meetings, while Karen drones on about the latest sales projections. Or start even smaller and swap out your boring old office chair with a stability ball chair. You might not end up with abs of steel, but it will at least help improve your balance and posture.
 
 <hr>
 
@@ -69,7 +69,7 @@ If running/walking is not your thing, think about buying an under-the-desk bike 
 
 ##4. Set aside some office space
 
-You don't need much to make an office. Usually a desk and a chair, and some random office supplies. But in reality, your office could be your couch or your dining room table or your patio table.
+You don't need much to make an office. Usually a desk and a chair, and some random office supplies. But in reality, your home office might be your couch, or your dining room table, or a chair on your patio.
 
 Whatever your "office" might look like, it is important to designate that space as the "office space" and try to only use it when you are working. By deeming certain physical spaces as work vs living spaces, your mind can be triggered to think differently in these spaces.
 
@@ -85,7 +85,7 @@ For me, I need a room and a desk and a DOOR. That way, at the end of the day, I 
 
 ##5. Utilize videos at meetings
 
-Admittedly, I'm the worst at taking my own advice on this one...but use videos whenever you can during meetings. By doing this, you are reminding the voice on the other end that you are a HUMAN and it goes a long way in building relationships and connecting beyond just tasks and deliverables.
+Admittedly, I'm the worst at taking my own advice on this one...but use videos whenever you can during meetings. By doing this, you are reminding the voice on the other end that you are a HUMAN. That simple change goes a long way in building relationships and connecting beyond just tasks and deliverables.
 
 For people who multi-task - yes, I am talking to you - turning your video on will help you stay focused. It is very obvious when people are checking their email or slack messages, or just playing on their phone when you have a video on...not so much when you don't.
 
@@ -137,7 +137,7 @@ If you are one of the lucky ones whose company is generous enough to give "conti
 
 An excuse I often hear is: I'm too busy. Well, think how productive you would be if you went to a conference and learned about a new tool/technique that could help you in your daily workflow? Or maybe you meet someone new at an event who would be an asset to your team? You never know until you go.
 
-For those of you less lucky - you still have a lot of great options! There are so many wonderful virtual conferences, meetings, and webinars nowadays. For networking, you have the usual places like Twitter and LinkedIn, but also many professional organizations have their own networking websites and/or Slack channels. And of course, don't discount local events or semi-local opportunities where you might only have to pay a bit for a bus/train ticket to be able to attend that event.
+For those of you less lucky - you still have a lot of great options! Besides local or semi-local events, there are so many wonderful virtual conferences, meetings, and webinars nowadays. For networking, you have the usual places like Twitter and LinkedIn, but also many professional organizations have their own networking websites and/or Slack channels where you can connect to like-minded people.
 
 <hr>
 
@@ -149,11 +149,11 @@ For those of you less lucky - you still have a lot of great options! There are s
 
 ##9. Remove "helpful" distractions
 
-Tech is a blessing and a curse for a lot of us - but especially the remote worker. In lieu of seeing people in the office, we have all these "helpful" tools to connect electronically. Some of these tools are essential to getting daily stuff done, but some are just noise that make our brains disjointed. Some tools meant to help us connect, actually make things worse.
+Tech is a blessing and a curse for a lot of us - but especially the remote worker. In lieu of seeing people in the office, we have all these "helpful" tools to connect electronically. Some of these tools are essential to getting daily stuff done, but some are just noise that make our brains more disjointed. Some tools meant to help us connect, actually make things worse.
 
 For me, unplugging these helpers occasionally helps me concentrate on getting my work done. I call this "going dark" - where I unplug for an hour or two to go into deep thought/work. I suggest you do it at least a couple of times a week - or as your schedule allows. You will be amazed at how much you can accomplish without the constant pings.
 
-For someone working in tech for as long as I have (15+ years), I honestly avoid tech as much as I possibly can. I am not very active on social media accounts/Slack, I don't have any work-related apps on my phone, and I refuse to check email after 5 pm. I don't do this because I'm a secret tech curmudgeon, but because I have learned what tools are helpful to me and which add to the noise.
+For someone working in tech for as long as I have (15+ years), I honestly avoid tech as much as I possibly can. I am not very active on social media accounts/Slack, I don't have any work-related apps on my phone, and I refuse to check email after 5 pm. I don't do this because I'm a secret tech curmudgeon, but because I have learned what tools are helpful to me and which just add to the noise.
 
 <hr>
 
@@ -164,8 +164,8 @@ For someone working in tech for as long as I have (15+ years), I honestly avoid 
 </div>
 
 ##10. One size does not fit all
-Finally, you need to realize that working remotely - like any skill - takes practice, patience, and perseverance. But also, it isn't for everyone. It is OK to admit if it doesn't work for you.
+Finally, you need to realize that working remotely is a skill. And like any skill it takes practice, patience, and perseverance before you are good at it. The pro-tips in this article are things that work for me - but they might not work for you. Make sure you take some time to figure out what works best for you before you run back to office life.
 
-We all go through different stages of life and have different needs - both personally and professionally. Taking some time to step back and reevaluate what works for you and what doesn't is imperative to both your short-term and long-term happiness.
+That being said, working from home isn't for everyone. It is OK to admit if remote working doesn't work for you. We all go through different stages of life and have different needs - both personally and professionally. Taking some time to step back and reevaluate what works for you and what doesn't is imperative to both your short-term and long-term mental happiness.
 
 <blockquote>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.<br><p class="float-right">- Franklin D. Roosevelt</p></blockquote>
