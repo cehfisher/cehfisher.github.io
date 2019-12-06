@@ -23,7 +23,7 @@ production stylesheet in assets/built/screen.css using gulp dev
 /* ---------------------------------------------------------- */
 
 body {
-  font-family: sans-serif;
+  font-family: "Muli", sans-serif;
   background: var(--color-bg);
   transition: background 0.3s ease-out;
   transition-delay: 0.25;

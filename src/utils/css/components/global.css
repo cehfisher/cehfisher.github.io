@@ -294,6 +294,7 @@ img,
 svg,
 video {
   vertical-align: middle;
+  font-family: sans-serif;
 }
 
 p,
