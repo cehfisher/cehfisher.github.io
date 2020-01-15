@@ -866,6 +866,7 @@ a:active {
 
 #carie-svg {
   overflow: visible;
+  stroke: #555555;
 }
 
 .snow {
@@ -989,14 +990,8 @@ a:active {
   .post-content-body h6,
   .post-content-title,
   .post-content-excerpt {
-    background: var(--color-dark-base);
+    background: var(--color-black);
     color: var(--color-white);
-  }
-
-  a,
-  .published a,
-  main .post-content-body a {
-    color: var(--color-dark-purple);
   }
 
   .post-content-body hr:after {
@@ -1011,5 +1006,14 @@ a:active {
     color: var(--color-base);
     font-weight: 600;
     font-size: 2.5rem;
+  }
+
+  .post-content {
+    outline: 2px solid var(--color-border);
+  }
+
+  #carie-svg {
+    overflow: visible;
+    stroke: var(--color-dark-base);
   }
 }
