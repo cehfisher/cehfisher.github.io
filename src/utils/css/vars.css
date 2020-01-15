@@ -1,43 +1,42 @@
 /* Variables
 /* ---------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,700i,800&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,700i,800&display=swap");
 
 :root {
+  /* Colours */
+  --color-primary: #3eb0ef;
+  --color-base: #555555;
+  --color-dark-base: #131313;
+  --color-border: #ddd;
+  --color-bg: #f8f8f8;
+  --color-sun: #ffbc42;
+  --color-orange: #ff4b00;
+  --color-grape: #8323fa;
+  --color-lavendar: #d8bcfb;
+  --color-dark-purple: #8362fb;
+  --color-hot-pink: #ea3bcb;
+  --color-grass: #64b700;
+  --color-white: #ffffff;
 
-    /* Colours */
-    --color-primary: #3eb0ef;
-    --color-base: #555555;
-    --color-dark-base: #131313;
-    --color-border: #ddd;
-    --color-bg: #f8f8f8;
-    --color-sun: #FFBC42;
-    --color-orange: #FF4B00;
-    --color-grape: #8323FA;
-    --color-lavendar: #d8bcfb;
-    --color-hot-pink: #EA3BCB;
-    --color-grass: #64B700;
-    --color-white: #ffffff;
+  /* Fonts */
+  --font-sans-serif: "Muli", sans-serif;
+  --font-serif: Georgia, Times, serif;
+  --font-mono: Menlo, Courier, monospace;
+  --font-light: 100;
+  --font-normal: 400;
+  --font-bold: 700;
+  --font-heavy: 800;
 
-    /* Fonts */
-    --font-sans-serif: 'Muli', sans-serif;
-    --font-serif: Georgia, Times, serif;
-    --font-mono: Menlo, Courier, monospace;
-    --font-light: 100;
-    --font-normal: 400;
-    --font-bold: 700;
-    --font-heavy: 800;
+  /* Breakpoints */
+  --xlarge: 1680px;
+  --large: 1280px;
+  --medium: 980px;
+  --small: 740px;
+  --xsmall: 480px;
 
-    /* Breakpoints */
-    --xlarge: 1680px;
-    --large: 1280px;
-    --medium: 980px;
-    --small: 740px;
-    --xsmall: 480px;
-
-    /* Sizes */
-    --height: 4rem;
-    --margin: 2rem;
-    --radius: 0.5rem;
-
+  /* Sizes */
+  --height: 4rem;
+  --margin: 2rem;
+  --radius: 0.5rem;
 }

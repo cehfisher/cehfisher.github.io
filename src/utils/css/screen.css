@@ -976,3 +976,40 @@ a:active {
 .page-template .post-content-body h1.h1-svg {
   text-align: unset;
 }
+
+@media (prefers-color-scheme: dark) {
+  body,
+  .post-content,
+  .site-head .floatingHeader li,
+  .post-content-body h1,
+  .post-content-body h2,
+  .post-content-body h3,
+  .post-content-body h4,
+  .post-content-body h5,
+  .post-content-body h6,
+  .post-content-title,
+  .post-content-excerpt {
+    background: var(--color-dark-base);
+    color: var(--color-white);
+  }
+
+  a,
+  .published a,
+  main .post-content-body a {
+    color: var(--color-dark-purple);
+  }
+
+  .post-content-body hr:after {
+    box-shadow: var(--color-dark-base) 0 0 0 5px;
+  }
+
+  .site-head-left a,
+  .site-head-right a {
+    display: block;
+    margin: 0;
+    padding: 10px 12px;
+    color: var(--color-base);
+    font-weight: 600;
+    font-size: 2.5rem;
+  }
+}

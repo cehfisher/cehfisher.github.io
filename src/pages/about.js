@@ -1,16 +1,16 @@
-import React from "react";
-import { graphql, StaticQuery } from "gatsby";
+import React from "react"
+import { graphql, StaticQuery } from "gatsby"
 
-import Layout from "../components/layout";
-import SEO from "../components/seo";
-import Icon from "../../content/assets/about.svg";
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import Icon from "../../content/assets/about.svg"
 
-import "../utils/css/components/global.css";
-import "../utils/normalize.css";
-import "../utils/css/screen.css";
+import "../utils/css/components/global.css"
+import "../utils/normalize.css"
+import "../utils/css/screen.css"
 
 const AboutPage = ({ data }, location) => {
-  const siteTitle = data.site.siteMetadata.title;
+  const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -21,33 +21,81 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body about">
-          <h1 class="h1-svg"><Icon /></h1>
+          <h1 class="h1-svg">
+            <Icon />
+          </h1>
           <p>
-            I have been building websites professionally since the early 2000s and I am passionate
-            about front-end development, accessibility, and promoting diversity
-            in the tech world. Currently, I am working as a Senior Accessibility Consultant at{" "}
-            <a href="https://www.deque.com/" rel="noopener noreferrer" target="_blank">Deque Systems</a>.</p><p>When I am not spending time with my family, traveling, gardening, or making a mess with my latest DIY project, I volunteer my time to the accessibility and dev communities. I am the creator of the{" "}
-            <a href="https://a11y-style-guide.com/style-guide/" rel="noopener noreferrer" target="_blank">
+            Carie Fisher is an author, public speaker, and developer who is
+            passionate about the intersection of front-end code and UX, digital
+            accessibility, and promoting diversity in the tech world. Currently,
+            she is working as a Senior Accessibility Consultant and Trainer at{" "}
+            <a
+              href="https://www.deque.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Deque Systems
+            </a>
+            .
+          </p>
+          <p>
+            In her spare time, Carie likes to travel, garden, and engage with
+            the accessibility and open source dev communities. She is the
+            creator of the{" "}
+            <a
+              href="https://a11y-style-guide.com/style-guide/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               Accessibility (A11Y) Style Guide
             </a>{" "}
             and{" "}
-            <a href="https://www.youtube.com/c/accessibilitytalks" rel="noopener noreferrer" target="_blank">
+            <a
+              href="https://www.youtube.com/c/accessibilitytalks"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               Accessibility (A11Y) Talks
             </a>{" "}
             virtual meet-up, designer of the{" "}
-            <a href="https://www.bonfire.com/accessibility-cats/" rel="noopener noreferrer" target="_blank">
+            <a
+              href="https://www.redbubble.com/people/a11ytalks/works/39136088-accessibility-a11y-cats?asc=u&p=triblend-tee"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               A11y Cats T-shirt
             </a>
-            , member of the <a href="https://a11yproject.com/" rel="noopener noreferrer" target="_blank">A11y Project</a>{" "}
-            and <a href="https://www.24a11y.com/" rel="noopener noreferrer" target="_blank">24 Accessibility</a> teams, and past
-            team member and mentor for the{" "}
-            <a href="https://air-rallies.org/" rel="noopener noreferrer" target="_blank">OpenAIR Knowbility Challenge</a>.
+            , member of the{" "}
+            <a
+              href="https://a11yproject.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              A11y Project
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.24a11y.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              24 Accessibility
+            </a>{" "}
+            teams, and past team member and mentor for the{" "}
+            <a
+              href="https://air-rallies.org/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              OpenAIR Knowbility Challenge
+            </a>
+            .
           </p>
         </div>
       </article>
     </Layout>
-  );
-};
+  )
+}
 
 const indexQuery = graphql`
   query {
@@ -66,7 +114,7 @@ const indexQuery = graphql`
       }
     }
   }
-`;
+`
 
 export default props => (
   <StaticQuery
@@ -75,4 +123,4 @@ export default props => (
       <AboutPage location={props.location} data={data} {...props} />
     )}
   />
-);
+)
