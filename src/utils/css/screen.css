@@ -994,7 +994,8 @@ a:active {
     color: var(--color-white);
   }
 
-  .site-foot p {
+  .site-foot p,
+  th {
     color: var(--color-white);
   }
 
@@ -1007,6 +1008,11 @@ a:active {
     color: var(--color-white);
   }
 
+  tbody tr:nth-child(2n + 1) th,
+  tbody tr:nth-child(2n + 1) td {
+    color: var(--color-base);
+  }
+
   .site-head-left a,
   .site-head-right a {
     display: block;
@@ -1017,7 +1023,11 @@ a:active {
     font-size: 2.5rem;
   }
 
-  .post-content {
+  .post-content,
+  tbody,
+  table,
+  caption,
+  th {
     outline: 2px solid var(--color-border);
   }
 
