@@ -1003,7 +1003,7 @@ a:active {
   }
 
   .post-content-body code {
-    background: var(--color-dark-base);
+    background: var(--color-base);
     color: var(--color-white);
   }
 
