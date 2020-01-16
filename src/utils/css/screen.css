@@ -989,7 +989,8 @@ a:active {
   .post-content-body h5,
   .post-content-body h6,
   .post-content-title,
-  .post-content-excerpt {
+  .post-content-excerpt,
+  .site-foot {
     background: var(--color-black);
     color: var(--color-white);
   }
