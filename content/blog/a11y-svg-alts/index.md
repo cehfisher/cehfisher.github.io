@@ -10,7 +10,7 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 ---
 
 ##SVGs: Then and Now
-Scalable Vector Graphics (SVG) are XML-based vector images. They’ve been around for a long time now but have seen a real resurgence in use over the past couple of years. There are plenty of reasons to use SVGs today including: 
+Scalable Vector Graphics (SVG) are XML-based vector images. They’ve been around for a long time now but have seen a real resurgence in use over the past couple of years. There are plenty of reasons to use SVGs today including:
 
 - Increased native browser support of SVGs means better consistency and higher fidelity of images.
 - Advancement of CSS and JavaScript techniques available to style and animate images.
@@ -23,8 +23,9 @@ Another big advantage of using SVGs over standard images is that they can easily
 <h2>Rules of Alternative Content</h2>
 
 While there are many things to consider when making SVGs fully accessible, we’re going to focus on the ways you can add alternative content to an SVG. I expect you’re already familiar with the alt="" tag on images–alternative content is what’s used when an image isn’t, or can’t be displayed, or assistive technologies are used. Keep in mind, the usual <a href="https://webaim.org/techniques/alttext/" target="_blank" rel="noopener noreferrer">basic rules of alternative content</a> apply to SVGs:
+
 - Make sure your alternative content is meaningful and descriptive.
-- Do not let your alternative content exceed 250 characters.
+- Do not let your alternative content exceed 125 characters.
 - Do not repeat the same alternative content for different images.
 - Do not use phrases like “image of” or “graphic of” to describe an image. A screen reader already tells the user this information.
 - If an SVG (or any graphic) is purely decorative, it needs to have an empty/null alternative text attribute. This sends a signal to the AT to ignore this image as it is not necessary for understanding the content or action on the page.
