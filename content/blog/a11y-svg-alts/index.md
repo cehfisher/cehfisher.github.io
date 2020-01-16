@@ -110,7 +110,7 @@ https://codepen.io/cariefisher/pen/VVVREW
 
 <h3>The <code>&#60;title></code> + <code>&#60;desc></code> Method</h3>
 
-<p>For complex images, you may need more than 250 characters to describe them. This is where the <code class="inline">&lt;desc&gt;</code> element comes into play. The <code class="inline">&lt;desc&gt;</code>&nbsp;tag is equivalent to the&nbsp;<code class="inline">longdesc=""</code> attribute in&nbsp;an&nbsp;<code class="inline">&lt;img&gt;</code> element. However, the benefit to <code class="inline">&lt;desc&gt;</code> is that the description is provided as part of the image itself, whereas with a raster image, the <code class="inline">longdesc=""</code> attribute simply points to another location that contains the detailed description.&nbsp;</p>
+<p>For complex images, you may need more than 125 characters to describe them. This is where the <code class="inline">&lt;desc&gt;</code> element comes into play. The <code class="inline">&lt;desc&gt;</code>&nbsp;tag is equivalent to the&nbsp;<code class="inline">longdesc=""</code> attribute in&nbsp;an&nbsp;<code class="inline">&lt;img&gt;</code> element. However, the benefit to <code class="inline">&lt;desc&gt;</code> is that the description is provided as part of the image itself, whereas with a raster image, the <code class="inline">longdesc=""</code> attribute simply points to another location that contains the detailed description.&nbsp;</p>
 
 <p>Below is an example using <code class="inline">&lt;svg&gt;</code> in combination with <code class="inline">&lt;title&gt;</code> and <code class="inline">&lt;desc&gt;</code>.</p>
 
@@ -148,8 +148,8 @@ https://codepen.io/cariefisher/pen/zMMQzL
 There are many methods to make SVGs a bit more accessible when it comes to supplemental image information. Depending on the complexity of your image you can:
 
 <ul>
-<li>Reference the SVG as an <code class="inline">&lt;img&gt;</code> source and use a traditional alternative text attribute (max 250 characters).</li>
-<li>Supplement your inline SVG with a <code class="inline">&lt;title&gt;</code> element&nbsp;(max 250 characters).</li>
+<li>Reference the SVG as an <code class="inline">&lt;img&gt;</code> source and use a traditional alternative text attribute (max 125 characters).</li>
+<li>Supplement your inline SVG with a <code class="inline">&lt;title&gt;</code> element&nbsp;(max 125 characters).</li>
 <li>For more complex images, you can use a <code class="inline">&lt;desc&gt;</code> element to add more details than the <code class="inline">&lt;title&gt;</code> element (no limit on characters).</li>
 <li>For additional browser/AT support, link the <code class="inline">&lt;title&gt;</code> or <code class="inline">&lt;desc&gt;</code> elements to an <code class="inline">aria-labelledby</code> attribute.</li>
 </ul>

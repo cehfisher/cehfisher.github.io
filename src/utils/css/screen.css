@@ -1002,6 +1002,11 @@ a:active {
     box-shadow: var(--color-dark-base) 0 0 0 5px;
   }
 
+  .post-content-body code {
+    background: var(--color-dark-base);
+    color: var(--color-white);
+  }
+
   .site-head-left a,
   .site-head-right a {
     display: block;
