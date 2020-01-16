@@ -5,7 +5,7 @@ thumbnail: ./bee.png
 description: Things to consider when adding alternative content to SVGs
 published: Envato Tuts+
 canonical: https://webdesign.tutsplus.com/tutorials/accessible-svg-methods-for-adding-alternative-content--cms-32205
-pub_date: December 3, 20198
+pub_date: December 3, 2018
 tags: accessibility, a11y, design, media, patterns, development, svgs
 ---
 
