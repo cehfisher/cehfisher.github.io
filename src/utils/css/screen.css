@@ -1003,7 +1003,8 @@ a:active {
     box-shadow: var(--color-dark-base) 0 0 0 5px;
   }
 
-  .post-content-body code {
+  .post-content-body code,
+  .kg-card figcaption {
     background: var(--color-base);
     color: var(--color-white);
   }
