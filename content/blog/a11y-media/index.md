@@ -1,7 +1,7 @@
 ---
 title: What is Digital Accessibility in Multimedia?
 date: "2019-12-03"
-thumbnail: ./.jpg
+thumbnail: ./media.jpg
 description: Producing videos and hosting live streaming events with digital accessibility best practices in mind
 published: Envato Tuts+
 canonical: https://webdesign.tutsplus.com/articles/considerations-for-digital-accessibility-in-multimedia--cms-34317
@@ -122,7 +122,7 @@ tags: accessibility, a11y, design, media, development, multimedia
 
 <p>Sign language interpretation for multimedia is when you add a video of an interpreter, usually shown in a box to the side of the video, who narrates the audio portion through sign language. If you are live streaming your event, typically the sign language interpreter is in the same room as the speaker to one side.</p><p>Sign language interpretation is important for multimedia since for many people who are Deaf, sign language is their first and most fluent language. Sign language interpretation is often is more expressive than just written transcripts, so can provide a much richer experience than captions or transcripts alone.</p><p>However, sign language interpretation can be cost-prohibitive to many organizations. And even if you do add sign language interpretation to your multimedia, you need to understand that it has regional limitations as there are <a href="https://en.wikipedia.org/wiki/List_of_sign_languages" rel="external" target="_blank">over 300 different sign languages</a>&nbsp;throughout the world. So adding one sign language interpretation to your multimedia would not be enough if you are targeting a global audience.</p>
 
-![RTBF Les Niouzz via tv.signlangtv.org](./sign-language.jpg)
+![RTBF Les Niouzz via tv.signlangtv.org](./sign-language-new.jpg)
 
 ####WCAG Requirements for Sign language interpretation
 
