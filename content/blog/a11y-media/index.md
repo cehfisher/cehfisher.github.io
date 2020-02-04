@@ -1,7 +1,7 @@
 ---
 title: What is Digital Accessibility in Multimedia?
 date: "2019-12-03"
-thumbnail: ./media-headphones.jpg
+thumbnail: ./media-mic.jpg
 description: Producing videos and hosting live streaming events with digital accessibility best practices in mind
 published: Envato Tuts+
 canonical: https://webdesign.tutsplus.com/articles/considerations-for-digital-accessibility-in-multimedia--cms-34317
