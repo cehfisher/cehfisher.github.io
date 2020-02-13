@@ -220,6 +220,10 @@ body {
   background: var(--color-lavendar);
 }
 
+[aria-current="page"] svg {
+  stroke: var(--color-dark-base);
+}
+
 [aria-current="page"].site-head-logo {
   text-decoration: none;
   color: var(--color-dark-base);
@@ -1032,8 +1036,16 @@ a:active {
     outline: 2px solid var(--color-border);
   }
 
+  svg {
+    stroke: var(--color-light-base);
+  }
+
+  li:hover svg {
+    stroke: var(--color-dark-base);
+  }
+
   #carie-svg {
     overflow: visible;
-    stroke: var(--color-dark-base);
+    stroke: var(--color-light-base);
   }
 }
