@@ -119,7 +119,7 @@ One easy way you can establish boundaries is to utilize a setting like Google's 
 
 I live in the arctic tundra...I mean, Wisconsin. The urge to stay indoors is strong during certain times of the year.
 
-But I have found that when I dedicate at least 15 mins of my day to go outside, breath in the air, and reconnect to the living world, I increase my concentration power when back in the office. Not only that but seeing the sun boosts my vitamin D, which positively impacts my mood.
+But I have found that when I dedicate at least 15 mins of my day to go outside, breathe in the air, and reconnect to the living world, I increase my concentration power when back in the office. Not only that but seeing the sun boosts my vitamin D, which positively impacts my mood.
 
 Understanding the benefits of going outside is one thing, but forcing yourself to leave the comforts of your own home is another thing. For me, owning a dog is imperative to motivating me to leave the house. For others, there might be something else that can lure you outside - going to the mailbox, walking to a nearby coffee shop, picking your kids up from school - use whatever you can to stick to this rule.
 
