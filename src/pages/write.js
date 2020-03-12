@@ -1,16 +1,16 @@
-import React from "react";
-import { graphql, StaticQuery } from "gatsby";
+import React from "react"
+import { graphql, StaticQuery } from "gatsby"
 
-import Layout from "../components/layout";
-import SEO from "../components/seo";
-import Icon from "../../content/assets/write.svg";
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import Icon from "../../content/assets/write.svg"
 
-import "../utils/css/components/global.css";
-import "../utils/normalize.css";
-import "../utils/css/screen.css";
+import "../utils/css/components/global.css"
+import "../utils/normalize.css"
+import "../utils/css/screen.css"
 
 const AboutPage = ({ data }, location) => {
-  const siteTitle = data.site.siteMetadata.title;
+  const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -20,15 +20,59 @@ const AboutPage = ({ data }, location) => {
       />
       <article className="post-content page-template no-image">
         <div className="post-content-body write">
-          <h1 class="h1-svg"><Icon /></h1>
+          <h1 class="h1-svg">
+            <Icon />
+          </h1>
           <p>
-            I absolutely love to write! And I have been lucky enough to do so for these fine folks in the past: 24 Accessibility, A List Apart, Code Like a Girl, Deque Systems, Envato Tuts+, Hacker Noon, Statuscode, The Mission, The Startup, UX Planet, and others.</p><p>Past topics include: <ul><li>accessibility</li><li>Commodore 64s</li><li>fruit fly genetics</li><li>front-end development</li><li>inclusive design</li><li>STEM technology</li><li>SVGs</li><li>tech business/culture</li><li>The Rock</li><li>turkeys trying to kill me</li><li>and more!</li></ul>
-          </p><p>Contact me via <a href="https://www.linkedin.com/in/cariefisher" title="LinkedIn" rel="noopener noreferrer" target="_blank">LinkedIn</a> or <a href="https://twitter.com/cariefisher" rel="noopener noreferrer" title="Twitter" target="_blank">Twitter</a> if you'd like me to write for your publication or organization.</p>
+            I absolutely love to write! Some of my past posts focus on topics
+            like: accessibility, Commodore 64s, fruit fly genetics, front-end
+            development, inclusive design/patterns, SEO, STEM technology, SVGs,
+            tech business/culture, The Rock, wild turkeys trying to murder me,
+            and more!
+          </p>
+          <p>
+            I have been lucky enough to write for these fine folks in the past:{" "}
+            <ul>
+              <li>24 Accessibility</li>
+              <li>A List Apart</li>
+              <li>Code Like a Girl</li>
+              <li>Deque Systems</li>
+              <li>Envato Tuts+</li>
+              <li>Hacker Noon</li>
+              <li>Smashing Magazine</li>
+              <li>Statuscode</li>
+              <li>The Mission</li>
+              <li>The Startup</li>
+              <li>UX Planet</li>
+              <li>and many more</li>
+            </ul>
+          </p>
+          <p>
+            Contact me via{" "}
+            <a
+              href="https://www.linkedin.com/in/cariefisher"
+              title="LinkedIn"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              LinkedIn
+            </a>{" "}
+            or{" "}
+            <a
+              href="https://twitter.com/cariefisher"
+              rel="noopener noreferrer"
+              title="Twitter"
+              target="_blank"
+            >
+              Twitter
+            </a>{" "}
+            if you'd like me to write for your publication or organization.
+          </p>
         </div>
       </article>
     </Layout>
-  );
-};
+  )
+}
 
 const indexQuery = graphql`
   query {
@@ -47,7 +91,7 @@ const indexQuery = graphql`
       }
     }
   }
-`;
+`
 
 export default props => (
   <StaticQuery
@@ -56,4 +100,4 @@ export default props => (
       <AboutPage location={props.location} data={data} {...props} />
     )}
   />
-);
+)

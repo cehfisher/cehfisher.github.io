@@ -25,10 +25,10 @@ const AboutPage = ({ data }, location) => {
             <Icon />
           </h1>
           <p>
-            Carie Fisher is an author, public speaker, and developer who is
-            passionate about the intersection of front-end code and UX, digital
+            Carie Fisher is an author, speaker, and developer who is passionate
+            about the intersection of front-end code and UX, digital
             accessibility, and promoting diversity in the tech world. Currently,
-            she is working as a Senior Accessibility Consultant and Trainer at{" "}
+            employed as a Senior Accessibility Consultant and Trainer at{" "}
             <a
               href="https://www.deque.com/"
               rel="noopener noreferrer"
