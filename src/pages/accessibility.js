@@ -38,7 +38,7 @@ const AboutPage = ({ data }, location) => {
             for all my pages.
           </p>
           <p>
-            However, I am only a human and occasionally make mistakes or miss
+            However, I am only human and occasionally make mistakes or miss
             things. If you see something that is inaccessible, please contact me
             via{" "}
             <a
