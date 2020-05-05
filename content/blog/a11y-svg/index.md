@@ -97,7 +97,7 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title>Lightbulb moment!</title>
+      &#60;title>Lightbulb moment!&#60;/title>
 &#60;path d="M19..."/>
 &#60;/svg>
  </code>
@@ -115,7 +115,7 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;text>Lightbulb moment!</text>
+      &#60;text>Lightbulb moment!&#60;/text>
 &#60;path d="M19..."/>
 &#60;/svg></code>
 </div>
@@ -132,8 +132,8 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title>Lightbulb moment!</title>
-      &#60;text class="visually-hidden" font-size="0">I have a great idea.</text>
+      &#60;title>Lightbulb moment!&#60;/title>
+      &#60;text class="visually-hidden" font-size="0">I have a great idea.&#60;/text>
 &#60;path d="M19..."/>
 &#60;/svg></code>
 </div>
@@ -150,7 +150,7 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" aria-labelledby="lightbulb8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title id="lightbulb8">Lightbulb moment!</title>
+      &#60;title id="lightbulb8">Lightbulb moment!&#60;/title>
 &#60;path d="M19..."/>
 &#60;/svg></code>
 </div>
@@ -171,7 +171,7 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" aria-describedby="lightbulb9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title id="lightbulb9">Lightbulb moment!</title>
+      &#60;title id="lightbulb9">Lightbulb moment!&#60;/title>
 &#60;path d="M19..."/>
 &#60;/svg>
  
@@ -190,8 +190,8 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title>Lightbulb moment!</title>
-      &#60;desc>I have a great idea.</desc>
+      &#60;title>Lightbulb moment!&#60;/title>
+      &#60;desc>I have a great idea.&#60;/desc>
 &#60;path d="M19..."/>
 &#60;/svg>
  </code>
@@ -209,8 +209,8 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" aria-labelledby="lightbulb11 description11" version="1.1" class="hotpink" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title id="lightbulb11">Lightbulb moment!</title>
-      &#60;desc id="description11">I have a great idea.</desc>
+      &#60;title id="lightbulb11">Lightbulb moment!&#60;/title>
+      &#60;desc id="description11">I have a great idea.&#60;/desc>
 &#60;path d="M19..."/>
 &#60;/svg></code>
 </div>
@@ -227,8 +227,8 @@ tags: accessibility, a11y, design, media, patterns, development, svgs
 <div class="kg-card-right">
 <h3>Code</h3>
 <code>&#60;svg role="img" aria-describedby="lightbulb12 description12" version="1.1" class="ltgray" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-      &#60;title id="lightbulb12">Lightbulb moment!</title>
-      &#60;desc id="description12">I have a great idea.</desc>
+      &#60;title id="lightbulb12">Lightbulb moment!&#60;/title>
+      &#60;desc id="description12">I have a great idea.&#60;/desc>
 &#60;path d="M19..."/>
 &#60;/svg></code>
 </div>
