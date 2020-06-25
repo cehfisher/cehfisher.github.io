@@ -34,11 +34,16 @@ const AboutPage = ({ data }, location) => {
             Here are some of the places I've been fortunate enough to speak at:
             <ul>
               <li>a11yTO</li>
-              <li>DrupalCon</li>
-              <li>numerous Drupal camps</li>
-              <li>WordSesh</li>
+              <li>Deque Systems Webinar</li>
+              <li>DrupalCon (multiple years)</li>
+              <li>Drupal camps (various events)</li>
+              <li>ID24</li>
+              <li>Smashing Magazine TV</li>
+              <li>TechAccess Oklahoma</li>
+              <li>WordCamp</li>
               <li>WordPress Campus</li>
-              <li>various client events</li>
+              <li>WordSesh</li>
+              <li>additional client training and events</li>
             </ul>
           </p>
           <p>
