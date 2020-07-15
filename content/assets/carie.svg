@@ -1,12 +1,15 @@
-<svg viewBox="0 0 200 100" id="carie-svg" role="presentation" focusable="false">
-  <defs aria-hidden="true">
-    <linearGradient id="rainbow" x1="0" x2="0" y1="0" y2="100%" gradientUnits="userSpaceOnUse" >
-      <stop id="stop1" stop-color="#FF4B00" offset="20%"/>
-      <stop id="stop2" stop-color="#EA3BCB" offset="50%"/>
-      <stop id="stop3" stop-color="#8323FA" offset="90%"/> 
-    </linearGradient>
-  </defs>
-    <text role="presentation" stroke-width="0.5px" font-weight="400" fill="url(#rainbow)">
-      <tspan font-size="65" x="0" y="47" role="presentation">hello!</tspan><tspan font-size="38" x="1" dy="33" role="presentation">I'm Carie</tspan>
-    </text>
-</svg>
+<svg viewBox="0 0 200 100"  id="carie-svg" role="presentation" focusable="false">
+    <defs>
+        <linearGradient id="MyGradient" x1="10%" y1="10%" x2="100%" y2="100%">
+          <stop stop-color="#FF4B00" offset="0%"/>
+          <stop stop-color="#EA3BCB" offset="50%"/>
+          <stop stop-color="#8323FA" offset="100%"/>
+        </linearGradient>
+      
+        <pattern id="rainbow-grad" patternUnits="userSpaceOnUse" width="3000px" height="80%">
+          <rect width="100%" height="100%" fill="url(#MyGradient)"/>
+        </pattern>
+      </defs>
+  
+    <text role="presentation" font-weight="400"><tspan font-size="65" x="0" y="47" role="presentation">hello!</tspan><tspan font-size="38" x="1" dy="33" role="presentation">I'm Carie</tspan></text>
+  </svg>

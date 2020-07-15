@@ -929,6 +929,11 @@ a:active {
   stroke: var(--color-white);
 }
 
+text {
+  fill: url(#rainbow-grad);
+  height: 100%;
+}
+
 .snow {
   height: 75vh;
   position: absolute;
