@@ -477,7 +477,7 @@ body {
 .post-card-link {
   flex: 1 1 auto;
   display: block;
-  border: 1px solid #000000;
+  border: 0.01px solid #000000;
 }
 
 .post-card-content {
@@ -1128,7 +1128,7 @@ a:active {
   }
 
   .post-card-link {
-    border: 1px solid #ffffff;
+    border: 0.01px solid #ffffff;
   }
 
   .nav-about line {
