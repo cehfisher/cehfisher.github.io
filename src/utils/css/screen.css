@@ -81,7 +81,7 @@ body {
 }
 @media (max-width: 1100px) {
   .page-head {
-    margin: 5% 0 1% 18%;
+    margin: 5% 0 1% 23%;
   }
 }
 
@@ -183,12 +183,14 @@ body {
   list-style: none;
   position: fixed;
   right: 4.5%;
+  top: 40px;
 }
 @media (max-width: 1100px) {
   .nav {
     display: flex;
     position: relative;
     right: 0;
+    top: 0;
   }
 }
 
@@ -269,7 +271,7 @@ body {
 }
 @media (max-width: 1100px) {
   .site-head-right {
-    margin: 1.5rem auto 0;
+    margin: 0 auto;
     max-width: 100%;
   }
 }
@@ -931,7 +933,6 @@ a:active {
 
 text {
   fill: url(#rainbow-grad);
-  height: 100%;
 }
 
 .snow {
