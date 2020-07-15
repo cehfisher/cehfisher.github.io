@@ -31,7 +31,7 @@ Myself, I often rock a "work mullet" - nice shirt, combed hair, and minimal make
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Busy bustling coffee shop.](./coffee.jpg)
+![Busy coffee shop.](./coffee.jpg)
 
 </div>
 

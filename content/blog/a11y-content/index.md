@@ -18,7 +18,7 @@ Less is more when it comes to accessible typography. The easiest way to make you
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Common font families used for accessibility include Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.](./content1.png)
+![Common font families for accessibility include Arial, Calibri, Century Gothic, Helvetica, Tahoma, Verdana, Times New Roman, Georgia, Arvo, Museo Slab, and Rockwell.](./content1.png)
 
 </div>
 
@@ -77,7 +77,7 @@ For these reasons, you should consider the following guidelines:
 - Font size should be defined with a relative value (ex. %, rem, or em) to allow easy resizing.
 - Limit the use of font variations such as italic, bold, ALL CAPS or other styling methods that may make the content difficult to read.
 - Do not use underlines for items that are not links.
-- Use markup instead of text on images!* Screen readers cannot read embedded text on images (without extra code added) and embedded text can also become pixelated when magnified by users with low vision.
+- Use markup instead of text on images!\* Screen readers cannot read embedded text on images (without extra code added) and embedded text can also become pixelated when magnified by users with low vision.
 
 ###Color and Contrast
 With the number of people who have some variant of color blindness, suffer from low vision, or are completely blind (all together roughly 9% of the global population), this is a very large area where designers can have a direct and immediate impact on website accessibility.

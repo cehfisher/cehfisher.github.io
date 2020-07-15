@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import { FiMoreHorizontal } from 'react-icons/fi'
+import { FiMoreHorizontal } from "react-icons/fi"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -22,20 +22,32 @@ class BlogPostTemplate extends React.Component {
         >
           <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
-          
-          {post.frontmatter.description && (
-            <p className="post-content-excerpt">{post.frontmatter.description}</p>
-          )}
 
-          <p class="publishedplace">
-          <FiMoreHorizontal className="dots-svg" />
-          {post.frontmatter.canonical && (
-            <p className="published">Originally published on <a className="published" target="_blank" rel="noopener noreferrer" href={`${post.frontmatter.canonical}/`}>{post.frontmatter.published}</a></p>
-          )}
-          {post.frontmatter.pub_date && (
-            <p className="published">{post.frontmatter.pub_date}</p>
-          )}
-          </p>
+            {post.frontmatter.description && (
+              <p className="post-content-excerpt">
+                {post.frontmatter.description}
+              </p>
+            )}
+
+            <p class="publishedplace">
+              <FiMoreHorizontal className="dots-svg" />
+              {post.frontmatter.canonical && (
+                <p className="published">
+                  Originally published on{" "}
+                  <a
+                    className="published"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={`${post.frontmatter.canonical}/`}
+                  >
+                    {post.frontmatter.published}
+                  </a>
+                </p>
+              )}
+              {post.frontmatter.pub_date && (
+                <p className="published">{post.frontmatter.pub_date}</p>
+              )}
+            </p>
           </header>
 
           {post.frontmatter.thumbnail && (

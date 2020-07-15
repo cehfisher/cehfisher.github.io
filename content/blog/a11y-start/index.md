@@ -21,7 +21,7 @@ Website accessibility should not be just a box you check off when you deliver a 
 <hr>
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Group of people looking way too excited all dressed in muted colors with a white background.](./a11y-start2.jpg "Smiling, happy people. Do you *really* know who has a disability just by their outward appearance?")
+![Group of people looking excited and all dressed in muted colors with a white background.](./a11y-start2.jpg "Smiling, happy people. Do you *really* know who has a disability just by their outward appearance?")
 
 </div>
 

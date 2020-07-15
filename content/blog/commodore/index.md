@@ -17,7 +17,7 @@ My father was an engineer and a technophile. I still remember the day he showed 
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Guessing game script for the Commodore 64.](./com.png "One of the first BASIC programming script I entered into the Commodore 64. Nerdy memories :)")
+![Guessing game code script for the Commodore 64.](./com.png "One of the first BASIC programming script I entered into the Commodore 64. Nerdy memories :)")
 
 </div>
 

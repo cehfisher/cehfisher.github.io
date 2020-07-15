@@ -19,7 +19,7 @@ I applaud the women who came forward, both in the past — and were basicall
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![I know H.T.M.L. - How to Meet Ladies shirt.](./wein1.png "Insert eye roll.")
+![I know HTML - How to Meet Ladies shirt.](./wein1.png "Insert eye roll.")
 
 </div>
 
