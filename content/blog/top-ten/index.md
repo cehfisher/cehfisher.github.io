@@ -15,7 +15,7 @@ Some people think remote working is "living the life" - but it's not always a va
 
 <div class="kg-card kg-image-card kg-width-medium">
 
-![Colorful shirts hanging on a wire](./clothes.jpg)
+![Colorful shirts hanging on a wire.](./clothes.jpg)
 
 </div>
 
