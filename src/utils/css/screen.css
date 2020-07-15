@@ -869,10 +869,6 @@ a:active {
   stroke-width: 1px;
 }
 
-.nav-speak line {
-  stroke-width: 1px;
-}
-
 .nav-accessibility svg {
   fill: var(--color-grape);
   stroke-width: 1px;
@@ -1136,5 +1132,9 @@ a:active {
 
   #pen-circle-svg {
     stroke: var(--color-base);
+  }
+
+  .nav-speak svg {
+    stroke: var(--color-light-base);
   }
 }
