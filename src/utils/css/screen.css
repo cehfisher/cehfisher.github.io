@@ -925,6 +925,7 @@ a:active {
 
 #carie-svg {
   overflow: visible;
+  stroke: var(--color-white);
 }
 
 .snow {
@@ -1096,6 +1097,7 @@ a:active {
 
   #carie-svg {
     overflow: visible;
+    stroke: var(--color-black);
   }
 
   .nav-top a {
