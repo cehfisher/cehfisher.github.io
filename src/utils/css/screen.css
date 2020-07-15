@@ -79,7 +79,7 @@ body {
   text-align: center;
   margin-right: 30%;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .page-head {
     margin: 5% 0 1% 18%;
   }
@@ -143,7 +143,7 @@ body {
 }
 
 .site-foot a {
-  color: var(--color-base);
+  color: var(--color-dark-base);
 }
 
 /* Site Navigation
@@ -162,7 +162,7 @@ body {
   align-items: center;
   float: right;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .site-head-container {
     float: unset;
   }
@@ -184,7 +184,7 @@ body {
   position: fixed;
   right: 4.5%;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .nav {
     display: flex;
     position: relative;
@@ -206,9 +206,9 @@ body {
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: var(--color-base);
+  color: var(--color-dark-base);
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 [aria-current="page"],
@@ -267,7 +267,7 @@ body {
   display: flex;
   align-items: center;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .site-head-right {
     margin: 1.5rem auto 0;
     max-width: 100%;
@@ -307,7 +307,7 @@ body {
 .rss-button svg {
   margin-bottom: 1px;
   height: 2.1rem;
-  fill: var(--color-base);
+  fill: var(--color-dark-base);
 }
 
 /* Mobile Nav Menu
@@ -448,6 +448,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   clear: both;
+  border: 0.5px solid #000000;
 }
 
 .post-card {
@@ -476,7 +477,7 @@ body {
 .post-card-link {
   flex: 1 1 auto;
   display: block;
-  border: 5px dotted transparent;
+  border: 1px solid #000000;
 }
 
 .post-card-content {
@@ -498,7 +499,7 @@ body {
 .post-card.with-image .post-card-content {
   opacity: 0;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .post-card.with-image .post-card-content {
     opacity: 1;
     border: none;
@@ -580,6 +581,7 @@ a:active {
   background: white;
   padding: 5rem 6rem;
   margin-top: 3rem;
+  outline: 1px solid var(--color-black);
 }
 
 .post-content-header {
@@ -639,7 +641,7 @@ a:active {
   margin-top: -13rem;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .post-content-body.missing,
   .post-content-body.about,
   .post-content-body.speak,
@@ -821,31 +823,59 @@ a:active {
 /* Icon colors */
 #home-svg {
   fill: var(--color-grass);
+  stroke-width: 1px;
 }
 
 #home-door-svg {
   fill: var(--color-grape);
+  stroke-width: 1px;
 }
 
 .nav-about svg {
   fill: var(--color-sun);
+  stroke-width: 1px;
+}
+
+.nav-about line {
+  stroke-width: 2px;
+  stroke: var(--color-dark-base);
+}
+
+.nav-about path {
+  stroke: var(--color-dark-base);
 }
 
 #mic-svg {
   fill: var(--color-orange);
+  stroke-width: 1px;
 }
 
 .nav-write svg {
   fill: var(--color-hot-pink);
+  stroke-width: 1px;
 }
 
 #pen-line-svg,
 #pen-circle-svg {
   fill: var(--color-sun);
+  stroke-width: 1px;
+}
+
+#pen-circle-svg {
+  stroke: var(--color-dark-base);
+}
+
+.nav-speak {
+  stroke-width: 1px;
+}
+
+.nav-speak line {
+  stroke-width: 1px;
 }
 
 .nav-accessibility svg {
   fill: var(--color-grape);
+  stroke-width: 1px;
 }
 
 .nav-top {
@@ -855,16 +885,17 @@ a:active {
 .nav-top svg {
   font-size: 2.5rem;
   padding-right: 0.5rem;
+  stroke-width: 1px;
 }
 
 .nav-top a {
-  color: var(--color-white);
+  color: var(--color-dark-base);
   padding: 1rem;
 }
 
 .nav-top a:hover {
   background: transparent;
-  color: var(--color-white);
+  color: var(--color-dark-base);
 }
 
 #top-svg {
@@ -873,27 +904,33 @@ a:active {
 
 .social-twitter svg {
   fill: var(--color-hot-pink);
+  stroke-width: 1px;
 }
 
 .social-linkedin svg {
   fill: var(--color-grass);
+  stroke-width: 1px;
 }
 
 .social-notist svg {
   fill: var(--color-grape);
+  stroke-width: 1px;
 }
 
 .social-github svg {
   fill: var(--color-sun);
+  stroke-width: 1px;
 }
 
 .social-rss svg {
   fill: var(--color-orange);
+  stroke-width: 1px;
 }
 
 #carie-svg {
   overflow: visible;
-  stroke: #555555;
+  stroke-width: 0.5px;
+  stroke: var(--color-black);
 }
 
 .snow {
@@ -917,6 +954,7 @@ a:active {
   width: 125%;
   margin-left: -14%;
   z-index: 0;
+  stroke: transparent;
 }
 
 .dots-svg {
@@ -956,7 +994,7 @@ a:active {
 }
 
 .kg-image {
-  max-width: 1000px;
+  max-width: 1200px;
   width: 100%;
   max-height: 550px;
   margin: 0 auto;
@@ -1048,7 +1086,6 @@ a:active {
     padding: 10px 12px;
     color: var(--color-base);
     font-weight: 600;
-    font-size: 2.5rem;
   }
 
   .post-content,
@@ -1056,11 +1093,11 @@ a:active {
   table,
   caption,
   th {
-    outline: 2px solid var(--color-border);
+    outline: 1px solid var(--color-white);
   }
 
   svg {
-    stroke: var(--color-light-base);
+    stroke: var(--color-white);
   }
 
   li:hover svg {
@@ -1069,6 +1106,40 @@ a:active {
 
   #carie-svg {
     overflow: visible;
-    stroke: var(--color-light-base);
+    stroke: var(--color-white);
+  }
+
+  .nav-top a {
+    color: var(--color-white);
+    padding: 1rem;
+  }
+
+  .nav-top a:hover {
+    background: transparent;
+    color: var(--color-white);
+  }
+
+  #top-svg {
+    fill: var(--color-grape);
+  }
+
+  .post-feed {
+    border: 0.5px solid #ffffff;
+  }
+
+  .post-card-link {
+    border: 1px solid #ffffff;
+  }
+
+  .nav-about line {
+    stroke: var(--color-base);
+  }
+
+  .nav-about path {
+    stroke: var(--color-base);
+  }
+
+  #pen-circle-svg {
+    stroke: var(--color-base);
   }
 }

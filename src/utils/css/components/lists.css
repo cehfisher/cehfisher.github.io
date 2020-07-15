@@ -4,59 +4,60 @@
 ul,
 ol,
 dl {
-    margin: 0 0 var(--margin) 0;
+  margin: 0 0 var(--margin) 0;
 }
 
 ol,
 ul {
-    padding-left: 1.3em;
-    padding-right: 1.5em;
+  padding-left: 1.3em;
+  padding-right: 1.5em;
 }
 
 ol ol,
 ul ul,
 ul ol,
 ol ul {
-    margin: 0.5em 0 1em;
+  margin: 0.5em 0 1em;
 }
 
 ul {
-    list-style: disc;
+  list-style: disc;
 }
 
 ol {
-    list-style: decimal;
+  list-style: decimal;
 }
 
 ul,
 ol {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 li {
-    margin: 0.5em 0;
-    padding: 5px;
-    line-height: 1.6em;
+  margin: 0.5em 0;
+  padding: 5px;
+  line-height: 1.6em;
 }
 
-.site-foot .nav {   
-    display: inline-flex;
-    font-size: 2.5rem;
-    position: relative;
-    right: 0;
+.site-foot .nav {
+  display: inline-flex;
+  font-size: 3rem;
+  position: relative;
+  right: 0;
 }
 
 .site-foot li a {
-    margin: 0;
-    padding: 2px 10px 8px;
+  margin: 0;
+  padding: 2px 10px 8px;
+  font-size: 3rem;
 }
 
 dt {
-    display: block;
-    font-weight: var(--font-bold);
-    margin: 0 0 calc(var(--margin) * 0.5) 0;
+  display: block;
+  font-weight: var(--font-bold);
+  margin: 0 0 calc(var(--margin) * 0.5) 0;
 }
 
 dd {
-    margin-left: var(--margin);
+  margin-left: var(--margin);
 }
