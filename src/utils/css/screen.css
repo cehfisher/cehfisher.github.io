@@ -924,6 +924,7 @@ a:active {
 }
 
 #carie-svg {
+  stroke-width: 0.5px;
   overflow: visible;
   stroke: var(--color-white);
 }
