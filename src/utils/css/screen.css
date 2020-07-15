@@ -848,6 +848,29 @@ a:active {
   fill: var(--color-grape);
 }
 
+.nav-top {
+  height: 2.5rem;
+}
+
+.nav-top svg {
+  font-size: 2.5rem;
+  padding-right: 0.5rem;
+}
+
+.nav-top a {
+  color: var(--color-white);
+  padding: 1rem;
+}
+
+.nav-top a:hover {
+  background: transparent;
+  color: var(--color-white);
+}
+
+#top-svg {
+  fill: var(--color-lavendar);
+}
+
 .social-twitter svg {
   fill: var(--color-hot-pink);
 }
