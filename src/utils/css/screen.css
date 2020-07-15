@@ -929,8 +929,6 @@ a:active {
 
 #carie-svg {
   overflow: visible;
-  stroke-width: 0.5px;
-  stroke: var(--color-black);
 }
 
 .snow {
@@ -1096,17 +1094,12 @@ a:active {
     outline: 1px solid var(--color-white);
   }
 
-  svg {
-    stroke: var(--color-white);
-  }
-
   li:hover svg {
     stroke: var(--color-dark-base);
   }
 
   #carie-svg {
     overflow: visible;
-    stroke: var(--color-white);
   }
 
   .nav-top a {
@@ -1119,8 +1112,10 @@ a:active {
     color: var(--color-white);
   }
 
-  #top-svg {
-    fill: var(--color-grape);
+  #top-svg,
+  .nav-top a svg {
+    stroke: var(--color-black);
+    color: var(--color-black);
   }
 
   .post-feed {
