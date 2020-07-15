@@ -142,6 +142,10 @@ body {
   position: relative;
 }
 
+.site-foot .nav {
+  top: 0;
+}
+
 .site-foot a {
   color: var(--color-dark-base);
 }
