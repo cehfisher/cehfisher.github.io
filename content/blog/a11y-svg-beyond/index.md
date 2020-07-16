@@ -1,7 +1,7 @@
 ---
 title: Accessible SVGs - Inclusiveness Beyond Patterns
 date: "2020-03-12"
-thumbnail: ./chameleon.png
+thumbnail: ./chameleon-space.png
 description: We are fortunate to have robust patterns to choose from when optimizing accessibility in SVGs — but most people stop there, focusing on code compliance and not actual users and their needs. If true inclusiveness lies beyond patterns — what other factors should we consider when designing and developing accessible SVGs?
 published: Smashing Magazine
 canonical: https://www.smashingmagazine.com/2020/03/accessible-svgs-inclusiveness-beyond-patterns/
