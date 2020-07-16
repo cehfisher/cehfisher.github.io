@@ -363,6 +363,10 @@ main .post-content-body a:focus,
   text-decoration: none;
 }
 
+main .post-content-body figure a:hover {
+  background: transparent;
+}
+
 .kg-image-card a {
   background: transparent !important;
 }

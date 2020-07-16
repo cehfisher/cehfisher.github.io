@@ -683,7 +683,7 @@ a:active {
   padding: 3rem;
   border: none;
   font-style: italic;
-  font-size: 1.7rem;
+  font-size: 2rem;
   position: relative;
   border: color(var(--color-grass)) 5px dotted;
 }
