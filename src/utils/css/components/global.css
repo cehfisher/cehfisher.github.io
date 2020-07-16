@@ -349,7 +349,7 @@ main .post-content-body a,
   color: color(var(--color-grape));
   text-decoration: underline;
   transition: 0.4s ease;
-  padding: 0 0.3rem;
+  padding: 0;
 }
 
 main .post-content-body a:hover,
@@ -363,7 +363,9 @@ main .post-content-body a:focus,
   text-decoration: none;
 }
 
-main .post-content-body figure a:hover {
+main .post-content-body figure a:hover,
+main .post-content-body figure a:active,
+main .post-content-body figure a:focus {
   background: transparent;
 }
 

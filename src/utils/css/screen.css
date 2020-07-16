@@ -683,9 +683,11 @@ a:active {
   padding: 3rem;
   border: none;
   font-style: italic;
-  font-size: 2rem;
+  font-size: 1.75rem;
   position: relative;
   border: color(var(--color-grass)) 5px dotted;
+  font-style: italic;
+  text-align: center;
 }
 
 .post-content-body blockquote p {
@@ -694,6 +696,7 @@ a:active {
   font-size: inherit;
   line-height: inherit;
   font-style: italic;
+  font-weight: 700;
 }
 
 .post-content-body blockquote p:last-child {
@@ -711,7 +714,11 @@ a:active {
 }
 
 .post-content-body p code {
-  word-break: break-all;
+  word-break: break-word;
+}
+
+.post-content-body a:hover code {
+  background: transparent;
 }
 
 .post-content-body pre {
@@ -736,6 +743,12 @@ a:active {
 
 .post-content-body pre code :not(span) {
   color: inherit;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: center;
 }
 
 .post-content-body .fluid-width-video-wrapper {
