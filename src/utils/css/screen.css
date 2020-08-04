@@ -949,7 +949,7 @@ figcaption,
   stroke: var(--color-white);
 }
 
-text {
+#carie-svg text {
   fill: url(#rainbow-grad);
 }
 
