@@ -27,7 +27,7 @@ const AboutPage = ({ data }, location) => {
           <p>
             Carie Fisher is an author, speaker, and developer who is passionate
             about the intersection of front-end code and UX, digital
-            accessibility, and promoting diversity in the tech world. Currently,
+            accessibility, and diversity in technology. Currently, Carie is
             employed as a Senior Accessibility Consultant and Trainer at{" "}
             <a
               href="https://www.deque.com/"
@@ -35,6 +35,14 @@ const AboutPage = ({ data }, location) => {
               target="_blank"
             >
               Deque Systems
+            </a>{" "}
+            while pursuing her Ph.D. in Human-Computer Interactions at{" "}
+            <a
+              href="http://www.vrac.iastate.edu/hci/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Iowa State University
             </a>
             .
           </p>
@@ -51,7 +59,7 @@ const AboutPage = ({ data }, location) => {
             </a>{" "}
             and{" "}
             <a
-              href="https://www.youtube.com/c/accessibilitytalks"
+              href="http://a11ytalks.com/"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -63,9 +71,9 @@ const AboutPage = ({ data }, location) => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              A11y Cats T-shirt
+              A11y Cats
             </a>
-            , member of the{" "}
+            , and a member of the{" "}
             <a
               href="https://a11yproject.com/"
               rel="noopener noreferrer"
@@ -81,15 +89,7 @@ const AboutPage = ({ data }, location) => {
             >
               24 Accessibility
             </a>{" "}
-            teams, and past team member and mentor for the{" "}
-            <a
-              href="https://air-rallies.org/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              OpenAIR Knowbility Challenge
-            </a>
-            .
+            teams.
           </p>
         </div>
       </article>
