@@ -25,10 +25,10 @@ const AboutPage = ({ data }, location) => {
             <Icon />
           </h1>
           <p>
-            Carie Fisher is an author, speaker, and developer who is passionate
-            about the intersection of front-end code and UX, digital
-            accessibility, and diversity in technology. Currently, Carie is
-            employed as a Senior Accessibility Consultant and Trainer at{" "}
+            I am an author, speaker, and developer who is passionate about the
+            intersection of front-end code and UX, digital accessibility,
+            diversity, and ethics in technology. I keep myself busy working as a
+            Senior Accessibility Consultant and Trainer at{" "}
             <a
               href="https://www.deque.com/"
               rel="noopener noreferrer"
@@ -36,7 +36,7 @@ const AboutPage = ({ data }, location) => {
             >
               Deque Systems
             </a>{" "}
-            while pursuing her Ph.D. in Human-Computer Interactions at{" "}
+            while also pursuing my Ph.D. in Human-Computer Interactions at{" "}
             <a
               href="http://www.vrac.iastate.edu/hci/"
               rel="noopener noreferrer"
@@ -47,17 +47,17 @@ const AboutPage = ({ data }, location) => {
             .
           </p>
           <p>
-            In her spare time, Carie likes to travel, garden, and engage with
-            the accessibility and open source dev communities. She is the
-            creator of the{" "}
+            In my spare time, I like to travel, garden, and engage with the
+            accessibility and open source dev communities. I am the creator of
+            the{" "}
             <a
               href="https://a11y-style-guide.com/style-guide/"
               rel="noopener noreferrer"
               target="_blank"
             >
               Accessibility (A11Y) Style Guide
-            </a>{" "}
-            and{" "}
+            </a>
+            ,{" "}
             <a
               href="http://a11ytalks.com/"
               rel="noopener noreferrer"
