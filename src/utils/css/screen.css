@@ -943,6 +943,11 @@ figcaption,
   stroke-width: 1px;
 }
 
+.social-coffee svg {
+  fill: var(--color-grass);
+  stroke-width: 1px;
+}
+
 #carie-svg {
   stroke-width: 0.5px;
   overflow: visible;
@@ -1162,6 +1167,29 @@ figcaption,
   }
 
   .nav-speak svg {
+    stroke: var(--color-light-base);
+  }
+  .social-twitter svg {
+    stroke: var(--color-light-base);
+  }
+
+  .social-linkedin svg {
+    stroke: var(--color-light-base);
+  }
+
+  .social-notist svg {
+    stroke: var(--color-light-base);
+  }
+
+  .social-github svg {
+    stroke: var(--color-light-base);
+  }
+
+  .social-rss svg {
+    stroke: var(--color-light-base);
+  }
+
+  .social-coffee svg {
     stroke: var(--color-light-base);
   }
 }
