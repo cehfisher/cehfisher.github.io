@@ -50,15 +50,15 @@ const AboutPage = ({ data }, location) => {
             >
               Accessibility (A11Y) Talks
             </a>{" "}
-            virtual meet-up, designer of the{" "}
+            virtual meet-up, and the creator of the{" "}
             <a
               href="https://www.redbubble.com/shop/ap/39136088"
               rel="noopener noreferrer"
               target="_blank"
             >
               A11y Cats
-            </a>
-            .
+            </a>{" "}
+            design.
           </p>
         </div>
       </article>
