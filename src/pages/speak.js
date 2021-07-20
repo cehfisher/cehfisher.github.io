@@ -34,16 +34,20 @@ const AboutPage = ({ data }, location) => {
             Here are some of the places I've been fortunate enough to speak at:
             <ul>
               <li>a11yTO</li>
-              <li>Deque Systems Webinar</li>
-              <li>DrupalCon (multiple years)</li>
-              <li>Drupal camps (various events)</li>
+              <li>ACCESS at Home</li>
+              <li>axe-con</li>
+              <li>Black Girls CODE</li>
+              <li>DrupalCon</li>
+              <li>Drupal camps</li>
+              <li>ID + Type Summit</li>
               <li>ID24</li>
-              <li>Smashing Magazine TV</li>
-              <li>TechAccess Oklahoma</li>
+              <li>Scrimba</li>
+              <li>Smashing Magazine TV/Workshops</li>
+              <li>TechAccess</li>
               <li>WordCamp</li>
               <li>WordPress Campus</li>
               <li>WordSesh</li>
-              <li>additional client training and events</li>
+              <li>many, many additional trainings and events!</li>
             </ul>
           </p>
           <p>

@@ -28,23 +28,8 @@ const AboutPage = ({ data }, location) => {
             I am an author, speaker, and developer who is passionate about the
             intersection of front-end code and UX, digital accessibility,
             diversity, and ethics in technology. I keep myself busy working as a
-            Senior Accessibility Consultant and Trainer at{" "}
-            <a
-              href="https://www.deque.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Deque Systems
-            </a>{" "}
-            while also pursuing my Ph.D. in Human-Computer Interactions at{" "}
-            <a
-              href="http://www.vrac.iastate.edu/hci/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Iowa State University
-            </a>
-            .
+            Senior Accessibility Consultant and Trainer while also pursuing my
+            Ph.D. in Human-Computer Interactions at Iowa State University.
           </p>
           <p>
             In my spare time, I like to travel, garden, and engage with the
@@ -67,29 +52,13 @@ const AboutPage = ({ data }, location) => {
             </a>{" "}
             virtual meet-up, designer of the{" "}
             <a
-              href="https://www.redbubble.com/people/a11ytalks/works/39136088-accessibility-a11y-cats?asc=u&p=triblend-tee"
+              href="https://www.redbubble.com/shop/ap/39136088"
               rel="noopener noreferrer"
               target="_blank"
             >
               A11y Cats
             </a>
-            , and a member of the{" "}
-            <a
-              href="https://a11yproject.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              A11y Project
-            </a>{" "}
-            and{" "}
-            <a
-              href="https://www.24a11y.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              24 Accessibility
-            </a>{" "}
-            teams.
+            .
           </p>
         </div>
       </article>
