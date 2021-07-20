@@ -938,13 +938,13 @@ figcaption,
   stroke-width: 1px;
 }
 
-.social-rss svg {
+.social-coffee svg {
   fill: var(--color-orange);
   stroke-width: 1px;
 }
 
-.social-coffee svg {
-  fill: var(--color-grass);
+.social-rss svg {
+  fill: var(--color-hot-pink);
   stroke-width: 1px;
 }
 
