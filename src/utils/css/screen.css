@@ -454,12 +454,11 @@ body {
   display: flex;
   flex-wrap: wrap;
   clear: both;
-  border: 0.5px solid #000000;
 }
 
 .post-card {
   position: relative;
-  flex: 1 1 50%;
+  flex: 1 1 48%;
   display: flex;
   position: relative;
   height: 35vw;
@@ -467,6 +466,7 @@ body {
   background-size: cover;
   overflow: hidden;
   counter-increment: posts;
+  margin: 0.75rem 1rem;
 }
 
 @media (max-width: 700px) {
@@ -497,7 +497,7 @@ body {
   bottom: 0;
   left: 0;
   color: #fff;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
   opacity: 1;
   transition: opacity 0.5s cubic-bezier(0.33, 0, 0.2, 1);
 }
@@ -1144,14 +1144,6 @@ figcaption,
   .nav-top a svg {
     stroke: var(--color-black);
     color: var(--color-black);
-  }
-
-  .post-feed {
-    border: 0.5px solid #ffffff;
-  }
-
-  .post-card-link {
-    border: 0.01px solid #ffffff;
   }
 
   .nav-about line {
