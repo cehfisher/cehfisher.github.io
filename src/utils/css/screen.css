@@ -483,7 +483,7 @@ body {
 .post-card-link {
   flex: 1 1 auto;
   display: block;
-  border: 0.01px solid #000000;
+  border: 2px solid #000000;
 }
 
 .post-card-content {
@@ -1144,6 +1144,10 @@ figcaption,
   .nav-top a svg {
     stroke: var(--color-black);
     color: var(--color-black);
+  }
+
+  .post-card-link {
+    border: 2px solid #ffffff;
   }
 
   .nav-about line {
