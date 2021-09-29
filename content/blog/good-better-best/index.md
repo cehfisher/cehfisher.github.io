@@ -1,7 +1,7 @@
 ---
 title: Untangling The Complex World Of Accessible Patterns
 date: "2021-03-16"
-thumbnail: ./foods.png
+thumbnail: ./patterns.jpg
 description: How do we know which patterns are good, better, best when it comes to accessibility? Is it better to use an established pattern/library or create new ones? With the myriad of choices available, we can quickly become caught up in a web of confusion on this topic.
 published: Smashing Magazine
 canonical: https://www.smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/
