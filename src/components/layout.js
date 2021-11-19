@@ -16,7 +16,6 @@ import { FiStar } from "react-icons/fi"
 import { FiMic } from "react-icons/fi"
 import { FiHeart } from "react-icons/fi"
 import { FiRss } from "react-icons/fi"
-import { FiCoffee } from "react-icons/fi"
 import Particles from "react-particles-js"
 import $ from "jquery"
 
@@ -235,16 +234,6 @@ class Layout extends React.Component {
               >
                 <FiGithub />
                 <span className="sr-only">Github</span>
-              </a>
-            </li>
-            <li className="social-coffee">
-              <a
-                href="https://www.buymeacoffee.com/cariefisher"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FiCoffee />
-                <span className="sr-only">Buy me a coffee</span>
               </a>
             </li>
             <li className="social-rss">
