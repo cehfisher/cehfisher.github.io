@@ -81,7 +81,7 @@ body {
 }
 @media (max-width: 1100px) {
   .page-head {
-    margin: 1% 0 0 31%;
+    margin: 1% 0 0 28%;
   }
 }
 
@@ -201,7 +201,6 @@ body {
 .site-head li {
   display: block;
   margin: 0;
-  padding: 3px;
 }
 
 .site-head .floatingHeader li {
@@ -212,7 +211,7 @@ body {
 .site-head-right a {
   display: block;
   margin: 0;
-  padding: 8px 10px;
+  padding: 10px 12px;
   color: var(--color-dark-base);
   font-weight: 600;
   font-size: 3rem;
@@ -960,7 +959,7 @@ figcaption,
 }
 
 .snow {
-  height: 75vh;
+  height: 95vh;
   position: absolute;
   z-index: -1;
   width: 125%;
@@ -1109,7 +1108,7 @@ figcaption,
   .site-head-right a {
     display: block;
     margin: 0;
-    padding: 8px 10px;
+    padding: 10px 12px;
     color: var(--color-base);
     font-weight: 600;
   }
