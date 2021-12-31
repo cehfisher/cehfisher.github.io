@@ -25,6 +25,13 @@ const AboutPage = ({ data }, location) => {
             <Icon />
           </h1>
           <p>
+            This website runs a bit more on the wild side for a reason...I
+            wanted to prove that a website can be bold, colorful, AND
+            accessible. Beyond the things you would expect from an accessible
+            website, this one includes both a light and dark mode, plus reduced
+            motion options so everyone can experience it in the way they prefer.
+          </p>
+          <p>
             I am committed to making this website as accessible as possible. I
             am adhering to{" "}
             <a

@@ -4,7 +4,7 @@ date: "2021-09-01"
 thumbnail: ./type.jpg
 description: When you’re designing a page, it’s essential to think about who your audience is — and that your audience may not have the same abilities as you. Making your documents accessible is not just about adding alternative descriptions to images; it’s about thinking through all the ways you can make your design work for as many people as possible.
 published: InDesign Magazine
-canonical: https://creativepro.com/accessible-typography-essentials/
+canonical: https://creativepro.com/accessible-typography-essentials
 pub_date: September 1, 2021
 tags: accessibility, a11y, design, media, patterns, development, typography, layout, content, font, font family, font sizes
 ---
