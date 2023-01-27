@@ -59,7 +59,7 @@ const AboutPage = ({ data }, location) => {
             >
               Accessibility (A11Y) Style Guide
             </a>
-            ,the{" "}
+            , the{" "}
             <a
               href="http://a11ytalks.com/"
               rel="noopener noreferrer"
