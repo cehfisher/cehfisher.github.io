@@ -1,5 +1,5 @@
 ---
-title: Learn Accessibility
+title: Learn Accessibility Course
 date: "2023-01-01"
 thumbnail: ./learn.jpeg
 description: Evergreen accessibility course for beginners
