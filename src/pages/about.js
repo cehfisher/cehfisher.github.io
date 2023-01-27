@@ -37,7 +37,7 @@ const AboutPage = ({ data }, location) => {
             </a>{" "}
             and is a Ph.D. candidate in Human-Computer Interactions at{" "}
             <a
-              href="https://www.iastate.edu"
+              href="http://www.vrac.iastate.edu/hci"
               rel="noopener noreferrer"
               target="_blank"
             >
