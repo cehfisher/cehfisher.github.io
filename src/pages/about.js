@@ -43,7 +43,7 @@ const AboutPage = ({ data }, location) => {
               target="_blank"
             >
               Iowa State University
-            </a>{" "}
+            </a>
             , focusing on XR technology. She is passionate about the
             intersection of front-end code and UX, digital accessibility, and
             diversity in technology.
