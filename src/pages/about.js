@@ -27,10 +27,25 @@ const AboutPage = ({ data }, location) => {
           <p>
             Carie Fisher is an author, speaker, and developer with over 20 years
             of experience in the technology sector. Carie is the Director of
-            Digital Accessibility at Testlio and is a Ph.D. candidate in
-            Human-Computer Interactions at Iowa State University, focusing on XR
-            technology. She is passionate about the intersection of front-end
-            code and UX, digital accessibility, and diversity in technology.
+            Digital Accessibility at{" "}
+            <a
+              href="https://testlio.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Testlio
+            </a>{" "}
+            and is a Ph.D. candidate in Human-Computer Interactions at{" "}
+            <a
+              href="https://www.iastate.edu"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Iowa State University
+            </a>{" "}
+            , focusing on XR technology. She is passionate about the
+            intersection of front-end code and UX, digital accessibility, and
+            diversity in technology.
           </p>
           <p>
             In her spare time, Carie likes to travel, garden, and engage with
@@ -43,7 +58,7 @@ const AboutPage = ({ data }, location) => {
             >
               Accessibility (A11Y) Style Guide
             </a>
-            ,{" "}
+            ,the{" "}
             <a
               href="http://a11ytalks.com/"
               rel="noopener noreferrer"
@@ -51,7 +66,7 @@ const AboutPage = ({ data }, location) => {
             >
               Accessibility (A11Y) Talks
             </a>{" "}
-            virtual meet-up, and the creator of the{" "}
+            virtual meet-up, and is the creator of the{" "}
             <a
               href="https://www.redbubble.com/shop/ap/39136088"
               rel="noopener noreferrer"
