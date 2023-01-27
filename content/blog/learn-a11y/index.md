@@ -1,7 +1,7 @@
 ---
 title: Learn Accessibility
 date: "2023-01-01"
-thumbnail: ./learn.jpg
+thumbnail: ./learn.jpeg
 description: Evergreen accessibility course for beginners
 published: Google web.dev
 canonical: https://web.dev/learn/accessibility
