@@ -26,8 +26,9 @@ const AboutPage = ({ data }, location) => {
           </h1>
           <p>
             Carie Fisher is an author, speaker, and developer with over 20 years
-            of experience in the technology sector. Carie is the Director of
-            Digital Accessibility at{" "}
+            of technical experience helping individuals and companies achieve
+            their digital accessibility goals. Carie is the Director of Digital
+            Accessibility at{" "}
             <a
               href="https://testlio.com"
               rel="noopener noreferrer"
