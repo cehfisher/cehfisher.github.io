@@ -25,7 +25,7 @@ const AboutPage = ({ data }, location) => {
             <Icon />
           </h1>
           <p>
-            Carie Fisher is an author, speaker, and developer with over 20 years
+            Carie Fisher is an author, speaker, and developer with over 15 years
             of technical experience helping individuals and companies achieve
             their digital accessibility goals. Carie is the Director of Digital
             Accessibility at{" "}
