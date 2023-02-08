@@ -86,38 +86,6 @@ const AboutPage = ({ data }, location) => {
             </a>{" "}
             with Google’s web.dev team.
           </p>
-          <p>
-            Find me on
-            <ul>
-              <li>
-                <a
-                  href="https://twitter.com/cariefisher"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/in/cariefisher"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  LinkedIn
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://mstdn.social/@cariefisher"
-                  rel="me"
-                  target="_blank"
-                >
-                  Mastodon
-                </a>
-              </li>
-            </ul>
-          </p>
         </div>
       </article>
     </Layout>
